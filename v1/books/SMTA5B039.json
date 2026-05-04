@@ -1,0 +1,20 @@
+{
+  "schoolLevel": "SM",
+  "studentLevel": "TA5",
+  "bookId": 39,
+  "id": "SMTA5B039",
+  "subjectName": "Prinsip Perakaunan",
+  "displayName": "Prinsip Perakaunan",
+  "silibusCode": "MPEI",
+  "silibusName": "Mata Pelajaran Elektif Ikhtisas",
+  "schoolLevelName": "Sekolah Menengah",
+  "studentLevelName": "Tingkatan 5",
+  "dlpStatus": false,
+  "bookStatus": "Fully Digital",
+  "downloads": {
+    "telegram": "#",
+    "pdf": "#",
+    "gdrive": "#"
+  },
+  "coverColor": "#1abc9c"
+}

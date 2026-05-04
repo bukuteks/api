@@ -1,0 +1,20 @@
+{
+  "schoolLevel": "SM",
+  "studentLevel": "TB3",
+  "bookId": 5,
+  "id": "SMTB3B005",
+  "subjectName": "Bahasa Jepun (Menengah Rendah)",
+  "displayName": "Bahasa Jepun (Menengah Rendah)",
+  "silibusCode": "KSSM",
+  "silibusName": "Kokurikulum Standard Sekolah Menengah",
+  "schoolLevelName": "Sekolah Menengah",
+  "studentLevelName": "Tingkatan 3",
+  "dlpStatus": false,
+  "bookStatus": "Fully Digital",
+  "downloads": {
+    "telegram": "#",
+    "pdf": "#",
+    "gdrive": "#"
+  },
+  "coverColor": "#4a90d9"
+}

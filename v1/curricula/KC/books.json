@@ -1,0 +1,122 @@
+[
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA4",
+    "bookId": 87,
+    "id": "SMTA4B087",
+    "subjectName": "Mingjia Xiaoshuoxuan",
+    "displayName": "Mingjia Xiaoshuoxuan",
+    "silibusCode": "KC",
+    "silibusName": "Kesusasteraan Cina",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 4",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#00bcd4"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA4",
+    "bookId": 88,
+    "id": "SMTA4B088",
+    "subjectName": "Qiyuan",
+    "displayName": "Qiyuan",
+    "silibusCode": "KC",
+    "silibusName": "Kesusasteraan Cina",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 4",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#00bcd4"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA4",
+    "bookId": 89,
+    "id": "SMTA4B089",
+    "subjectName": "Wenxuan",
+    "displayName": "Wenxuan",
+    "silibusCode": "KC",
+    "silibusName": "Kesusasteraan Cina",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 4",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#00bcd4"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA5",
+    "bookId": 84,
+    "id": "SMTA5B084",
+    "subjectName": "Mingjia Xiaoshuoxuan",
+    "displayName": "Mingjia Xiaoshuoxuan",
+    "silibusCode": "KC",
+    "silibusName": "Kesusasteraan Cina",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 5",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#00bcd4"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA5",
+    "bookId": 85,
+    "id": "SMTA5B085",
+    "subjectName": "Qiyuan",
+    "displayName": "Qiyuan",
+    "silibusCode": "KC",
+    "silibusName": "Kesusasteraan Cina",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 5",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#00bcd4"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA5",
+    "bookId": 86,
+    "id": "SMTA5B086",
+    "subjectName": "Wenxuan",
+    "displayName": "Wenxuan",
+    "silibusCode": "KC",
+    "silibusName": "Kesusasteraan Cina",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 5",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#00bcd4"
+  }
+]

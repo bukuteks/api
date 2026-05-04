@@ -1,0 +1,20 @@
+{
+  "schoolLevel": "SM",
+  "studentLevel": "TB1",
+  "bookId": 8,
+  "id": "SMTB1B008",
+  "subjectName": "Bahasa Tamil",
+  "displayName": "Bahasa Tamil",
+  "silibusCode": "KSSM",
+  "silibusName": "Kokurikulum Standard Sekolah Menengah",
+  "schoolLevelName": "Sekolah Menengah",
+  "studentLevelName": "Tingkatan 1",
+  "dlpStatus": false,
+  "bookStatus": "Fully Digital",
+  "downloads": {
+    "telegram": "#",
+    "pdf": "#",
+    "gdrive": "#"
+  },
+  "coverColor": "#4a90d9"
+}

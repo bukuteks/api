@@ -1,0 +1,20 @@
+{
+  "schoolLevel": "SM",
+  "studentLevel": "TA4",
+  "bookId": 15,
+  "id": "SMTA4B015",
+  "subjectName": "Full Blast Plus 4",
+  "displayName": "Full Blast Plus 4",
+  "silibusCode": "KSSM",
+  "silibusName": "Kokurikulum Standard Sekolah Menengah",
+  "schoolLevelName": "Sekolah Menengah",
+  "studentLevelName": "Tingkatan 4",
+  "dlpStatus": false,
+  "bookStatus": "Fully Digital",
+  "downloads": {
+    "telegram": "#",
+    "pdf": "#",
+    "gdrive": "#"
+  },
+  "coverColor": "#4a90d9"
+}

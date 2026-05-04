@@ -1,0 +1,622 @@
+[
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TB3",
+    "bookId": 1,
+    "id": "SMTB3B001",
+    "subjectName": "Asas Sains Komputer",
+    "displayName": "Asas Sains Komputer",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 3",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TB3",
+    "bookId": 2,
+    "id": "SMTB3B002",
+    "subjectName": "Bahasa Arab",
+    "displayName": "Bahasa Arab",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 3",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TB3",
+    "bookId": 3,
+    "id": "SMTB3B003",
+    "subjectName": "Bahasa Cina",
+    "displayName": "Bahasa Cina",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 3",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TB3",
+    "bookId": 4,
+    "id": "SMTB3B004",
+    "subjectName": "Bahasa Iban",
+    "displayName": "Bahasa Iban",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 3",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TB3",
+    "bookId": 5,
+    "id": "SMTB3B005",
+    "subjectName": "Bahasa Jepun (Menengah Rendah)",
+    "displayName": "Bahasa Jepun (Menengah Rendah)",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 3",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TB3",
+    "bookId": 6,
+    "id": "SMTB3B006",
+    "subjectName": "Bahasa Kadazandusun",
+    "displayName": "Bahasa Kadazandusun",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 3",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TB3",
+    "bookId": 7,
+    "id": "SMTB3B007",
+    "subjectName": "Bahasa Melayu",
+    "displayName": "Bahasa Melayu",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 3",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TB3",
+    "bookId": 8,
+    "id": "SMTB3B008",
+    "subjectName": "Bahasa Semai",
+    "displayName": "Bahasa Semai",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 3",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TB3",
+    "bookId": 9,
+    "id": "SMTB3B009",
+    "subjectName": "Bahasa Tamil",
+    "displayName": "Bahasa Tamil",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 3",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TB3",
+    "bookId": 10,
+    "id": "SMTB3B010",
+    "subjectName": "Close-Up B1 Student's Edition",
+    "displayName": "Close-Up B1 Student's Edition",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 3",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TB3",
+    "bookId": 11,
+    "id": "SMTB3B011",
+    "subjectName": "Geografi",
+    "displayName": "Geografi",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 3",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TB3",
+    "bookId": 12,
+    "id": "SMTB3B012",
+    "subjectName": "Matematik",
+    "displayName": "Matematik",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 3",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TB3",
+    "bookId": 13,
+    "id": "SMTB3B013",
+    "subjectName": "Mathematics DLP",
+    "displayName": "Mathematics",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 3",
+    "dlpStatus": true,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TB3",
+    "bookId": 14,
+    "id": "SMTB3B014",
+    "subjectName": "Pendidikan Islam",
+    "displayName": "Pendidikan Islam",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 3",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TB3",
+    "bookId": 15,
+    "id": "SMTB3B015",
+    "subjectName": "Pendidikan Jasmani dan Pendidikan Kesihatan",
+    "displayName": "Pendidikan Jasmani dan Pendidikan Kesihatan",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 3",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TB3",
+    "bookId": 16,
+    "id": "SMTB3B016",
+    "subjectName": "Pendidikan Moral",
+    "displayName": "Pendidikan Moral",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 3",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TB3",
+    "bookId": 17,
+    "id": "SMTB3B017",
+    "subjectName": "Pendidikan Muzik",
+    "displayName": "Pendidikan Muzik",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 3",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TB3",
+    "bookId": 18,
+    "id": "SMTB3B018",
+    "subjectName": "Pendidikan Seni Visual",
+    "displayName": "Pendidikan Seni Visual",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 3",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TB3",
+    "bookId": 19,
+    "id": "SMTB3B019",
+    "subjectName": "Reka Bentuk dan Teknologi",
+    "displayName": "Reka Bentuk dan Teknologi",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 3",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TB3",
+    "bookId": 20,
+    "id": "SMTB3B020",
+    "subjectName": "Sains",
+    "displayName": "Sains",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 3",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TB3",
+    "bookId": 21,
+    "id": "SMTB3B021",
+    "subjectName": "Science DLP",
+    "displayName": "Science",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 3",
+    "dlpStatus": true,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TB3",
+    "bookId": 22,
+    "id": "SMTB3B022",
+    "subjectName": "Sejarah",
+    "displayName": "Sejarah",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 3",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TB3",
+    "bookId": 23,
+    "id": "SMTB3B023",
+    "subjectName": "Al-Lughah Al-Arabiah Al-Muasirah",
+    "displayName": "Al-Lughah Al-Arabiah Al-Muasirah",
+    "silibusCode": "KBDKBT",
+    "silibusName": "Kokurikulum Bersepadu Dini dan Kokurikulum Bersepadu Tahfiz",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 3",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#e67e22"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TB3",
+    "bookId": 24,
+    "id": "SMTB3B024",
+    "subjectName": "Al-Syariah",
+    "displayName": "Al-Syariah",
+    "silibusCode": "KBDKBT",
+    "silibusName": "Kokurikulum Bersepadu Dini dan Kokurikulum Bersepadu Tahfiz",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 3",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#e67e22"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TB3",
+    "bookId": 25,
+    "id": "SMTB3B025",
+    "subjectName": "Daftar Hifz Al-Quran",
+    "displayName": "Daftar Hifz Al-Quran",
+    "silibusCode": "KBDKBT",
+    "silibusName": "Kokurikulum Bersepadu Dini dan Kokurikulum Bersepadu Tahfiz",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 3",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#e67e22"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TB3",
+    "bookId": 26,
+    "id": "SMTB3B026",
+    "subjectName": "Maharat Al-Quran",
+    "displayName": "Maharat Al-Quran",
+    "silibusCode": "KBDKBT",
+    "silibusName": "Kokurikulum Bersepadu Dini dan Kokurikulum Bersepadu Tahfiz",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 3",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#e67e22"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TB3",
+    "bookId": 27,
+    "id": "SMTB3B027",
+    "subjectName": "Usul Al-Din",
+    "displayName": "Usul Al-Din",
+    "silibusCode": "KBDKBT",
+    "silibusName": "Kokurikulum Bersepadu Dini dan Kokurikulum Bersepadu Tahfiz",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 3",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#e67e22"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TB3",
+    "bookId": 28,
+    "id": "SMTB3B028",
+    "subjectName": "Seni Muzik",
+    "displayName": "Seni Muzik",
+    "silibusCode": "SSeM",
+    "silibusName": "Sekolah Seni Malaysia",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 3",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#e91e63"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TB3",
+    "bookId": 29,
+    "id": "SMTB3B029",
+    "subjectName": "Seni Tari",
+    "displayName": "Seni Tari",
+    "silibusCode": "SSeM",
+    "silibusName": "Sekolah Seni Malaysia",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 3",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#e91e63"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TB3",
+    "bookId": 30,
+    "id": "SMTB3B030",
+    "subjectName": "Seni Teater",
+    "displayName": "Seni Teater",
+    "silibusCode": "SSeM",
+    "silibusName": "Sekolah Seni Malaysia",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 3",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#e91e63"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TB3",
+    "bookId": 31,
+    "id": "SMTB3B031",
+    "subjectName": "Seni Visual",
+    "displayName": "Seni Visual",
+    "silibusCode": "SSeM",
+    "silibusName": "Sekolah Seni Malaysia",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 3",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#e91e63"
+  }
+]

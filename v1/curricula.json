@@ -1,0 +1,56 @@
+[
+  {
+    "code": "KBDKBT",
+    "name": "Kokurikulum Bersepadu Dini dan Kokurikulum Bersepadu Tahfiz",
+    "color": "#e67e22",
+    "bookCount": 28
+  },
+  {
+    "code": "KC",
+    "name": "Kesusasteraan Cina",
+    "color": "#00bcd4",
+    "bookCount": 6
+  },
+  {
+    "code": "KSSM",
+    "name": "Kokurikulum Standard Sekolah Menengah",
+    "color": "#4a90d9",
+    "bookCount": 131
+  },
+  {
+    "code": "KSSMPK",
+    "name": "Pendidikan Khas",
+    "color": "#2ecc71",
+    "bookCount": 17
+  },
+  {
+    "code": "MPAK",
+    "name": "Mata Pelajaran Aliran Kebangsaan",
+    "color": "#9b59b6",
+    "bookCount": 8
+  },
+  {
+    "code": "MPEI",
+    "name": "Mata Pelajaran Elektif Ikhtisas",
+    "color": "#1abc9c",
+    "bookCount": 10
+  },
+  {
+    "code": "MPET",
+    "name": "Mata Pelajaran Elektif Teknikal",
+    "color": "#e74c3c",
+    "bookCount": 14
+  },
+  {
+    "code": "MPV",
+    "name": "Mata Pelajaran Vokasional",
+    "color": "#f39c12",
+    "bookCount": 48
+  },
+  {
+    "code": "SSeM",
+    "name": "Sekolah Seni Malaysia",
+    "color": "#e91e63",
+    "bookCount": 18
+  }
+]

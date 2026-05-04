@@ -1,0 +1,20 @@
+{
+  "schoolLevel": "SM",
+  "studentLevel": "TA4",
+  "bookId": 83,
+  "id": "SMTA4B083",
+  "subjectName": "Pengkhususan Seni Muzik",
+  "displayName": "Pengkhususan Seni Muzik",
+  "silibusCode": "SSeM",
+  "silibusName": "Sekolah Seni Malaysia",
+  "schoolLevelName": "Sekolah Menengah",
+  "studentLevelName": "Tingkatan 4",
+  "dlpStatus": false,
+  "bookStatus": "Fully Digital",
+  "downloads": {
+    "telegram": "#",
+    "pdf": "#",
+    "gdrive": "#"
+  },
+  "coverColor": "#e91e63"
+}

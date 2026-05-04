@@ -1,0 +1,20 @@
+{
+  "schoolLevel": "SM",
+  "studentLevel": "TB3",
+  "bookId": 8,
+  "id": "SMTB3B008",
+  "subjectName": "Bahasa Semai",
+  "displayName": "Bahasa Semai",
+  "silibusCode": "KSSM",
+  "silibusName": "Kokurikulum Standard Sekolah Menengah",
+  "schoolLevelName": "Sekolah Menengah",
+  "studentLevelName": "Tingkatan 3",
+  "dlpStatus": false,
+  "bookStatus": "Fully Digital",
+  "downloads": {
+    "telegram": "#",
+    "pdf": "#",
+    "gdrive": "#"
+  },
+  "coverColor": "#4a90d9"
+}

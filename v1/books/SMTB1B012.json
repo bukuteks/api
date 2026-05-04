@@ -1,0 +1,20 @@
+{
+  "schoolLevel": "SM",
+  "studentLevel": "TB1",
+  "bookId": 12,
+  "id": "SMTB1B012",
+  "subjectName": "Mathematics DLP",
+  "displayName": "Mathematics",
+  "silibusCode": "KSSM",
+  "silibusName": "Kokurikulum Standard Sekolah Menengah",
+  "schoolLevelName": "Sekolah Menengah",
+  "studentLevelName": "Tingkatan 1",
+  "dlpStatus": true,
+  "bookStatus": "Fully Digital",
+  "downloads": {
+    "telegram": "#",
+    "pdf": "#",
+    "gdrive": "#"
+  },
+  "coverColor": "#4a90d9"
+}

@@ -1,0 +1,20 @@
+{
+  "schoolLevel": "SM",
+  "studentLevel": "TA4",
+  "bookId": 96,
+  "id": "SMTA4B096",
+  "subjectName": "Pendidikan Sains, Sosial dan Alam Sekitar",
+  "displayName": "Pendidikan Sains, Sosial dan Alam Sekitar",
+  "silibusCode": "KSSMPK",
+  "silibusName": "Pendidikan Khas",
+  "schoolLevelName": "Sekolah Menengah",
+  "studentLevelName": "Tingkatan 4",
+  "dlpStatus": false,
+  "bookStatus": "Fully Digital",
+  "downloads": {
+    "telegram": "#",
+    "pdf": "#",
+    "gdrive": "#"
+  },
+  "coverColor": "#2ecc71"
+}

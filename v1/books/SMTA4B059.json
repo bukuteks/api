@@ -1,0 +1,20 @@
+{
+  "schoolLevel": "SM",
+  "studentLevel": "TA4",
+  "bookId": 59,
+  "id": "SMTA4B059",
+  "subjectName": "Gerontologi Asas dan Geriatrik",
+  "displayName": "Gerontologi Asas dan Geriatrik",
+  "silibusCode": "MPV",
+  "silibusName": "Mata Pelajaran Vokasional",
+  "schoolLevelName": "Sekolah Menengah",
+  "studentLevelName": "Tingkatan 4",
+  "dlpStatus": false,
+  "bookStatus": "Fully Digital",
+  "downloads": {
+    "telegram": "#",
+    "pdf": "#",
+    "gdrive": "#"
+  },
+  "coverColor": "#f39c12"
+}

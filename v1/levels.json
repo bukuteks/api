@@ -1,0 +1,34 @@
+[
+  {
+    "code": "SM",
+    "name": "Sekolah Menengah",
+    "studentLevels": [
+      {
+        "code": "TB1",
+        "name": "Tingkatan 1",
+        "bookCount": 29
+      },
+      {
+        "code": "TB2",
+        "name": "Tingkatan 2",
+        "bookCount": 28
+      },
+      {
+        "code": "TB3",
+        "name": "Tingkatan 3",
+        "bookCount": 31
+      },
+      {
+        "code": "TA4",
+        "name": "Tingkatan 4",
+        "bookCount": 97
+      },
+      {
+        "code": "TA5",
+        "name": "Tingkatan 5",
+        "bookCount": 95
+      }
+    ],
+    "totalBooks": 280
+  }
+]

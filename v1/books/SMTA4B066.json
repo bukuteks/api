@@ -1,0 +1,20 @@
+{
+  "schoolLevel": "SM",
+  "studentLevel": "TA4",
+  "bookId": 66,
+  "id": "SMTA4B066",
+  "subjectName": "Menservis Automobil",
+  "displayName": "Menservis Automobil",
+  "silibusCode": "MPV",
+  "silibusName": "Mata Pelajaran Vokasional",
+  "schoolLevelName": "Sekolah Menengah",
+  "studentLevelName": "Tingkatan 4",
+  "dlpStatus": false,
+  "bookStatus": "Fully Digital",
+  "downloads": {
+    "telegram": "#",
+    "pdf": "#",
+    "gdrive": "#"
+  },
+  "coverColor": "#f39c12"
+}

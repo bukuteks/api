@@ -1,0 +1,20 @@
+{
+  "schoolLevel": "SM",
+  "studentLevel": "TA5",
+  "bookId": 55,
+  "id": "SMTA5B055",
+  "subjectName": "Lukisan Kejuruteraan",
+  "displayName": "Lukisan Kejuruteraan",
+  "silibusCode": "MPET",
+  "silibusName": "Mata Pelajaran Elektif Teknikal",
+  "schoolLevelName": "Sekolah Menengah",
+  "studentLevelName": "Tingkatan 5",
+  "dlpStatus": false,
+  "bookStatus": "Fully Digital",
+  "downloads": {
+    "telegram": "#",
+    "pdf": "#",
+    "gdrive": "#"
+  },
+  "coverColor": "#e74c3c"
+}

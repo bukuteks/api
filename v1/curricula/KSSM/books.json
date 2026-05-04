@@ -1,0 +1,2622 @@
+[
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TB1",
+    "bookId": 1,
+    "id": "SMTB1B001",
+    "subjectName": "Asas Sains Komputer",
+    "displayName": "Asas Sains Komputer",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 1",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TB1",
+    "bookId": 2,
+    "id": "SMTB1B002",
+    "subjectName": "Bahasa Arab",
+    "displayName": "Bahasa Arab",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 1",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TB1",
+    "bookId": 3,
+    "id": "SMTB1B003",
+    "subjectName": "Bahasa Cina",
+    "displayName": "Bahasa Cina",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 1",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TB1",
+    "bookId": 4,
+    "id": "SMTB1B004",
+    "subjectName": "Bahasa Cina Komunikasi",
+    "displayName": "Bahasa Cina Komunikasi",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 1",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TB1",
+    "bookId": 5,
+    "id": "SMTB1B005",
+    "subjectName": "Bahasa Jepun (Menengah Rendah)",
+    "displayName": "Bahasa Jepun (Menengah Rendah)",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 1",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TB1",
+    "bookId": 6,
+    "id": "SMTB1B006",
+    "subjectName": "Bahasa Melayu",
+    "displayName": "Bahasa Melayu",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 1",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TB1",
+    "bookId": 7,
+    "id": "SMTB1B007",
+    "subjectName": "Bahasa Semai",
+    "displayName": "Bahasa Semai",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 1",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TB1",
+    "bookId": 8,
+    "id": "SMTB1B008",
+    "subjectName": "Bahasa Tamil",
+    "displayName": "Bahasa Tamil",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 1",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TB1",
+    "bookId": 9,
+    "id": "SMTB1B009",
+    "subjectName": "English",
+    "displayName": "English",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 1",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TB1",
+    "bookId": 10,
+    "id": "SMTB1B010",
+    "subjectName": "Geografi",
+    "displayName": "Geografi",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 1",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TB1",
+    "bookId": 11,
+    "id": "SMTB1B011",
+    "subjectName": "Matematik",
+    "displayName": "Matematik",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 1",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TB1",
+    "bookId": 12,
+    "id": "SMTB1B012",
+    "subjectName": "Mathematics DLP",
+    "displayName": "Mathematics",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 1",
+    "dlpStatus": true,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TB1",
+    "bookId": 13,
+    "id": "SMTB1B013",
+    "subjectName": "Pendidikan Islam",
+    "displayName": "Pendidikan Islam",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 1",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TB1",
+    "bookId": 14,
+    "id": "SMTB1B014",
+    "subjectName": "Pendidikan Jasmani dan Pendidikan Kesihatan",
+    "displayName": "Pendidikan Jasmani dan Pendidikan Kesihatan",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 1",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TB1",
+    "bookId": 15,
+    "id": "SMTB1B015",
+    "subjectName": "Pendidikan Moral",
+    "displayName": "Pendidikan Moral",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 1",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TB1",
+    "bookId": 16,
+    "id": "SMTB1B016",
+    "subjectName": "Pendidikan Seni Visual",
+    "displayName": "Pendidikan Seni Visual",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 1",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TB1",
+    "bookId": 17,
+    "id": "SMTB1B017",
+    "subjectName": "Pulse 2",
+    "displayName": "Pulse 2",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 1",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TB1",
+    "bookId": 18,
+    "id": "SMTB1B018",
+    "subjectName": "Reka Bentuk dan Teknologi",
+    "displayName": "Reka Bentuk dan Teknologi",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 1",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TB1",
+    "bookId": 19,
+    "id": "SMTB1B019",
+    "subjectName": "Sains",
+    "displayName": "Sains",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 1",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TB1",
+    "bookId": 20,
+    "id": "SMTB1B020",
+    "subjectName": "Science DLP",
+    "displayName": "Science",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 1",
+    "dlpStatus": true,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TB1",
+    "bookId": 21,
+    "id": "SMTB1B021",
+    "subjectName": "Sejarah",
+    "displayName": "Sejarah",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 1",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TB2",
+    "bookId": 1,
+    "id": "SMTB2B001",
+    "subjectName": "Asas Sains Komputer",
+    "displayName": "Asas Sains Komputer",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 2",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TB2",
+    "bookId": 2,
+    "id": "SMTB2B002",
+    "subjectName": "Bahasa Arab",
+    "displayName": "Bahasa Arab",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 2",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TB2",
+    "bookId": 3,
+    "id": "SMTB2B003",
+    "subjectName": "Bahasa Cina",
+    "displayName": "Bahasa Cina",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 2",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TB2",
+    "bookId": 4,
+    "id": "SMTB2B004",
+    "subjectName": "Bahasa Jepun (Menengah Rendah)",
+    "displayName": "Bahasa Jepun (Menengah Rendah)",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 2",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TB2",
+    "bookId": 5,
+    "id": "SMTB2B005",
+    "subjectName": "Bahasa Kadazandusun",
+    "displayName": "Bahasa Kadazandusun",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 2",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TB2",
+    "bookId": 1,
+    "id": "SMTB2B001_2",
+    "subjectName": "Bahasa Melayu",
+    "displayName": "Bahasa Melayu",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 2",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TB2",
+    "bookId": 2,
+    "id": "SMTB2B002_2",
+    "subjectName": "Bahasa Tamil",
+    "displayName": "Bahasa Tamil",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 2",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TB2",
+    "bookId": 3,
+    "id": "SMTB2B003_2",
+    "subjectName": "Geografi",
+    "displayName": "Geografi",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 2",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TB2",
+    "bookId": 4,
+    "id": "SMTB2B004_2",
+    "subjectName": "Matematik",
+    "displayName": "Matematik",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 2",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TB2",
+    "bookId": 5,
+    "id": "SMTB2B005_2",
+    "subjectName": "Mathematics DLP",
+    "displayName": "Mathematics",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 2",
+    "dlpStatus": true,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TB2",
+    "bookId": 6,
+    "id": "SMTB2B006",
+    "subjectName": "Pendidikan Islam",
+    "displayName": "Pendidikan Islam",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 2",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TB2",
+    "bookId": 7,
+    "id": "SMTB2B007",
+    "subjectName": "Pendidikan Jasmani dan Pendidikan Kesihatan",
+    "displayName": "Pendidikan Jasmani dan Pendidikan Kesihatan",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 2",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TB2",
+    "bookId": 8,
+    "id": "SMTB2B008",
+    "subjectName": "Pendidikan Muzik",
+    "displayName": "Pendidikan Muzik",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 2",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TB2",
+    "bookId": 9,
+    "id": "SMTB2B009",
+    "subjectName": "Pendidikan Seni Visual",
+    "displayName": "Pendidikan Seni Visual",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 2",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TB2",
+    "bookId": 10,
+    "id": "SMTB2B010",
+    "subjectName": "Pulse 2",
+    "displayName": "Pulse 2",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 2",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TB2",
+    "bookId": 11,
+    "id": "SMTB2B011",
+    "subjectName": "Reka Bentuk dan Teknologi",
+    "displayName": "Reka Bentuk dan Teknologi",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 2",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TB2",
+    "bookId": 12,
+    "id": "SMTB2B012",
+    "subjectName": "Sains",
+    "displayName": "Sains",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 2",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TB2",
+    "bookId": 13,
+    "id": "SMTB2B013",
+    "subjectName": "Science DLP",
+    "displayName": "Science",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 2",
+    "dlpStatus": true,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TB2",
+    "bookId": 14,
+    "id": "SMTB2B014",
+    "subjectName": "Sejarah",
+    "displayName": "Sejarah",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 2",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TB3",
+    "bookId": 1,
+    "id": "SMTB3B001",
+    "subjectName": "Asas Sains Komputer",
+    "displayName": "Asas Sains Komputer",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 3",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TB3",
+    "bookId": 2,
+    "id": "SMTB3B002",
+    "subjectName": "Bahasa Arab",
+    "displayName": "Bahasa Arab",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 3",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TB3",
+    "bookId": 3,
+    "id": "SMTB3B003",
+    "subjectName": "Bahasa Cina",
+    "displayName": "Bahasa Cina",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 3",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TB3",
+    "bookId": 4,
+    "id": "SMTB3B004",
+    "subjectName": "Bahasa Iban",
+    "displayName": "Bahasa Iban",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 3",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TB3",
+    "bookId": 5,
+    "id": "SMTB3B005",
+    "subjectName": "Bahasa Jepun (Menengah Rendah)",
+    "displayName": "Bahasa Jepun (Menengah Rendah)",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 3",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TB3",
+    "bookId": 6,
+    "id": "SMTB3B006",
+    "subjectName": "Bahasa Kadazandusun",
+    "displayName": "Bahasa Kadazandusun",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 3",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TB3",
+    "bookId": 7,
+    "id": "SMTB3B007",
+    "subjectName": "Bahasa Melayu",
+    "displayName": "Bahasa Melayu",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 3",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TB3",
+    "bookId": 8,
+    "id": "SMTB3B008",
+    "subjectName": "Bahasa Semai",
+    "displayName": "Bahasa Semai",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 3",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TB3",
+    "bookId": 9,
+    "id": "SMTB3B009",
+    "subjectName": "Bahasa Tamil",
+    "displayName": "Bahasa Tamil",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 3",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TB3",
+    "bookId": 10,
+    "id": "SMTB3B010",
+    "subjectName": "Close-Up B1 Student's Edition",
+    "displayName": "Close-Up B1 Student's Edition",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 3",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TB3",
+    "bookId": 11,
+    "id": "SMTB3B011",
+    "subjectName": "Geografi",
+    "displayName": "Geografi",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 3",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TB3",
+    "bookId": 12,
+    "id": "SMTB3B012",
+    "subjectName": "Matematik",
+    "displayName": "Matematik",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 3",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TB3",
+    "bookId": 13,
+    "id": "SMTB3B013",
+    "subjectName": "Mathematics DLP",
+    "displayName": "Mathematics",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 3",
+    "dlpStatus": true,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TB3",
+    "bookId": 14,
+    "id": "SMTB3B014",
+    "subjectName": "Pendidikan Islam",
+    "displayName": "Pendidikan Islam",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 3",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TB3",
+    "bookId": 15,
+    "id": "SMTB3B015",
+    "subjectName": "Pendidikan Jasmani dan Pendidikan Kesihatan",
+    "displayName": "Pendidikan Jasmani dan Pendidikan Kesihatan",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 3",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TB3",
+    "bookId": 16,
+    "id": "SMTB3B016",
+    "subjectName": "Pendidikan Moral",
+    "displayName": "Pendidikan Moral",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 3",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TB3",
+    "bookId": 17,
+    "id": "SMTB3B017",
+    "subjectName": "Pendidikan Muzik",
+    "displayName": "Pendidikan Muzik",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 3",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TB3",
+    "bookId": 18,
+    "id": "SMTB3B018",
+    "subjectName": "Pendidikan Seni Visual",
+    "displayName": "Pendidikan Seni Visual",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 3",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TB3",
+    "bookId": 19,
+    "id": "SMTB3B019",
+    "subjectName": "Reka Bentuk dan Teknologi",
+    "displayName": "Reka Bentuk dan Teknologi",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 3",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TB3",
+    "bookId": 20,
+    "id": "SMTB3B020",
+    "subjectName": "Sains",
+    "displayName": "Sains",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 3",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TB3",
+    "bookId": 21,
+    "id": "SMTB3B021",
+    "subjectName": "Science DLP",
+    "displayName": "Science",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 3",
+    "dlpStatus": true,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TB3",
+    "bookId": 22,
+    "id": "SMTB3B022",
+    "subjectName": "Sejarah",
+    "displayName": "Sejarah",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 3",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA4",
+    "bookId": 1,
+    "id": "SMTA4B001",
+    "subjectName": "Additional Mathematics DLP",
+    "displayName": "Additional Mathematics",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 4",
+    "dlpStatus": true,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA4",
+    "bookId": 2,
+    "id": "SMTA4B002",
+    "subjectName": "Additional Science DLP",
+    "displayName": "Additional Science",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 4",
+    "dlpStatus": true,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA4",
+    "bookId": 3,
+    "id": "SMTA4B003",
+    "subjectName": "Bahasa Arab",
+    "displayName": "Bahasa Arab",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 4",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA4",
+    "bookId": 4,
+    "id": "SMTA4B004",
+    "subjectName": "Bahasa Cina",
+    "displayName": "Bahasa Cina",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 4",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA4",
+    "bookId": 5,
+    "id": "SMTA4B005",
+    "subjectName": "Bahasa Iban",
+    "displayName": "Bahasa Iban",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 4",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA4",
+    "bookId": 6,
+    "id": "SMTA4B006",
+    "subjectName": "Bahasa Jepun Tingkatan 4 dan 5",
+    "displayName": "Bahasa Jepun Tingkatan 4 dan 5",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 4",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA4",
+    "bookId": 7,
+    "id": "SMTA4B007",
+    "subjectName": "Bahasa Kadazandusun",
+    "displayName": "Bahasa Kadazandusun",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 4",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA4",
+    "bookId": 8,
+    "id": "SMTA4B008",
+    "subjectName": "Bahasa Melayu",
+    "displayName": "Bahasa Melayu",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 4",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA4",
+    "bookId": 9,
+    "id": "SMTA4B009",
+    "subjectName": "Bahasa Semai",
+    "displayName": "Bahasa Semai",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 4",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA4",
+    "bookId": 10,
+    "id": "SMTA4B010",
+    "subjectName": "Bahasa Tamil",
+    "displayName": "Bahasa Tamil",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 4",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA4",
+    "bookId": 11,
+    "id": "SMTA4B011",
+    "subjectName": "Biologi",
+    "displayName": "Biologi",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 4",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA4",
+    "bookId": 12,
+    "id": "SMTA4B012",
+    "subjectName": "Biology DLP",
+    "displayName": "Biology",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 4",
+    "dlpStatus": true,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA4",
+    "bookId": 13,
+    "id": "SMTA4B013",
+    "subjectName": "Chemistry DLP",
+    "displayName": "Chemistry",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 4",
+    "dlpStatus": true,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA4",
+    "bookId": 14,
+    "id": "SMTA4B014",
+    "subjectName": "Fizik",
+    "displayName": "Fizik",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 4",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA4",
+    "bookId": 15,
+    "id": "SMTA4B015",
+    "subjectName": "Full Blast Plus 4",
+    "displayName": "Full Blast Plus 4",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 4",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA4",
+    "bookId": 16,
+    "id": "SMTA4B016",
+    "subjectName": "Geografi",
+    "displayName": "Geografi",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 4",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA4",
+    "bookId": 17,
+    "id": "SMTA4B017",
+    "subjectName": "Kimia",
+    "displayName": "Kimia",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 4",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA4",
+    "bookId": 18,
+    "id": "SMTA4B018",
+    "subjectName": "Matematik",
+    "displayName": "Matematik",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 4",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA4",
+    "bookId": 19,
+    "id": "SMTA4B019",
+    "subjectName": "Matematik Tambahan",
+    "displayName": "Matematik Tambahan",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 4",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA4",
+    "bookId": 20,
+    "id": "SMTA4B020",
+    "subjectName": "Mathematics DLP",
+    "displayName": "Mathematics",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 4",
+    "dlpStatus": true,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA4",
+    "bookId": 21,
+    "id": "SMTA4B021",
+    "subjectName": "Pendidikan Al-Quran dan Al-Sunnah",
+    "displayName": "Pendidikan Al-Quran dan Al-Sunnah",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 4",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA4",
+    "bookId": 22,
+    "id": "SMTA4B022",
+    "subjectName": "Pendidikan Islam",
+    "displayName": "Pendidikan Islam",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 4",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA4",
+    "bookId": 23,
+    "id": "SMTA4B023",
+    "subjectName": "Pendidikan Jasmani dan Pendidikan Kesihatan",
+    "displayName": "Pendidikan Jasmani dan Pendidikan Kesihatan",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 4",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA4",
+    "bookId": 24,
+    "id": "SMTA4B024",
+    "subjectName": "Pendidikan Moral",
+    "displayName": "Pendidikan Moral",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 4",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA4",
+    "bookId": 25,
+    "id": "SMTA4B025",
+    "subjectName": "Pendidikan Muzik",
+    "displayName": "Pendidikan Muzik",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 4",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA4",
+    "bookId": 26,
+    "id": "SMTA4B026",
+    "subjectName": "Pendidikan Seni Visual",
+    "displayName": "Pendidikan Seni Visual",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 4",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA4",
+    "bookId": 27,
+    "id": "SMTA4B027",
+    "subjectName": "Pendidikan Syariah Islamiyah",
+    "displayName": "Pendidikan Syariah Islamiyah",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 4",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA4",
+    "bookId": 28,
+    "id": "SMTA4B028",
+    "subjectName": "Physics DLP",
+    "displayName": "Physics",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 4",
+    "dlpStatus": true,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA4",
+    "bookId": 29,
+    "id": "SMTA4B029",
+    "subjectName": "Prinsip Perakaunan",
+    "displayName": "Prinsip Perakaunan",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 4",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA4",
+    "bookId": 30,
+    "id": "SMTA4B030",
+    "subjectName": "Reka Cipta",
+    "displayName": "Reka Cipta",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 4",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA4",
+    "bookId": 31,
+    "id": "SMTA4B031",
+    "subjectName": "Sains",
+    "displayName": "Sains",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 4",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA4",
+    "bookId": 32,
+    "id": "SMTA4B032",
+    "subjectName": "Sains",
+    "displayName": "Sains",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 4",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA4",
+    "bookId": 33,
+    "id": "SMTA4B033",
+    "subjectName": "Sains Tambahan",
+    "displayName": "Sains Tambahan",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 4",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA4",
+    "bookId": 34,
+    "id": "SMTA4B034",
+    "subjectName": "Science DLP",
+    "displayName": "Science",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 4",
+    "dlpStatus": true,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA4",
+    "bookId": 35,
+    "id": "SMTA4B035",
+    "subjectName": "Sejarah",
+    "displayName": "Sejarah",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 4",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA4",
+    "bookId": 36,
+    "id": "SMTA4B036",
+    "subjectName": "Tasawwur Islam",
+    "displayName": "Tasawwur Islam",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 4",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA5",
+    "bookId": 1,
+    "id": "SMTA5B001",
+    "subjectName": "Additional Mathematics DLP",
+    "displayName": "Additional Mathematics",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 5",
+    "dlpStatus": true,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA5",
+    "bookId": 2,
+    "id": "SMTA5B002",
+    "subjectName": "Additional Science DLP",
+    "displayName": "Additional Science",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 5",
+    "dlpStatus": true,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA5",
+    "bookId": 3,
+    "id": "SMTA5B003",
+    "subjectName": "Bahasa Arab",
+    "displayName": "Bahasa Arab",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 5",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA5",
+    "bookId": 4,
+    "id": "SMTA5B004",
+    "subjectName": "Bahasa Cina",
+    "displayName": "Bahasa Cina",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 5",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA5",
+    "bookId": 5,
+    "id": "SMTA5B005",
+    "subjectName": "Bahasa Iban",
+    "displayName": "Bahasa Iban",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 5",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA5",
+    "bookId": 6,
+    "id": "SMTA5B006",
+    "subjectName": "Bahasa Jepun Tingkatan 4 dan 5",
+    "displayName": "Bahasa Jepun Tingkatan 4 dan 5",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 5",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA5",
+    "bookId": 7,
+    "id": "SMTA5B007",
+    "subjectName": "Bahasa Kadazandusun",
+    "displayName": "Bahasa Kadazandusun",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 5",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA5",
+    "bookId": 8,
+    "id": "SMTA5B008",
+    "subjectName": "Bahasa Melayu",
+    "displayName": "Bahasa Melayu",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 5",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA5",
+    "bookId": 9,
+    "id": "SMTA5B009",
+    "subjectName": "Bahasa Semai",
+    "displayName": "Bahasa Semai",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 5",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA5",
+    "bookId": 10,
+    "id": "SMTA5B010",
+    "subjectName": "Bahasa Tamil",
+    "displayName": "Bahasa Tamil",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 5",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA5",
+    "bookId": 11,
+    "id": "SMTA5B011",
+    "subjectName": "Biologi",
+    "displayName": "Biologi",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 5",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA5",
+    "bookId": 12,
+    "id": "SMTA5B012",
+    "subjectName": "Biology DLP",
+    "displayName": "Biology",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 5",
+    "dlpStatus": true,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA5",
+    "bookId": 13,
+    "id": "SMTA5B013",
+    "subjectName": "Chemistry DLP",
+    "displayName": "Chemistry",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 5",
+    "dlpStatus": true,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA5",
+    "bookId": 14,
+    "id": "SMTA5B014",
+    "subjectName": "English Download",
+    "displayName": "English Download",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 5",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA5",
+    "bookId": 15,
+    "id": "SMTA5B015",
+    "subjectName": "Fizik",
+    "displayName": "Fizik",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 5",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA5",
+    "bookId": 16,
+    "id": "SMTA5B016",
+    "subjectName": "Geografi",
+    "displayName": "Geografi",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 5",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA5",
+    "bookId": 17,
+    "id": "SMTA5B017",
+    "subjectName": "Kimia",
+    "displayName": "Kimia",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 5",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA5",
+    "bookId": 18,
+    "id": "SMTA5B018",
+    "subjectName": "Matematik",
+    "displayName": "Matematik",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 5",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA5",
+    "bookId": 19,
+    "id": "SMTA5B019",
+    "subjectName": "Matematik Tambahan",
+    "displayName": "Matematik Tambahan",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 5",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA5",
+    "bookId": 20,
+    "id": "SMTA5B020",
+    "subjectName": "Mathematics DLP",
+    "displayName": "Mathematics",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 5",
+    "dlpStatus": true,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA5",
+    "bookId": 21,
+    "id": "SMTA5B021",
+    "subjectName": "Pendidikan Al-Quran dan Al-Sunnah",
+    "displayName": "Pendidikan Al-Quran dan Al-Sunnah",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 5",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA5",
+    "bookId": 22,
+    "id": "SMTA5B022",
+    "subjectName": "Pendidikan Islam",
+    "displayName": "Pendidikan Islam",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 5",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA5",
+    "bookId": 23,
+    "id": "SMTA5B023",
+    "subjectName": "Pendidikan Jasmani dan Pendidikan Kesihatan",
+    "displayName": "Pendidikan Jasmani dan Pendidikan Kesihatan",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 5",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA5",
+    "bookId": 24,
+    "id": "SMTA5B024",
+    "subjectName": "Pendidikan Moral",
+    "displayName": "Pendidikan Moral",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 5",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA5",
+    "bookId": 25,
+    "id": "SMTA5B025",
+    "subjectName": "Pendidikan Muzik",
+    "displayName": "Pendidikan Muzik",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 5",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA5",
+    "bookId": 26,
+    "id": "SMTA5B026",
+    "subjectName": "Pendidikan Seni Visual",
+    "displayName": "Pendidikan Seni Visual",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 5",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA5",
+    "bookId": 27,
+    "id": "SMTA5B027",
+    "subjectName": "Pendidikan Syariah Islamiyah",
+    "displayName": "Pendidikan Syariah Islamiyah",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 5",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA5",
+    "bookId": 28,
+    "id": "SMTA5B028",
+    "subjectName": "Physics DLP",
+    "displayName": "Physics",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 5",
+    "dlpStatus": true,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA5",
+    "bookId": 29,
+    "id": "SMTA5B029",
+    "subjectName": "Sains",
+    "displayName": "Sains",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 5",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA5",
+    "bookId": 30,
+    "id": "SMTA5B030",
+    "subjectName": "Sains Tambahan",
+    "displayName": "Sains Tambahan",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 5",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA5",
+    "bookId": 31,
+    "id": "SMTA5B031",
+    "subjectName": "Science DLP",
+    "displayName": "Science",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 5",
+    "dlpStatus": true,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA5",
+    "bookId": 32,
+    "id": "SMTA5B032",
+    "subjectName": "Sejarah",
+    "displayName": "Sejarah",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 5",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA5",
+    "bookId": 33,
+    "id": "SMTA5B033",
+    "subjectName": "Tasawwur Islam",
+    "displayName": "Tasawwur Islam",
+    "silibusCode": "KSSM",
+    "silibusName": "Kokurikulum Standard Sekolah Menengah",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 5",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#4a90d9"
+  }
+]

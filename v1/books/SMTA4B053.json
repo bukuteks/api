@@ -1,0 +1,20 @@
+{
+  "schoolLevel": "SM",
+  "studentLevel": "TA4",
+  "bookId": 53,
+  "id": "SMTA4B053",
+  "subjectName": "Reka Cipta",
+  "displayName": "Reka Cipta",
+  "silibusCode": "MPET",
+  "silibusName": "Mata Pelajaran Elektif Teknikal",
+  "schoolLevelName": "Sekolah Menengah",
+  "studentLevelName": "Tingkatan 4",
+  "dlpStatus": false,
+  "bookStatus": "Fully Digital",
+  "downloads": {
+    "telegram": "#",
+    "pdf": "#",
+    "gdrive": "#"
+  },
+  "coverColor": "#e74c3c"
+}

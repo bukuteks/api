@@ -1,0 +1,20 @@
+{
+  "schoolLevel": "SM",
+  "studentLevel": "TA5",
+  "bookId": 71,
+  "id": "SMTA5B071",
+  "subjectName": "Menservis Penyejuk dan Penyaman Udara",
+  "displayName": "Menservis Penyejuk dan Penyaman Udara",
+  "silibusCode": "MPV",
+  "silibusName": "Mata Pelajaran Vokasional",
+  "schoolLevelName": "Sekolah Menengah",
+  "studentLevelName": "Tingkatan 5",
+  "dlpStatus": false,
+  "bookStatus": "Fully Digital",
+  "downloads": {
+    "telegram": "#",
+    "pdf": "#",
+    "gdrive": "#"
+  },
+  "coverColor": "#f39c12"
+}

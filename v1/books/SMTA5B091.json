@@ -1,0 +1,20 @@
+{
+  "schoolLevel": "SM",
+  "studentLevel": "TA5",
+  "bookId": 91,
+  "id": "SMTA5B091",
+  "subjectName": "Pendidikan Jasmani dan Pendidikan Kesihatan",
+  "displayName": "Pendidikan Jasmani dan Pendidikan Kesihatan",
+  "silibusCode": "KSSMPK",
+  "silibusName": "Pendidikan Khas",
+  "schoolLevelName": "Sekolah Menengah",
+  "studentLevelName": "Tingkatan 5",
+  "dlpStatus": false,
+  "bookStatus": "Fully Digital",
+  "downloads": {
+    "telegram": "#",
+    "pdf": "#",
+    "gdrive": "#"
+  },
+  "coverColor": "#2ecc71"
+}

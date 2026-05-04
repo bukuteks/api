@@ -1,0 +1,20 @@
+{
+  "schoolLevel": "SM",
+  "studentLevel": "TA5",
+  "bookId": 59,
+  "id": "SMTA5B059",
+  "subjectName": "Pengajian Keusahawanan",
+  "displayName": "Pengajian Keusahawanan",
+  "silibusCode": "MPET",
+  "silibusName": "Mata Pelajaran Elektif Teknikal",
+  "schoolLevelName": "Sekolah Menengah",
+  "studentLevelName": "Tingkatan 5",
+  "dlpStatus": false,
+  "bookStatus": "Fully Digital",
+  "downloads": {
+    "telegram": "#",
+    "pdf": "#",
+    "gdrive": "#"
+  },
+  "coverColor": "#e74c3c"
+}

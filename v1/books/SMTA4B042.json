@@ -1,0 +1,20 @@
+{
+  "schoolLevel": "SM",
+  "studentLevel": "TA4",
+  "bookId": 42,
+  "id": "SMTA4B042",
+  "subjectName": "Manahij Al-Ulum Al-Islamiyah",
+  "displayName": "Manahij Al-Ulum Al-Islamiyah",
+  "silibusCode": "KBDKBT",
+  "silibusName": "Kokurikulum Bersepadu Dini dan Kokurikulum Bersepadu Tahfiz",
+  "schoolLevelName": "Sekolah Menengah",
+  "studentLevelName": "Tingkatan 4",
+  "dlpStatus": false,
+  "bookStatus": "Fully Digital",
+  "downloads": {
+    "telegram": "#",
+    "pdf": "#",
+    "gdrive": "#"
+  },
+  "coverColor": "#e67e22"
+}

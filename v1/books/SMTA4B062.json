@@ -1,0 +1,20 @@
+{
+  "schoolLevel": "SM",
+  "studentLevel": "TA4",
+  "bookId": 62,
+  "id": "SMTA4B062",
+  "subjectName": "Kerja Paip Domestik",
+  "displayName": "Kerja Paip Domestik",
+  "silibusCode": "MPV",
+  "silibusName": "Mata Pelajaran Vokasional",
+  "schoolLevelName": "Sekolah Menengah",
+  "studentLevelName": "Tingkatan 4",
+  "dlpStatus": false,
+  "bookStatus": "Fully Digital",
+  "downloads": {
+    "telegram": "#",
+    "pdf": "#",
+    "gdrive": "#"
+  },
+  "coverColor": "#f39c12"
+}

@@ -1,0 +1,20 @@
+{
+  "schoolLevel": "SM",
+  "studentLevel": "TA5",
+  "bookId": 95,
+  "id": "SMTA5B095",
+  "subjectName": "Pendidikan Seni Visual",
+  "displayName": "Pendidikan Seni Visual",
+  "silibusCode": "KSSMPK",
+  "silibusName": "Pendidikan Khas",
+  "schoolLevelName": "Sekolah Menengah",
+  "studentLevelName": "Tingkatan 5",
+  "dlpStatus": false,
+  "bookStatus": "Fully Digital",
+  "downloads": {
+    "telegram": "#",
+    "pdf": "#",
+    "gdrive": "#"
+  },
+  "coverColor": "#2ecc71"
+}

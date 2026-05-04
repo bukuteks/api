@@ -1,0 +1,20 @@
+{
+  "schoolLevel": "SM",
+  "studentLevel": "TB1",
+  "bookId": 27,
+  "id": "SMTB1B027",
+  "subjectName": "Seni Tari",
+  "displayName": "Seni Tari",
+  "silibusCode": "SSeM",
+  "silibusName": "Sekolah Seni Malaysia",
+  "schoolLevelName": "Sekolah Menengah",
+  "studentLevelName": "Tingkatan 1",
+  "dlpStatus": false,
+  "bookStatus": "Fully Digital",
+  "downloads": {
+    "telegram": "#",
+    "pdf": "#",
+    "gdrive": "#"
+  },
+  "coverColor": "#e91e63"
+}

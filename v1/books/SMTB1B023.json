@@ -1,0 +1,20 @@
+{
+  "schoolLevel": "SM",
+  "studentLevel": "TB1",
+  "bookId": 23,
+  "id": "SMTB1B023",
+  "subjectName": "Daftar Hifz Al-Quran",
+  "displayName": "Daftar Hifz Al-Quran",
+  "silibusCode": "KBDKBT",
+  "silibusName": "Kokurikulum Bersepadu Dini dan Kokurikulum Bersepadu Tahfiz",
+  "schoolLevelName": "Sekolah Menengah",
+  "studentLevelName": "Tingkatan 1",
+  "dlpStatus": false,
+  "bookStatus": "Fully Digital",
+  "downloads": {
+    "telegram": "#",
+    "pdf": "#",
+    "gdrive": "#"
+  },
+  "coverColor": "#e67e22"
+}

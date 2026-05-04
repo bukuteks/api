@@ -1,0 +1,962 @@
+[
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA4",
+    "bookId": 57,
+    "id": "SMTA4B057",
+    "subjectName": "Akuakultur dan Haiwan Rekreasi",
+    "displayName": "Akuakultur dan Haiwan Rekreasi",
+    "silibusCode": "MPV",
+    "silibusName": "Mata Pelajaran Vokasional",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 4",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#f39c12"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA4",
+    "bookId": 58,
+    "id": "SMTA4B058",
+    "subjectName": "Asuhan dan Pendidikan Awal Kanak-Kanak",
+    "displayName": "Asuhan dan Pendidikan Awal Kanak-Kanak",
+    "silibusCode": "MPV",
+    "silibusName": "Mata Pelajaran Vokasional",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 4",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#f39c12"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA4",
+    "bookId": 59,
+    "id": "SMTA4B059",
+    "subjectName": "Gerontologi Asas dan Geriatrik",
+    "displayName": "Gerontologi Asas dan Geriatrik",
+    "silibusCode": "MPV",
+    "silibusName": "Mata Pelajaran Vokasional",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 4",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#f39c12"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA4",
+    "bookId": 60,
+    "id": "SMTA4B060",
+    "subjectName": "Hiasan Dalaman",
+    "displayName": "Hiasan Dalaman",
+    "silibusCode": "MPV",
+    "silibusName": "Mata Pelajaran Vokasional",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 4",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#f39c12"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA4",
+    "bookId": 61,
+    "id": "SMTA4B061",
+    "subjectName": "Katering dan Penyajian",
+    "displayName": "Katering dan Penyajian",
+    "silibusCode": "MPV",
+    "silibusName": "Mata Pelajaran Vokasional",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 4",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#f39c12"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA4",
+    "bookId": 62,
+    "id": "SMTA4B062",
+    "subjectName": "Kerja Paip Domestik",
+    "displayName": "Kerja Paip Domestik",
+    "silibusCode": "MPV",
+    "silibusName": "Mata Pelajaran Vokasional",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 4",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#f39c12"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA4",
+    "bookId": 63,
+    "id": "SMTA4B063",
+    "subjectName": "Kimpalan Arka dan Gas",
+    "displayName": "Kimpalan Arka dan Gas",
+    "silibusCode": "MPV",
+    "silibusName": "Mata Pelajaran Vokasional",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 4",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#f39c12"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA4",
+    "bookId": 64,
+    "id": "SMTA4B064",
+    "subjectName": "Landskap dan Nurseri",
+    "displayName": "Landskap dan Nurseri",
+    "silibusCode": "MPV",
+    "silibusName": "Mata Pelajaran Vokasional",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 4",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#f39c12"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA4",
+    "bookId": 65,
+    "id": "SMTA4B065",
+    "subjectName": "Menservis Automobil",
+    "displayName": "Menservis Automobil",
+    "silibusCode": "MPV",
+    "silibusName": "Mata Pelajaran Vokasional",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 4",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#f39c12"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA4",
+    "bookId": 66,
+    "id": "SMTA4B066",
+    "subjectName": "Menservis Automobil",
+    "displayName": "Menservis Automobil",
+    "silibusCode": "MPV",
+    "silibusName": "Mata Pelajaran Vokasional",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 4",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#f39c12"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA4",
+    "bookId": 67,
+    "id": "SMTA4B067",
+    "subjectName": "Menservis Motosikal",
+    "displayName": "Menservis Motosikal",
+    "silibusCode": "MPV",
+    "silibusName": "Mata Pelajaran Vokasional",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 4",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#f39c12"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA4",
+    "bookId": 68,
+    "id": "SMTA4B068",
+    "subjectName": "Menservis Penyejuk dan Penyaman Udara",
+    "displayName": "Menservis Penyejuk dan Penyaman Udara",
+    "silibusCode": "MPV",
+    "silibusName": "Mata Pelajaran Vokasional",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 4",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#f39c12"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA4",
+    "bookId": 69,
+    "id": "SMTA4B069",
+    "subjectName": "Menservis Peralatan Elektrik Domestik",
+    "displayName": "Menservis Peralatan Elektrik Domestik",
+    "silibusCode": "MPV",
+    "silibusName": "Mata Pelajaran Vokasional",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 4",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#f39c12"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA4",
+    "bookId": 70,
+    "id": "SMTA4B070",
+    "subjectName": "Pembinaan Domestik",
+    "displayName": "Pembinaan Domestik",
+    "silibusCode": "MPV",
+    "silibusName": "Mata Pelajaran Vokasional",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 4",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#f39c12"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA4",
+    "bookId": 71,
+    "id": "SMTA4B071",
+    "subjectName": "Pembuatan Perabot",
+    "displayName": "Pembuatan Perabot",
+    "silibusCode": "MPV",
+    "silibusName": "Mata Pelajaran Vokasional",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 4",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#f39c12"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA4",
+    "bookId": 72,
+    "id": "SMTA4B072",
+    "subjectName": "Pemprosesan Makanan",
+    "displayName": "Pemprosesan Makanan",
+    "silibusCode": "MPV",
+    "silibusName": "Mata Pelajaran Vokasional",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 4",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#f39c12"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA4",
+    "bookId": 73,
+    "id": "SMTA4B073",
+    "subjectName": "Pendawaian Domestik",
+    "displayName": "Pendawaian Domestik",
+    "silibusCode": "MPV",
+    "silibusName": "Mata Pelajaran Vokasional",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 4",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#f39c12"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA4",
+    "bookId": 74,
+    "id": "SMTA4B074",
+    "subjectName": "Penjagaan Muka dan Pengayaan Rambut",
+    "displayName": "Penjagaan Muka dan Pengayaan Rambut",
+    "silibusCode": "MPV",
+    "silibusName": "Mata Pelajaran Vokasional",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 4",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#f39c12"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA4",
+    "bookId": 75,
+    "id": "SMTA4B075",
+    "subjectName": "Produksi Multimedia",
+    "displayName": "Produksi Multimedia",
+    "silibusCode": "MPV",
+    "silibusName": "Mata Pelajaran Vokasional",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 4",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#f39c12"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA4",
+    "bookId": 76,
+    "id": "SMTA4B076",
+    "subjectName": "Produksi Multimedia",
+    "displayName": "Produksi Multimedia",
+    "silibusCode": "MPV",
+    "silibusName": "Mata Pelajaran Vokasional",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 4",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#f39c12"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA4",
+    "bookId": 77,
+    "id": "SMTA4B077",
+    "subjectName": "Produksi Reka Tanda",
+    "displayName": "Produksi Reka Tanda",
+    "silibusCode": "MPV",
+    "silibusName": "Mata Pelajaran Vokasional",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 4",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#f39c12"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA4",
+    "bookId": 78,
+    "id": "SMTA4B078",
+    "subjectName": "Reka Bentik Grafik Digital",
+    "displayName": "Reka Bentik Grafik Digital",
+    "silibusCode": "MPV",
+    "silibusName": "Mata Pelajaran Vokasional",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 4",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#f39c12"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA4",
+    "bookId": 79,
+    "id": "SMTA4B079",
+    "subjectName": "Rekaan dan Jahitan",
+    "displayName": "Rekaan dan Jahitan",
+    "silibusCode": "MPV",
+    "silibusName": "Mata Pelajaran Vokasional",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 4",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#f39c12"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA4",
+    "bookId": 80,
+    "id": "SMTA4B080",
+    "subjectName": "Tanaman Makanan",
+    "displayName": "Tanaman Makanan",
+    "silibusCode": "MPV",
+    "silibusName": "Mata Pelajaran Vokasional",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 4",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#f39c12"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA5",
+    "bookId": 60,
+    "id": "SMTA5B060",
+    "subjectName": "Akuakultur dan Haiwan Rekreasi",
+    "displayName": "Akuakultur dan Haiwan Rekreasi",
+    "silibusCode": "MPV",
+    "silibusName": "Mata Pelajaran Vokasional",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 5",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#f39c12"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA5",
+    "bookId": 61,
+    "id": "SMTA5B061",
+    "subjectName": "Asuhan dan Pendidikan Awal Kanak-Kanak",
+    "displayName": "Asuhan dan Pendidikan Awal Kanak-Kanak",
+    "silibusCode": "MPV",
+    "silibusName": "Mata Pelajaran Vokasional",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 5",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#f39c12"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA5",
+    "bookId": 62,
+    "id": "SMTA5B062",
+    "subjectName": "Gerontologi Asas dan Geriatrik",
+    "displayName": "Gerontologi Asas dan Geriatrik",
+    "silibusCode": "MPV",
+    "silibusName": "Mata Pelajaran Vokasional",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 5",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#f39c12"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA5",
+    "bookId": 63,
+    "id": "SMTA5B063",
+    "subjectName": "Hiasan Dalaman",
+    "displayName": "Hiasan Dalaman",
+    "silibusCode": "MPV",
+    "silibusName": "Mata Pelajaran Vokasional",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 5",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#f39c12"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA5",
+    "bookId": 64,
+    "id": "SMTA5B064",
+    "subjectName": "Katering dan Penyajian",
+    "displayName": "Katering dan Penyajian",
+    "silibusCode": "MPV",
+    "silibusName": "Mata Pelajaran Vokasional",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 5",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#f39c12"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA5",
+    "bookId": 65,
+    "id": "SMTA5B065",
+    "subjectName": "Kerja Paip Domestik",
+    "displayName": "Kerja Paip Domestik",
+    "silibusCode": "MPV",
+    "silibusName": "Mata Pelajaran Vokasional",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 5",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#f39c12"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA5",
+    "bookId": 66,
+    "id": "SMTA5B066",
+    "subjectName": "Kimpalan Arka dan Gas",
+    "displayName": "Kimpalan Arka dan Gas",
+    "silibusCode": "MPV",
+    "silibusName": "Mata Pelajaran Vokasional",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 5",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#f39c12"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA5",
+    "bookId": 67,
+    "id": "SMTA5B067",
+    "subjectName": "Landskap dan Nurseri",
+    "displayName": "Landskap dan Nurseri",
+    "silibusCode": "MPV",
+    "silibusName": "Mata Pelajaran Vokasional",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 5",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#f39c12"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA5",
+    "bookId": 68,
+    "id": "SMTA5B068",
+    "subjectName": "Menservis Automobil",
+    "displayName": "Menservis Automobil",
+    "silibusCode": "MPV",
+    "silibusName": "Mata Pelajaran Vokasional",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 5",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#f39c12"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA5",
+    "bookId": 69,
+    "id": "SMTA5B069",
+    "subjectName": "Menservis Automobil",
+    "displayName": "Menservis Automobil",
+    "silibusCode": "MPV",
+    "silibusName": "Mata Pelajaran Vokasional",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 5",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#f39c12"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA5",
+    "bookId": 70,
+    "id": "SMTA5B070",
+    "subjectName": "Menservis Motosikal",
+    "displayName": "Menservis Motosikal",
+    "silibusCode": "MPV",
+    "silibusName": "Mata Pelajaran Vokasional",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 5",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#f39c12"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA5",
+    "bookId": 71,
+    "id": "SMTA5B071",
+    "subjectName": "Menservis Penyejuk dan Penyaman Udara",
+    "displayName": "Menservis Penyejuk dan Penyaman Udara",
+    "silibusCode": "MPV",
+    "silibusName": "Mata Pelajaran Vokasional",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 5",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#f39c12"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA5",
+    "bookId": 72,
+    "id": "SMTA5B072",
+    "subjectName": "Menservis Peralatan Elektrik Domestik",
+    "displayName": "Menservis Peralatan Elektrik Domestik",
+    "silibusCode": "MPV",
+    "silibusName": "Mata Pelajaran Vokasional",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 5",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#f39c12"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA5",
+    "bookId": 73,
+    "id": "SMTA5B073",
+    "subjectName": "Pembinaan Domestik",
+    "displayName": "Pembinaan Domestik",
+    "silibusCode": "MPV",
+    "silibusName": "Mata Pelajaran Vokasional",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 5",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#f39c12"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA5",
+    "bookId": 74,
+    "id": "SMTA5B074",
+    "subjectName": "Pembuatan Perabot",
+    "displayName": "Pembuatan Perabot",
+    "silibusCode": "MPV",
+    "silibusName": "Mata Pelajaran Vokasional",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 5",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#f39c12"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA5",
+    "bookId": 75,
+    "id": "SMTA5B075",
+    "subjectName": "Pemprosesan Makanan",
+    "displayName": "Pemprosesan Makanan",
+    "silibusCode": "MPV",
+    "silibusName": "Mata Pelajaran Vokasional",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 5",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#f39c12"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA5",
+    "bookId": 76,
+    "id": "SMTA5B076",
+    "subjectName": "Pendawaian Domestik",
+    "displayName": "Pendawaian Domestik",
+    "silibusCode": "MPV",
+    "silibusName": "Mata Pelajaran Vokasional",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 5",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#f39c12"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA5",
+    "bookId": 77,
+    "id": "SMTA5B077",
+    "subjectName": "Penjagaan Muka dan Pengayaan Rambut",
+    "displayName": "Penjagaan Muka dan Pengayaan Rambut",
+    "silibusCode": "MPV",
+    "silibusName": "Mata Pelajaran Vokasional",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 5",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#f39c12"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA5",
+    "bookId": 78,
+    "id": "SMTA5B078",
+    "subjectName": "Produksi Multimedia",
+    "displayName": "Produksi Multimedia",
+    "silibusCode": "MPV",
+    "silibusName": "Mata Pelajaran Vokasional",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 5",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#f39c12"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA5",
+    "bookId": 79,
+    "id": "SMTA5B079",
+    "subjectName": "Produksi Multimedia",
+    "displayName": "Produksi Multimedia",
+    "silibusCode": "MPV",
+    "silibusName": "Mata Pelajaran Vokasional",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 5",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#f39c12"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA5",
+    "bookId": 80,
+    "id": "SMTA5B080",
+    "subjectName": "Produksi Reka Tanda",
+    "displayName": "Produksi Reka Tanda",
+    "silibusCode": "MPV",
+    "silibusName": "Mata Pelajaran Vokasional",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 5",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#f39c12"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA5",
+    "bookId": 81,
+    "id": "SMTA5B081",
+    "subjectName": "Reka Bentik Grafik Digital",
+    "displayName": "Reka Bentik Grafik Digital",
+    "silibusCode": "MPV",
+    "silibusName": "Mata Pelajaran Vokasional",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 5",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#f39c12"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA5",
+    "bookId": 82,
+    "id": "SMTA5B082",
+    "subjectName": "Rekaan dan Jahitan",
+    "displayName": "Rekaan dan Jahitan",
+    "silibusCode": "MPV",
+    "silibusName": "Mata Pelajaran Vokasional",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 5",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#f39c12"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TA5",
+    "bookId": 83,
+    "id": "SMTA5B083",
+    "subjectName": "Tanaman Makanan",
+    "displayName": "Tanaman Makanan",
+    "silibusCode": "MPV",
+    "silibusName": "Mata Pelajaran Vokasional",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 5",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#f39c12"
+  }
+]

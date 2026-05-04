@@ -1,0 +1,20 @@
+{
+  "schoolLevel": "SM",
+  "studentLevel": "TA4",
+  "bookId": 81,
+  "id": "SMTA4B081",
+  "subjectName": "Pengkhususan Rekabentuk Industri dan Kraf",
+  "displayName": "Pengkhususan Rekabentuk Industri dan Kraf",
+  "silibusCode": "SSeM",
+  "silibusName": "Sekolah Seni Malaysia",
+  "schoolLevelName": "Sekolah Menengah",
+  "studentLevelName": "Tingkatan 4",
+  "dlpStatus": false,
+  "bookStatus": "Fully Digital",
+  "downloads": {
+    "telegram": "#",
+    "pdf": "#",
+    "gdrive": "#"
+  },
+  "coverColor": "#e91e63"
+}

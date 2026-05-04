@@ -1,0 +1,20 @@
+{
+  "schoolLevel": "SM",
+  "studentLevel": "TA4",
+  "bookId": 90,
+  "id": "SMTA4B090",
+  "subjectName": "Bahasa Melayu Komunikasi",
+  "displayName": "Bahasa Melayu Komunikasi",
+  "silibusCode": "KSSMPK",
+  "silibusName": "Pendidikan Khas",
+  "schoolLevelName": "Sekolah Menengah",
+  "studentLevelName": "Tingkatan 4",
+  "dlpStatus": false,
+  "bookStatus": "Fully Digital",
+  "downloads": {
+    "telegram": "#",
+    "pdf": "#",
+    "gdrive": "#"
+  },
+  "coverColor": "#2ecc71"
+}

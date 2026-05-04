@@ -1,0 +1,20 @@
+{
+  "schoolLevel": "SM",
+  "studentLevel": "TA5",
+  "bookId": 90,
+  "id": "SMTA5B090",
+  "subjectName": "Pendidikan Islam",
+  "displayName": "Pendidikan Islam",
+  "silibusCode": "KSSMPK",
+  "silibusName": "Pendidikan Khas",
+  "schoolLevelName": "Sekolah Menengah",
+  "studentLevelName": "Tingkatan 5",
+  "dlpStatus": false,
+  "bookStatus": "Fully Digital",
+  "downloads": {
+    "telegram": "#",
+    "pdf": "#",
+    "gdrive": "#"
+  },
+  "coverColor": "#2ecc71"
+}

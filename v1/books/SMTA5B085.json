@@ -1,0 +1,20 @@
+{
+  "schoolLevel": "SM",
+  "studentLevel": "TA5",
+  "bookId": 85,
+  "id": "SMTA5B085",
+  "subjectName": "Qiyuan",
+  "displayName": "Qiyuan",
+  "silibusCode": "KC",
+  "silibusName": "Kesusasteraan Cina",
+  "schoolLevelName": "Sekolah Menengah",
+  "studentLevelName": "Tingkatan 5",
+  "dlpStatus": false,
+  "bookStatus": "Fully Digital",
+  "downloads": {
+    "telegram": "#",
+    "pdf": "#",
+    "gdrive": "#"
+  },
+  "coverColor": "#00bcd4"
+}
