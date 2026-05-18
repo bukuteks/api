@@ -683,7 +683,7 @@
     "schoolLevel": "SM",
     "studentLevel": "TB2",
     "bookId": 1,
-    "id": "SMTB2B001_2",
+    "id": "SMTB2B001",
     "subjectName": "Bahasa Melayu",
     "displayName": "Bahasa Melayu",
     "silibusCode": "KSSM",
@@ -703,7 +703,7 @@
     "schoolLevel": "SM",
     "studentLevel": "TB2",
     "bookId": 2,
-    "id": "SMTB2B002_2",
+    "id": "SMTB2B002",
     "subjectName": "Bahasa Tamil",
     "displayName": "Bahasa Tamil",
     "silibusCode": "KSSM",
@@ -723,7 +723,7 @@
     "schoolLevel": "SM",
     "studentLevel": "TB2",
     "bookId": 3,
-    "id": "SMTB2B003_2",
+    "id": "SMTB2B003",
     "subjectName": "Geografi",
     "displayName": "Geografi",
     "silibusCode": "KSSM",
@@ -743,7 +743,7 @@
     "schoolLevel": "SM",
     "studentLevel": "TB2",
     "bookId": 4,
-    "id": "SMTB2B004_2",
+    "id": "SMTB2B004",
     "subjectName": "Matematik",
     "displayName": "Matematik",
     "silibusCode": "KSSM",
@@ -763,7 +763,7 @@
     "schoolLevel": "SM",
     "studentLevel": "TB2",
     "bookId": 5,
-    "id": "SMTB2B005_2",
+    "id": "SMTB2B005",
     "subjectName": "Mathematics DLP",
     "displayName": "Mathematics",
     "silibusCode": "KSSM",
@@ -3253,7 +3253,7 @@
     "dlpStatus": false,
     "bookStatus": "Fully Digital",
     "downloads": {
-      "telegram": "#",
+      "telegram": "https://t.me/Channel5BukuTeksKSSM/91",
       "pdf": "#",
       "gdrive": "#"
     },
@@ -3273,7 +3273,7 @@
     "dlpStatus": false,
     "bookStatus": "Fully Digital",
     "downloads": {
-      "telegram": "#",
+      "telegram": "https://t.me/Channel5BukuTeksKSSM/91",
       "pdf": "#",
       "gdrive": "#"
     },
@@ -3753,7 +3753,7 @@
     "dlpStatus": false,
     "bookStatus": "Fully Digital",
     "downloads": {
-      "telegram": "#",
+      "telegram": "https://t.me/Channel5BukuTeksKSSM/42",
       "pdf": "#",
       "gdrive": "#"
     },
@@ -3773,7 +3773,7 @@
     "dlpStatus": false,
     "bookStatus": "Fully Digital",
     "downloads": {
-      "telegram": "#",
+      "telegram": "https://t.me/Channel5BukuTeksKSSM/86",
       "pdf": "#",
       "gdrive": "#"
     },
@@ -3793,7 +3793,7 @@
     "dlpStatus": false,
     "bookStatus": "Fully Digital",
     "downloads": {
-      "telegram": "#",
+      "telegram": "https://t.me/Channel5BukuTeksKSSM/59",
       "pdf": "#",
       "gdrive": "#"
     },
@@ -3833,7 +3833,7 @@
     "dlpStatus": false,
     "bookStatus": "Fully Digital",
     "downloads": {
-      "telegram": "#",
+      "telegram": "https://t.me/Channel5BukuTeksKSSM/61",
       "pdf": "#",
       "gdrive": "#"
     },
@@ -3853,7 +3853,7 @@
     "dlpStatus": false,
     "bookStatus": "Fully Digital",
     "downloads": {
-      "telegram": "#",
+      "telegram": "https://t.me/Channel5BukuTeksKSSM/84",
       "pdf": "#",
       "gdrive": "#"
     },
@@ -3873,7 +3873,7 @@
     "dlpStatus": false,
     "bookStatus": "Fully Digital",
     "downloads": {
-      "telegram": "#",
+      "telegram": "https://t.me/Channel5BukuTeksKSSM/63",
       "pdf": "#",
       "gdrive": "#"
     },
@@ -3913,7 +3913,7 @@
     "dlpStatus": false,
     "bookStatus": "Fully Digital",
     "downloads": {
-      "telegram": "#",
+      "telegram": "https://t.me/Channel5BukuTeksKSSM/67",
       "pdf": "#",
       "gdrive": "#"
     },
@@ -3993,7 +3993,7 @@
     "dlpStatus": false,
     "bookStatus": "Fully Digital",
     "downloads": {
-      "telegram": "#",
+      "telegram": "https://t.me/Channel5BukuTeksKSSM/37",
       "pdf": "#",
       "gdrive": "#"
     },
@@ -4013,7 +4013,7 @@
     "dlpStatus": false,
     "bookStatus": "Fully Digital",
     "downloads": {
-      "telegram": "#",
+      "telegram": "https://t.me/Channel5BukuTeksKSSM/46",
       "pdf": "#",
       "gdrive": "#"
     },
@@ -4033,7 +4033,7 @@
     "dlpStatus": false,
     "bookStatus": "Fully Digital",
     "downloads": {
-      "telegram": "#",
+      "telegram": "https://t.me/Channel5BukuTeksKSSM/82",
       "pdf": "#",
       "gdrive": "#"
     },
@@ -4113,7 +4113,7 @@
     "dlpStatus": false,
     "bookStatus": "Fully Digital",
     "downloads": {
-      "telegram": "#",
+      "telegram": "https://t.me/Channel5BukuTeksKSSM/51",
       "pdf": "#",
       "gdrive": "#"
     },
@@ -4133,7 +4133,7 @@
     "dlpStatus": false,
     "bookStatus": "Fully Digital",
     "downloads": {
-      "telegram": "#",
+      "telegram": "https://t.me/Channel5BukuTeksKSSM/88",
       "pdf": "#",
       "gdrive": "#"
     },
@@ -4153,7 +4153,7 @@
     "dlpStatus": false,
     "bookStatus": "Fully Digital",
     "downloads": {
-      "telegram": "#",
+      "telegram": "https://t.me/Channel5BukuTeksKSSM/49",
       "pdf": "#",
       "gdrive": "#"
     },
@@ -4173,7 +4173,7 @@
     "dlpStatus": false,
     "bookStatus": "Fully Digital",
     "downloads": {
-      "telegram": "#",
+      "telegram": "https://t.me/Channel5BukuTeksKSSM/53",
       "pdf": "#",
       "gdrive": "#"
     },
@@ -4193,7 +4193,7 @@
     "dlpStatus": false,
     "bookStatus": "Fully Digital",
     "downloads": {
-      "telegram": "#",
+      "telegram": "https://t.me/Channel5BukuTeksKSSM/90",
       "pdf": "#",
       "gdrive": "#"
     },
@@ -4213,7 +4213,7 @@
     "dlpStatus": false,
     "bookStatus": "Fully Digital",
     "downloads": {
-      "telegram": "#",
+      "telegram": "https://t.me/Channel5BukuTeksKSSM/44",
       "pdf": "#",
       "gdrive": "#"
     },
@@ -4273,7 +4273,7 @@
     "dlpStatus": false,
     "bookStatus": "Fully Digital",
     "downloads": {
-      "telegram": "#",
+      "telegram": "https://t.me/Channel5BukuTeksKSSM/27",
       "pdf": "#",
       "gdrive": "#"
     },
@@ -4293,7 +4293,7 @@
     "dlpStatus": false,
     "bookStatus": "Fully Digital",
     "downloads": {
-      "telegram": "#",
+      "telegram": "https://t.me/Channel5BukuTeksKSSM/27",
       "pdf": "#",
       "gdrive": "#"
     },
@@ -4333,7 +4333,7 @@
     "dlpStatus": false,
     "bookStatus": "Fully Digital",
     "downloads": {
-      "telegram": "#",
+      "telegram": "https://t.me/Channel5BukuTeksKSSM/57",
       "pdf": "#",
       "gdrive": "#"
     },
@@ -4353,7 +4353,7 @@
     "dlpStatus": false,
     "bookStatus": "Fully Digital",
     "downloads": {
-      "telegram": "#",
+      "telegram": "https://t.me/Channel5BukuTeksKSSM/65",
       "pdf": "#",
       "gdrive": "#"
     },
@@ -4593,7 +4593,7 @@
     "dlpStatus": false,
     "bookStatus": "Fully Digital",
     "downloads": {
-      "telegram": "#",
+      "telegram": "https://t.me/Channel5BukuTeksKSSM/32",
       "pdf": "#",
       "gdrive": "#"
     },
@@ -4813,7 +4813,7 @@
     "dlpStatus": false,
     "bookStatus": "Fully Digital",
     "downloads": {
-      "telegram": "#",
+      "telegram": "https://t.me/Channel5BukuTeksKSSM/66",
       "pdf": "#",
       "gdrive": "#"
     },

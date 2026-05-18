@@ -306,7 +306,7 @@
     "dlpStatus": false
   },
   {
-    "id": "SMTB2B001_2",
+    "id": "SMTB2B001",
     "subjectName": "Bahasa Melayu",
     "displayName": "Bahasa Melayu",
     "studentLevelName": "Tingkatan 2",
@@ -315,7 +315,7 @@
     "dlpStatus": false
   },
   {
-    "id": "SMTB2B002_2",
+    "id": "SMTB2B002",
     "subjectName": "Bahasa Tamil",
     "displayName": "Bahasa Tamil",
     "studentLevelName": "Tingkatan 2",
@@ -324,7 +324,7 @@
     "dlpStatus": false
   },
   {
-    "id": "SMTB2B003_2",
+    "id": "SMTB2B003",
     "subjectName": "Geografi",
     "displayName": "Geografi",
     "studentLevelName": "Tingkatan 2",
@@ -333,7 +333,7 @@
     "dlpStatus": false
   },
   {
-    "id": "SMTB2B004_2",
+    "id": "SMTB2B004",
     "subjectName": "Matematik",
     "displayName": "Matematik",
     "studentLevelName": "Tingkatan 2",
@@ -342,7 +342,7 @@
     "dlpStatus": false
   },
   {
-    "id": "SMTB2B005_2",
+    "id": "SMTB2B005",
     "subjectName": "Mathematics DLP",
     "displayName": "Mathematics",
     "studentLevelName": "Tingkatan 2",
