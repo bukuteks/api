@@ -1,0 +1,582 @@
+[
+  {
+    "schoolLevel": "SR",
+    "studentLevel": "T1",
+    "bookId": 19,
+    "id": "SRT1B019",
+    "subjectName": "Matematik SK - Jld2",
+    "displayName": "Matematik SK - Jld2",
+    "silibusCode": "KSSR",
+    "silibusName": "Kokurikulum Standard Sekolah Rendah",
+    "schoolLevelName": "Sekolah Rendah",
+    "studentLevelName": "Tahun 1",
+    "dlpStatus": false,
+    "bookStatus": "Buku Teks",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "https://drive.google.com/file/d/1t0aBITQx1_FrBuu1jyVKcwYDCnMQpzX6/view?usp=drivesdk"
+    },
+    "coverColor": "#3498db"
+  },
+  {
+    "schoolLevel": "SR",
+    "studentLevel": "T1",
+    "bookId": 20,
+    "id": "SRT1B020",
+    "subjectName": "Matematik SK BA - Jld1",
+    "displayName": "Matematik SK BA - Jld1",
+    "silibusCode": "KSSR",
+    "silibusName": "Kokurikulum Standard Sekolah Rendah",
+    "schoolLevelName": "Sekolah Rendah",
+    "studentLevelName": "Tahun 1",
+    "dlpStatus": false,
+    "bookStatus": "Buku Aktiviti",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "https://drive.google.com/file/d/1qKJUn_RFshqtzQ1RSlnbECwSUa4GrMTX/view?usp=drivesdk"
+    },
+    "coverColor": "#3498db"
+  },
+  {
+    "schoolLevel": "SR",
+    "studentLevel": "T1",
+    "bookId": 21,
+    "id": "SRT1B021",
+    "subjectName": "Matematik SK BA - Jld2",
+    "displayName": "Matematik SK BA - Jld2",
+    "silibusCode": "KSSR",
+    "silibusName": "Kokurikulum Standard Sekolah Rendah",
+    "schoolLevelName": "Sekolah Rendah",
+    "studentLevelName": "Tahun 1",
+    "dlpStatus": false,
+    "bookStatus": "Buku Aktiviti",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "https://drive.google.com/file/d/14cUGDrWDhnWpAlVk4SC4m6W_6rLXkFdD/view?usp=drivesdk"
+    },
+    "coverColor": "#3498db"
+  },
+  {
+    "schoolLevel": "SR",
+    "studentLevel": "T1",
+    "bookId": 1,
+    "id": "SRT1B001",
+    "subjectName": "Mathematics Y1",
+    "displayName": "Mathematics Y1",
+    "silibusCode": "DLP",
+    "silibusName": "Dual Language Programme",
+    "schoolLevelName": "Sekolah Rendah",
+    "studentLevelName": "Tahun 1",
+    "dlpStatus": true,
+    "bookStatus": "Buku Teks",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "https://drive.google.com/file/d/18uQq9O_VGVJRoQ7TLBr7jhAATLJiPOY-/view?usp=drivesdk"
+    },
+    "coverColor": "#27ae60"
+  },
+  {
+    "schoolLevel": "SR",
+    "studentLevel": "T1",
+    "bookId": 2,
+    "id": "SRT1B002",
+    "subjectName": "Mathematics Y1",
+    "displayName": "Mathematics Y1",
+    "silibusCode": "DLP",
+    "silibusName": "Dual Language Programme",
+    "schoolLevelName": "Sekolah Rendah",
+    "studentLevelName": "Tahun 1",
+    "dlpStatus": true,
+    "bookStatus": "Buku Teks",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "https://drive.google.com/file/d/13qUwwLxJkp0nd5ReqmE_iQ64gPkNRjwJ/view?usp=drivesdk"
+    },
+    "coverColor": "#27ae60"
+  },
+  {
+    "schoolLevel": "SR",
+    "studentLevel": "T1",
+    "bookId": 3,
+    "id": "SRT1B003",
+    "subjectName": "Mathematics Y1 AB",
+    "displayName": "Mathematics Y1 AB",
+    "silibusCode": "DLP",
+    "silibusName": "Dual Language Programme",
+    "schoolLevelName": "Sekolah Rendah",
+    "studentLevelName": "Tahun 1",
+    "dlpStatus": true,
+    "bookStatus": "Buku Aktiviti",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "https://drive.google.com/file/d/1o73kkN--cHPVR8iO_YskwxA4JkeLEJzV/view?usp=drivesdk"
+    },
+    "coverColor": "#27ae60"
+  },
+  {
+    "schoolLevel": "SR",
+    "studentLevel": "T1",
+    "bookId": 4,
+    "id": "SRT1B004",
+    "subjectName": "Mathematics Y1 AB",
+    "displayName": "Mathematics Y1 AB",
+    "silibusCode": "DLP",
+    "silibusName": "Dual Language Programme",
+    "schoolLevelName": "Sekolah Rendah",
+    "studentLevelName": "Tahun 1",
+    "dlpStatus": true,
+    "bookStatus": "Buku Aktiviti",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "https://drive.google.com/file/d/1fa_0d-kp16mYrRX1dzkHnROo_P8zXUHD/view?usp=drivesdk"
+    },
+    "coverColor": "#27ae60"
+  },
+  {
+    "schoolLevel": "SR",
+    "studentLevel": "T1",
+    "bookId": 9,
+    "id": "SRT1B009",
+    "subjectName": "Pendidikan Islam",
+    "displayName": "Pendidikan Islam",
+    "silibusCode": "SJKT",
+    "silibusName": "Sekolah Jenis Kebangsaan Tamil",
+    "schoolLevelName": "Sekolah Rendah",
+    "studentLevelName": "Tahun 1",
+    "dlpStatus": false,
+    "bookStatus": "Buku Teks",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "https://drive.google.com/file/d/1-5yR8EsEOBRjFZMjZxgzDNszO93Wb48J/view?usp=drivesdk"
+    },
+    "coverColor": "#8e44ad"
+  },
+  {
+    "schoolLevel": "SR",
+    "studentLevel": "T1",
+    "bookId": 22,
+    "id": "SRT1B022",
+    "subjectName": "Pendidikan Islam",
+    "displayName": "Pendidikan Islam",
+    "silibusCode": "KSSR",
+    "silibusName": "Kokurikulum Standard Sekolah Rendah",
+    "schoolLevelName": "Sekolah Rendah",
+    "studentLevelName": "Tahun 1",
+    "dlpStatus": false,
+    "bookStatus": "Buku Teks",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "https://drive.google.com/file/d/1-5yR8EsEOBRjFZMjZxgzDNszO93Wb48J/view?usp=drivesdk"
+    },
+    "coverColor": "#3498db"
+  },
+  {
+    "schoolLevel": "SR",
+    "studentLevel": "T1",
+    "bookId": 23,
+    "id": "SRT1B023",
+    "subjectName": "Pendidikan Islam BA",
+    "displayName": "Pendidikan Islam BA",
+    "silibusCode": "KSSR",
+    "silibusName": "Kokurikulum Standard Sekolah Rendah",
+    "schoolLevelName": "Sekolah Rendah",
+    "studentLevelName": "Tahun 1",
+    "dlpStatus": false,
+    "bookStatus": "Buku Aktiviti",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "https://drive.google.com/file/d/1QC51SGkthgpHCnPKurkquUpmrxz6IFv5/view?usp=drivesdk"
+    },
+    "coverColor": "#3498db"
+  },
+  {
+    "schoolLevel": "SR",
+    "studentLevel": "T1",
+    "bookId": 24,
+    "id": "SRT1B024",
+    "subjectName": "Pendidikan Jasmani DAN Pendidikan Kesihatan SK",
+    "displayName": "Pendidikan Jasmani DAN Pendidikan Kesihatan SK",
+    "silibusCode": "KSSR",
+    "silibusName": "Kokurikulum Standard Sekolah Rendah",
+    "schoolLevelName": "Sekolah Rendah",
+    "studentLevelName": "Tahun 1",
+    "dlpStatus": false,
+    "bookStatus": "Buku Teks",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "https://drive.google.com/file/d/1NmC1H2G6eiR03eliFpuzq8xokIjGGLZ3/view?usp=drivesdk"
+    },
+    "coverColor": "#3498db"
+  },
+  {
+    "schoolLevel": "SR",
+    "studentLevel": "T1",
+    "bookId": 10,
+    "id": "SRT1B010",
+    "subjectName": "Pendidikan Jasmani DAN Pendidikan Kesihatan Sjkt",
+    "displayName": "Pendidikan Jasmani DAN Pendidikan Kesihatan Sjkt",
+    "silibusCode": "SJKT",
+    "silibusName": "Sekolah Jenis Kebangsaan Tamil",
+    "schoolLevelName": "Sekolah Rendah",
+    "studentLevelName": "Tahun 1",
+    "dlpStatus": false,
+    "bookStatus": "Buku Teks",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "https://drive.google.com/file/d/1a2Gzey7zQ5x-GV4UvKa-bh21b1sjnZ8a/view?usp=drivesdk"
+    },
+    "coverColor": "#8e44ad"
+  },
+  {
+    "schoolLevel": "SR",
+    "studentLevel": "T1",
+    "bookId": 25,
+    "id": "SRT1B025",
+    "subjectName": "Pendidikan Kesenian SK",
+    "displayName": "Pendidikan Kesenian SK",
+    "silibusCode": "KSSR",
+    "silibusName": "Kokurikulum Standard Sekolah Rendah",
+    "schoolLevelName": "Sekolah Rendah",
+    "studentLevelName": "Tahun 1",
+    "dlpStatus": false,
+    "bookStatus": "Buku Teks",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "https://drive.google.com/file/d/11D7cZZAEXVDgcDTGNU3QHlM8oJk90AAl/view?usp=drivesdk"
+    },
+    "coverColor": "#3498db"
+  },
+  {
+    "schoolLevel": "SR",
+    "studentLevel": "T1",
+    "bookId": 15,
+    "id": "SRT1B015",
+    "subjectName": "Pendidikan Kesenian Sjkc",
+    "displayName": "Pendidikan Kesenian Sjkc",
+    "silibusCode": "SJKC",
+    "silibusName": "Sekolah Jenis Kebangsaan Cina",
+    "schoolLevelName": "Sekolah Rendah",
+    "studentLevelName": "Tahun 1",
+    "dlpStatus": false,
+    "bookStatus": "Buku Teks",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "https://drive.google.com/file/d/1k0WwGL-lFMDafNGvxjBGANwGPdpqO7nn/view?usp=drivesdk"
+    },
+    "coverColor": "#e74c3c"
+  },
+  {
+    "schoolLevel": "SR",
+    "studentLevel": "T1",
+    "bookId": 11,
+    "id": "SRT1B011",
+    "subjectName": "Pendidikan Kesenian Sjkt",
+    "displayName": "Pendidikan Kesenian Sjkt",
+    "silibusCode": "SJKT",
+    "silibusName": "Sekolah Jenis Kebangsaan Tamil",
+    "schoolLevelName": "Sekolah Rendah",
+    "studentLevelName": "Tahun 1",
+    "dlpStatus": false,
+    "bookStatus": "Buku Teks",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "https://drive.google.com/file/d/1CjoC67IT2-ojwYggyft68ai0Qn1mus0c/view?usp=drivesdk"
+    },
+    "coverColor": "#8e44ad"
+  },
+  {
+    "schoolLevel": "SR",
+    "studentLevel": "T1",
+    "bookId": 12,
+    "id": "SRT1B012",
+    "subjectName": "Pendidikan Kesenian Sjkt",
+    "displayName": "Pendidikan Kesenian Sjkt",
+    "silibusCode": "SJKT",
+    "silibusName": "Sekolah Jenis Kebangsaan Tamil",
+    "schoolLevelName": "Sekolah Rendah",
+    "studentLevelName": "Tahun 1",
+    "dlpStatus": false,
+    "bookStatus": "Buku Teks",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "https://drive.google.com/file/d/1gLlRpZqBW_aLfKDOYWTg1fLLer3IMMGa/view?usp=drivesdk"
+    },
+    "coverColor": "#8e44ad"
+  },
+  {
+    "schoolLevel": "SR",
+    "studentLevel": "T1",
+    "bookId": 26,
+    "id": "SRT1B026",
+    "subjectName": "Pendidikan Moral SK",
+    "displayName": "Pendidikan Moral SK",
+    "silibusCode": "KSSR",
+    "silibusName": "Kokurikulum Standard Sekolah Rendah",
+    "schoolLevelName": "Sekolah Rendah",
+    "studentLevelName": "Tahun 1",
+    "dlpStatus": false,
+    "bookStatus": "Buku Teks",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "https://drive.google.com/file/d/1OZPZZ-y6mcIccogwvEeT3c0kcGICbu5d/view?usp=drivesdk"
+    },
+    "coverColor": "#3498db"
+  },
+  {
+    "schoolLevel": "SR",
+    "studentLevel": "T1",
+    "bookId": 16,
+    "id": "SRT1B016",
+    "subjectName": "Pendidikan Moral Sjkc",
+    "displayName": "Pendidikan Moral Sjkc",
+    "silibusCode": "SJKC",
+    "silibusName": "Sekolah Jenis Kebangsaan Cina",
+    "schoolLevelName": "Sekolah Rendah",
+    "studentLevelName": "Tahun 1",
+    "dlpStatus": false,
+    "bookStatus": "Buku Teks",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "https://drive.google.com/file/d/1jKV4PeiJUL_66hkrXdM8ER9xGEsJIbUM/view?usp=drivesdk"
+    },
+    "coverColor": "#e74c3c"
+  },
+  {
+    "schoolLevel": "SR",
+    "studentLevel": "T1",
+    "bookId": 13,
+    "id": "SRT1B013",
+    "subjectName": "Pendidikan Moral Sjkt",
+    "displayName": "Pendidikan Moral Sjkt",
+    "silibusCode": "SJKT",
+    "silibusName": "Sekolah Jenis Kebangsaan Tamil",
+    "schoolLevelName": "Sekolah Rendah",
+    "studentLevelName": "Tahun 1",
+    "dlpStatus": false,
+    "bookStatus": "Buku Teks",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "https://drive.google.com/file/d/1jhggq0TTcajtdfDglJU_yO_MXMVVeXpu/view?usp=drivesdk"
+    },
+    "coverColor": "#8e44ad"
+  },
+  {
+    "schoolLevel": "SR",
+    "studentLevel": "T1",
+    "bookId": 27,
+    "id": "SRT1B027",
+    "subjectName": "Sains SK",
+    "displayName": "Sains SK",
+    "silibusCode": "KSSR",
+    "silibusName": "Kokurikulum Standard Sekolah Rendah",
+    "schoolLevelName": "Sekolah Rendah",
+    "studentLevelName": "Tahun 1",
+    "dlpStatus": false,
+    "bookStatus": "Buku Teks",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "https://drive.google.com/file/d/1pKVimAzufqbaUktAkm2VeHqLWFLWfOuy/view?usp=drivesdk"
+    },
+    "coverColor": "#3498db"
+  },
+  {
+    "schoolLevel": "SR",
+    "studentLevel": "T1",
+    "bookId": 28,
+    "id": "SRT1B028",
+    "subjectName": "Sains SK BA",
+    "displayName": "Sains SK BA",
+    "silibusCode": "KSSR",
+    "silibusName": "Kokurikulum Standard Sekolah Rendah",
+    "schoolLevelName": "Sekolah Rendah",
+    "studentLevelName": "Tahun 1",
+    "dlpStatus": false,
+    "bookStatus": "Buku Aktiviti",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "https://drive.google.com/file/d/1-8k4k19HPszHL-7yXvx6tH6E0TDTGr1Y/view?usp=drivesdk"
+    },
+    "coverColor": "#3498db"
+  },
+  {
+    "schoolLevel": "SR",
+    "studentLevel": "T1",
+    "bookId": 17,
+    "id": "SRT1B017",
+    "subjectName": "Sains Sjkc",
+    "displayName": "Sains Sjkc",
+    "silibusCode": "SJKC",
+    "silibusName": "Sekolah Jenis Kebangsaan Cina",
+    "schoolLevelName": "Sekolah Rendah",
+    "studentLevelName": "Tahun 1",
+    "dlpStatus": false,
+    "bookStatus": "Buku Teks",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "https://drive.google.com/file/d/1K14DyS6Rc_w5hxnC69Gwx0rljqDbkf4x/view?usp=drivesdk"
+    },
+    "coverColor": "#e74c3c"
+  },
+  {
+    "schoolLevel": "SR",
+    "studentLevel": "T1",
+    "bookId": 18,
+    "id": "SRT1B018",
+    "subjectName": "Sains Sjkc BA",
+    "displayName": "Sains Sjkc BA",
+    "silibusCode": "SJKC",
+    "silibusName": "Sekolah Jenis Kebangsaan Cina",
+    "schoolLevelName": "Sekolah Rendah",
+    "studentLevelName": "Tahun 1",
+    "dlpStatus": false,
+    "bookStatus": "Buku Aktiviti",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "https://drive.google.com/file/d/1MOTXCsrarvlF8xmCCnLoCbFIc6Df0YW4/view?usp=drivesdk"
+    },
+    "coverColor": "#e74c3c"
+  },
+  {
+    "schoolLevel": "SR",
+    "studentLevel": "T1",
+    "bookId": 14,
+    "id": "SRT1B014",
+    "subjectName": "Sains Sjkt",
+    "displayName": "Sains Sjkt",
+    "silibusCode": "SJKT",
+    "silibusName": "Sekolah Jenis Kebangsaan Tamil",
+    "schoolLevelName": "Sekolah Rendah",
+    "studentLevelName": "Tahun 1",
+    "dlpStatus": false,
+    "bookStatus": "Buku Teks",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "https://drive.google.com/file/d/1r5xsYl4kyX45uh6IenSpFjyxuNlYPAeT/view?usp=drivesdk"
+    },
+    "coverColor": "#8e44ad"
+  },
+  {
+    "schoolLevel": "SR",
+    "studentLevel": "T1",
+    "bookId": 5,
+    "id": "SRT1B005",
+    "subjectName": "Science Y1",
+    "displayName": "Science Y1",
+    "silibusCode": "DLP",
+    "silibusName": "Dual Language Programme",
+    "schoolLevelName": "Sekolah Rendah",
+    "studentLevelName": "Tahun 1",
+    "dlpStatus": true,
+    "bookStatus": "Buku Teks",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "https://drive.google.com/file/d/1gFgswwLexwkPNZToiQ6HV521RJ90NKI7/view?usp=drivesdk"
+    },
+    "coverColor": "#27ae60"
+  },
+  {
+    "schoolLevel": "SR",
+    "studentLevel": "T1",
+    "bookId": 6,
+    "id": "SRT1B006",
+    "subjectName": "Science Y1 AB",
+    "displayName": "Science Y1 AB",
+    "silibusCode": "DLP",
+    "silibusName": "Dual Language Programme",
+    "schoolLevelName": "Sekolah Rendah",
+    "studentLevelName": "Tahun 1",
+    "dlpStatus": true,
+    "bookStatus": "Buku Aktiviti",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "https://drive.google.com/file/d/1aWYZIe0RI-bD6fxr4Szl2-gpb97uOKNL/view?usp=drivesdk"
+    },
+    "coverColor": "#27ae60"
+  },
+  {
+    "schoolLevel": "SR",
+    "studentLevel": "T1",
+    "bookId": 7,
+    "id": "SRT1B007",
+    "subjectName": "Science Y1 AB",
+    "displayName": "Science Y1 AB",
+    "silibusCode": "DLP",
+    "silibusName": "Dual Language Programme",
+    "schoolLevelName": "Sekolah Rendah",
+    "studentLevelName": "Tahun 1",
+    "dlpStatus": true,
+    "bookStatus": "Buku Aktiviti",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "https://drive.google.com/file/d/1F1kLjkzElyFXmseJtCZuayrCT5S-D3oI/view?usp=drivesdk"
+    },
+    "coverColor": "#27ae60"
+  },
+  {
+    "schoolLevel": "SR",
+    "studentLevel": "T1",
+    "bookId": 8,
+    "id": "SRT1B008",
+    "subjectName": "Science Y1 AB",
+    "displayName": "Science Y1 AB",
+    "silibusCode": "DLP",
+    "silibusName": "Dual Language Programme",
+    "schoolLevelName": "Sekolah Rendah",
+    "studentLevelName": "Tahun 1",
+    "dlpStatus": true,
+    "bookStatus": "Buku Aktiviti",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "https://drive.google.com/file/d/143LPV0eHqSQYOYcRDq4NuJSDDIZJlHZj/view?usp=drivesdk"
+    },
+    "coverColor": "#27ae60"
+  },
+  {
+    "schoolLevel": "SR",
+    "studentLevel": "T1",
+    "bookId": 29,
+    "id": "SRT1B029",
+    "subjectName": "Science Y1 BA",
+    "displayName": "Science Y1 BA",
+    "silibusCode": "KSSR",
+    "silibusName": "Kokurikulum Standard Sekolah Rendah",
+    "schoolLevelName": "Sekolah Rendah",
+    "studentLevelName": "Tahun 1",
+    "dlpStatus": false,
+    "bookStatus": "Buku Aktiviti",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "https://drive.google.com/file/d/1_kpe_zpCj2n3ce19ujJ6zyB9jLSVDgd-/view?usp=drive_link"
+    },
+    "coverColor": "#3498db"
+  }
+]

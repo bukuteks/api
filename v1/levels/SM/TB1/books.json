@@ -2,6 +2,26 @@
   {
     "schoolLevel": "SM",
     "studentLevel": "TB1",
+    "bookId": 22,
+    "id": "SMTB1B022",
+    "subjectName": "Al-Syariah",
+    "displayName": "Al-Syariah",
+    "silibusCode": "KBDKBT",
+    "silibusName": "Kokurikulum Bersepadu Dini dan Kokurikulum Bersepadu Tahfiz",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 1",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#e67e22"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TB1",
     "bookId": 1,
     "id": "SMTB1B001",
     "subjectName": "Asas Sains Komputer",
@@ -162,6 +182,26 @@
   {
     "schoolLevel": "SM",
     "studentLevel": "TB1",
+    "bookId": 23,
+    "id": "SMTB1B023",
+    "subjectName": "Daftar Hifz Al-Quran",
+    "displayName": "Daftar Hifz Al-Quran",
+    "silibusCode": "KBDKBT",
+    "silibusName": "Kokurikulum Bersepadu Dini dan Kokurikulum Bersepadu Tahfiz",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 1",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#e67e22"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TB1",
     "bookId": 9,
     "id": "SMTB1B009",
     "subjectName": "English",
@@ -198,6 +238,26 @@
       "gdrive": "#"
     },
     "coverColor": "#4a90d9"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TB1",
+    "bookId": 24,
+    "id": "SMTB1B024",
+    "subjectName": "Maharat Al-Quran",
+    "displayName": "Maharat Al-Quran",
+    "silibusCode": "KBDKBT",
+    "silibusName": "Kokurikulum Bersepadu Dini dan Kokurikulum Bersepadu Tahfiz",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 1",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#e67e22"
   },
   {
     "schoolLevel": "SM",
@@ -422,86 +482,6 @@
   {
     "schoolLevel": "SM",
     "studentLevel": "TB1",
-    "bookId": 22,
-    "id": "SMTB1B022",
-    "subjectName": "Al-Syariah",
-    "displayName": "Al-Syariah",
-    "silibusCode": "KBDKBT",
-    "silibusName": "Kokurikulum Bersepadu Dini dan Kokurikulum Bersepadu Tahfiz",
-    "schoolLevelName": "Sekolah Menengah",
-    "studentLevelName": "Tingkatan 1",
-    "dlpStatus": false,
-    "bookStatus": "Fully Digital",
-    "downloads": {
-      "telegram": "#",
-      "pdf": "#",
-      "gdrive": "#"
-    },
-    "coverColor": "#e67e22"
-  },
-  {
-    "schoolLevel": "SM",
-    "studentLevel": "TB1",
-    "bookId": 23,
-    "id": "SMTB1B023",
-    "subjectName": "Daftar Hifz Al-Quran",
-    "displayName": "Daftar Hifz Al-Quran",
-    "silibusCode": "KBDKBT",
-    "silibusName": "Kokurikulum Bersepadu Dini dan Kokurikulum Bersepadu Tahfiz",
-    "schoolLevelName": "Sekolah Menengah",
-    "studentLevelName": "Tingkatan 1",
-    "dlpStatus": false,
-    "bookStatus": "Fully Digital",
-    "downloads": {
-      "telegram": "#",
-      "pdf": "#",
-      "gdrive": "#"
-    },
-    "coverColor": "#e67e22"
-  },
-  {
-    "schoolLevel": "SM",
-    "studentLevel": "TB1",
-    "bookId": 24,
-    "id": "SMTB1B024",
-    "subjectName": "Maharat Al-Quran",
-    "displayName": "Maharat Al-Quran",
-    "silibusCode": "KBDKBT",
-    "silibusName": "Kokurikulum Bersepadu Dini dan Kokurikulum Bersepadu Tahfiz",
-    "schoolLevelName": "Sekolah Menengah",
-    "studentLevelName": "Tingkatan 1",
-    "dlpStatus": false,
-    "bookStatus": "Fully Digital",
-    "downloads": {
-      "telegram": "#",
-      "pdf": "#",
-      "gdrive": "#"
-    },
-    "coverColor": "#e67e22"
-  },
-  {
-    "schoolLevel": "SM",
-    "studentLevel": "TB1",
-    "bookId": 25,
-    "id": "SMTB1B025",
-    "subjectName": "Usul Al-Din",
-    "displayName": "Usul Al-Din",
-    "silibusCode": "KBDKBT",
-    "silibusName": "Kokurikulum Bersepadu Dini dan Kokurikulum Bersepadu Tahfiz",
-    "schoolLevelName": "Sekolah Menengah",
-    "studentLevelName": "Tingkatan 1",
-    "dlpStatus": false,
-    "bookStatus": "Fully Digital",
-    "downloads": {
-      "telegram": "#",
-      "pdf": "#",
-      "gdrive": "#"
-    },
-    "coverColor": "#e67e22"
-  },
-  {
-    "schoolLevel": "SM",
-    "studentLevel": "TB1",
     "bookId": 26,
     "id": "SMTB1B026",
     "subjectName": "Seni Muzik",
@@ -578,5 +558,25 @@
       "gdrive": "#"
     },
     "coverColor": "#e91e63"
+  },
+  {
+    "schoolLevel": "SM",
+    "studentLevel": "TB1",
+    "bookId": 25,
+    "id": "SMTB1B025",
+    "subjectName": "Usul Al-Din",
+    "displayName": "Usul Al-Din",
+    "silibusCode": "KBDKBT",
+    "silibusName": "Kokurikulum Bersepadu Dini dan Kokurikulum Bersepadu Tahfiz",
+    "schoolLevelName": "Sekolah Menengah",
+    "studentLevelName": "Tingkatan 1",
+    "dlpStatus": false,
+    "bookStatus": "Fully Digital",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "#"
+    },
+    "coverColor": "#e67e22"
   }
 ]

@@ -1,0 +1,202 @@
+[
+  {
+    "schoolLevel": "KP",
+    "studentLevel": "KP",
+    "bookId": 1,
+    "id": "KPKPB001",
+    "subjectName": "Amalan Bahasa Melayu",
+    "displayName": "Amalan Bahasa Melayu",
+    "silibusCode": "KP",
+    "silibusName": "Kelas Peralihan",
+    "schoolLevelName": "Kelas Peralihan",
+    "studentLevelName": "Kelas Peralihan",
+    "dlpStatus": false,
+    "bookStatus": "Buku Teks",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "https://drive.google.com/file/d/14h_uOjtLutF_qXmcYw1rR7a_V356Qq_F/view?usp=drivesdk"
+    },
+    "coverColor": "#f1c40f"
+  },
+  {
+    "schoolLevel": "KP",
+    "studentLevel": "KP",
+    "bookId": 2,
+    "id": "KPKPB002",
+    "subjectName": "Amalan Bahasa Melayu",
+    "displayName": "Amalan Bahasa Melayu",
+    "silibusCode": "KP",
+    "silibusName": "Kelas Peralihan",
+    "schoolLevelName": "Kelas Peralihan",
+    "studentLevelName": "Kelas Peralihan",
+    "dlpStatus": false,
+    "bookStatus": "Buku Teks",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "https://drive.google.com/file/d/1xaXvlBjlz3DMdbsjSkhJrSmfOYN7tnQe/view?usp=drivesdk"
+    },
+    "coverColor": "#f1c40f"
+  },
+  {
+    "schoolLevel": "KP",
+    "studentLevel": "KP",
+    "bookId": 3,
+    "id": "KPKPB003",
+    "subjectName": "Bahasa Melayu",
+    "displayName": "Bahasa Melayu",
+    "silibusCode": "KP",
+    "silibusName": "Kelas Peralihan",
+    "schoolLevelName": "Kelas Peralihan",
+    "studentLevelName": "Kelas Peralihan",
+    "dlpStatus": false,
+    "bookStatus": "Buku Teks",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "https://drive.google.com/file/d/16jQByu4c7Wob8199mNaQIlSwMTvyJPIV/view?usp=drivesdk"
+    },
+    "coverColor": "#f1c40f"
+  },
+  {
+    "schoolLevel": "KP",
+    "studentLevel": "KP",
+    "bookId": 4,
+    "id": "KPKPB004",
+    "subjectName": "Bahasa Melayu",
+    "displayName": "Bahasa Melayu",
+    "silibusCode": "KP",
+    "silibusName": "Kelas Peralihan",
+    "schoolLevelName": "Kelas Peralihan",
+    "studentLevelName": "Kelas Peralihan",
+    "dlpStatus": false,
+    "bookStatus": "Buku Teks",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "https://drive.google.com/file/d/1R5QKnrdSkwCvGrH97W7ZpgnhRGKHQYe8/view?usp=drivesdk"
+    },
+    "coverColor": "#f1c40f"
+  },
+  {
+    "schoolLevel": "KP",
+    "studentLevel": "KP",
+    "bookId": 5,
+    "id": "KPKPB005",
+    "subjectName": "Bahasa Melayu",
+    "displayName": "Bahasa Melayu",
+    "silibusCode": "KP",
+    "silibusName": "Kelas Peralihan",
+    "schoolLevelName": "Kelas Peralihan",
+    "studentLevelName": "Kelas Peralihan",
+    "dlpStatus": false,
+    "bookStatus": "Buku Teks",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "https://drive.google.com/file/d/1UzFOJAeKuaWugebWQyFktqqQawn9k1wY/view?usp=drivesdk"
+    },
+    "coverColor": "#f1c40f"
+  },
+  {
+    "schoolLevel": "KP",
+    "studentLevel": "KP",
+    "bookId": 6,
+    "id": "KPKPB006",
+    "subjectName": "English",
+    "displayName": "English",
+    "silibusCode": "KP",
+    "silibusName": "Kelas Peralihan",
+    "schoolLevelName": "Kelas Peralihan",
+    "studentLevelName": "Kelas Peralihan",
+    "dlpStatus": false,
+    "bookStatus": "Buku Teks",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "https://drive.google.com/file/d/1y4AI1Zc54lPnAwLR7IEhCZNP6eRuZQ7w/view?usp=drivesdk"
+    },
+    "coverColor": "#f1c40f"
+  },
+  {
+    "schoolLevel": "KP",
+    "studentLevel": "KP",
+    "bookId": 7,
+    "id": "KPKPB007",
+    "subjectName": "KP BT BC - Bahasa Cina Kelas Peralihan",
+    "displayName": "KP BT BC - Bahasa Cina Kelas Peralihan",
+    "silibusCode": "KP",
+    "silibusName": "Kelas Peralihan",
+    "schoolLevelName": "Kelas Peralihan",
+    "studentLevelName": "Kelas Peralihan",
+    "dlpStatus": false,
+    "bookStatus": "Buku Teks",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "https://drive.google.com/file/d/1bxp04EGunYpyjGNE8Eny2vqoIf55BFT9/view?usp=drivesdk"
+    },
+    "coverColor": "#f1c40f"
+  },
+  {
+    "schoolLevel": "KP",
+    "studentLevel": "KP",
+    "bookId": 8,
+    "id": "KPKPB008",
+    "subjectName": "KP BT BT - Bahasa Tamil Peralihan",
+    "displayName": "KP BT BT - Bahasa Tamil Peralihan",
+    "silibusCode": "KP",
+    "silibusName": "Kelas Peralihan",
+    "schoolLevelName": "Kelas Peralihan",
+    "studentLevelName": "Kelas Peralihan",
+    "dlpStatus": false,
+    "bookStatus": "Buku Teks",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "https://drive.google.com/file/d/1okrWcpF1772-GjfsAdZ9eEdHpyDpHOjX/view?usp=drivesdk"
+    },
+    "coverColor": "#f1c40f"
+  },
+  {
+    "schoolLevel": "KP",
+    "studentLevel": "KP",
+    "bookId": 9,
+    "id": "KPKPB009",
+    "subjectName": "KP BT PSV - Pendidikan Seni Visual",
+    "displayName": "KP BT PSV - Pendidikan Seni Visual",
+    "silibusCode": "KP",
+    "silibusName": "Kelas Peralihan",
+    "schoolLevelName": "Kelas Peralihan",
+    "studentLevelName": "Kelas Peralihan",
+    "dlpStatus": false,
+    "bookStatus": "Buku Teks",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "https://drive.google.com/file/d/1dzY-5qDHvL2cncTMr95fdzPP7EM__Aa8/view?usp=drivesdk"
+    },
+    "coverColor": "#f1c40f"
+  },
+  {
+    "schoolLevel": "KP",
+    "studentLevel": "KP",
+    "bookId": 10,
+    "id": "KPKPB010",
+    "subjectName": "Pendidikan Jasmani DAN Pendidikan Kesihatan",
+    "displayName": "Pendidikan Jasmani DAN Pendidikan Kesihatan",
+    "silibusCode": "KP",
+    "silibusName": "Kelas Peralihan",
+    "schoolLevelName": "Kelas Peralihan",
+    "studentLevelName": "Kelas Peralihan",
+    "dlpStatus": false,
+    "bookStatus": "Buku Teks",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "https://drive.google.com/file/d/1XweLebVs_vmXwA9fANMsbYCl4Ee0_qt6/view?usp=drivesdk"
+    },
+    "coverColor": "#f1c40f"
+  }
+]
