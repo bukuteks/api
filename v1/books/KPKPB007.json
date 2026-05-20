@@ -1,0 +1,20 @@
+{
+  "schoolLevel": "KP",
+  "studentLevel": "KP",
+  "bookId": 7,
+  "id": "KPKPB007",
+  "subjectName": "KP BT BC - Bahasa Cina Kelas Peralihan",
+  "displayName": "KP BT BC - Bahasa Cina Kelas Peralihan",
+  "silibusCode": "KP",
+  "silibusName": "Kelas Peralihan",
+  "schoolLevelName": "Kelas Peralihan",
+  "studentLevelName": "Kelas Peralihan",
+  "dlpStatus": false,
+  "bookStatus": "Buku Teks",
+  "downloads": {
+    "telegram": "#",
+    "pdf": "#",
+    "gdrive": "https://drive.google.com/file/d/1bxp04EGunYpyjGNE8Eny2vqoIf55BFT9/view?usp=drivesdk"
+  },
+  "coverColor": "#f1c40f"
+}

@@ -1,0 +1,20 @@
+{
+  "schoolLevel": "KP",
+  "studentLevel": "KP",
+  "bookId": 3,
+  "id": "KPKPB003",
+  "subjectName": "Bahasa Melayu",
+  "displayName": "Bahasa Melayu",
+  "silibusCode": "KP",
+  "silibusName": "Kelas Peralihan",
+  "schoolLevelName": "Kelas Peralihan",
+  "studentLevelName": "Kelas Peralihan",
+  "dlpStatus": false,
+  "bookStatus": "Buku Teks",
+  "downloads": {
+    "telegram": "#",
+    "pdf": "#",
+    "gdrive": "https://drive.google.com/file/d/16jQByu4c7Wob8199mNaQIlSwMTvyJPIV/view?usp=drivesdk"
+  },
+  "coverColor": "#f1c40f"
+}
