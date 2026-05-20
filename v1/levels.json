@@ -1,23 +1,57 @@
 [
   {
-    "code": "SM",
-    "name": "Sekolah Menengah",
+    "code": "KP",
+    "name": "Kelas Peralihan",
     "studentLevels": [
       {
-        "code": "TB1",
-        "name": "Tingkatan 1",
+        "code": "KP",
+        "name": "Kelas Peralihan",
+        "bookCount": 10
+      }
+    ],
+    "totalBooks": 10
+  },
+  {
+    "code": "SR",
+    "name": "Sekolah Rendah",
+    "studentLevels": [
+      {
+        "code": "T1",
+        "name": "Tahun 1",
         "bookCount": 29
       },
       {
-        "code": "TB2",
-        "name": "Tingkatan 2",
+        "code": "T2",
+        "name": "Tahun 2",
         "bookCount": 28
       },
       {
-        "code": "TB3",
-        "name": "Tingkatan 3",
-        "bookCount": 31
+        "code": "T3",
+        "name": "Tahun 3",
+        "bookCount": 38
       },
+      {
+        "code": "T4",
+        "name": "Tahun 4",
+        "bookCount": 34
+      },
+      {
+        "code": "T5",
+        "name": "Tahun 5",
+        "bookCount": 29
+      },
+      {
+        "code": "T6",
+        "name": "Tahun 6",
+        "bookCount": 49
+      }
+    ],
+    "totalBooks": 207
+  },
+  {
+    "code": "SM",
+    "name": "Sekolah Menengah",
+    "studentLevels": [
       {
         "code": "TA4",
         "name": "Tingkatan 4",
@@ -27,8 +61,23 @@
         "code": "TA5",
         "name": "Tingkatan 5",
         "bookCount": 95
+      },
+      {
+        "code": "TB1",
+        "name": "Tingkatan 1",
+        "bookCount": 29
+      },
+      {
+        "code": "TB2",
+        "name": "Tingkatan 2",
+        "bookCount": 23
+      },
+      {
+        "code": "TB3",
+        "name": "Tingkatan 3",
+        "bookCount": 31
       }
     ],
-    "totalBooks": 280
+    "totalBooks": 275
   }
 ]

@@ -1,33 +1,39 @@
 [
   {
-    "code": "KSSM",
-    "name": "Kokurikulum Standard Sekolah Menengah",
-    "color": "#4a90d9",
-    "bookCount": 131
+    "code": "KP",
+    "name": "Kelas Peralihan",
+    "color": "#f1c40f",
+    "bookCount": 10
   },
   {
-    "code": "KBDKBT",
-    "name": "Kokurikulum Bersepadu Dini dan Kokurikulum Bersepadu Tahfiz",
-    "color": "#e67e22",
+    "code": "KSSR",
+    "name": "Kokurikulum Standard Sekolah Rendah",
+    "color": "#3498db",
+    "bookCount": 91
+  },
+  {
+    "code": "DLP",
+    "name": "Dual Language Programme",
+    "color": "#27ae60",
+    "bookCount": 30
+  },
+  {
+    "code": "SJKT",
+    "name": "Sekolah Jenis Kebangsaan Tamil",
+    "color": "#8e44ad",
+    "bookCount": 58
+  },
+  {
+    "code": "SJKC",
+    "name": "Sekolah Jenis Kebangsaan Cina",
+    "color": "#e74c3c",
     "bookCount": 28
   },
   {
-    "code": "SSeM",
-    "name": "Sekolah Seni Malaysia",
-    "color": "#e91e63",
-    "bookCount": 18
-  },
-  {
-    "code": "MPAK",
-    "name": "Mata Pelajaran Aliran Kebangsaan",
-    "color": "#9b59b6",
-    "bookCount": 8
-  },
-  {
-    "code": "MPET",
-    "name": "Mata Pelajaran Elektif Teknikal",
-    "color": "#e74c3c",
-    "bookCount": 14
+    "code": "KSSM",
+    "name": "Kokurikulum Standard Sekolah Menengah",
+    "color": "#4a90d9",
+    "bookCount": 126
   },
   {
     "code": "MPV",
@@ -36,16 +42,40 @@
     "bookCount": 48
   },
   {
-    "code": "KC",
-    "name": "Kesusasteraan Cina",
-    "color": "#00bcd4",
-    "bookCount": 6
+    "code": "KBDKBT",
+    "name": "Kokurikulum Bersepadu Dini dan Kokurikulum Bersepadu Tahfiz",
+    "color": "#e67e22",
+    "bookCount": 28
+  },
+  {
+    "code": "MPET",
+    "name": "Mata Pelajaran Elektif Teknikal",
+    "color": "#e74c3c",
+    "bookCount": 14
   },
   {
     "code": "KSSMPK",
     "name": "Pendidikan Khas",
     "color": "#2ecc71",
     "bookCount": 17
+  },
+  {
+    "code": "MPAK",
+    "name": "Mata Pelajaran Aliran Kebangsaan",
+    "color": "#9b59b6",
+    "bookCount": 8
+  },
+  {
+    "code": "KC",
+    "name": "Kesusasteraan Cina",
+    "color": "#00bcd4",
+    "bookCount": 6
+  },
+  {
+    "code": "SSeM",
+    "name": "Sekolah Seni Malaysia",
+    "color": "#e91e63",
+    "bookCount": 18
   },
   {
     "code": "MPEI",
