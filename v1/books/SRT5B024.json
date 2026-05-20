@@ -1,0 +1,20 @@
+{
+  "schoolLevel": "SR",
+  "studentLevel": "T5",
+  "bookId": 24,
+  "id": "SRT5B024",
+  "subjectName": "Sejarah Sjkc",
+  "displayName": "Sejarah Sjkc",
+  "silibusCode": "SJKC",
+  "silibusName": "Sekolah Jenis Kebangsaan Cina",
+  "schoolLevelName": "Sekolah Rendah",
+  "studentLevelName": "Tahun 5",
+  "dlpStatus": false,
+  "bookStatus": "Buku Teks",
+  "downloads": {
+    "telegram": "#",
+    "pdf": "#",
+    "gdrive": "https://drive.google.com/file/d/144Id7foOIcE6rE0dswK6aASwtK9yrT_E/view?usp=drivesdk"
+  },
+  "coverColor": "#e74c3c"
+}

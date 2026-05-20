@@ -1,0 +1,20 @@
+{
+  "schoolLevel": "SR",
+  "studentLevel": "T2",
+  "bookId": 1,
+  "id": "SRT2B001",
+  "subjectName": "Mathematics Y2",
+  "displayName": "Mathematics Y2",
+  "silibusCode": "DLP",
+  "silibusName": "Dual Language Programme",
+  "schoolLevelName": "Sekolah Rendah",
+  "studentLevelName": "Tahun 2",
+  "dlpStatus": true,
+  "bookStatus": "Buku Teks",
+  "downloads": {
+    "telegram": "#",
+    "pdf": "#",
+    "gdrive": "https://drive.google.com/file/d/1CRl1IUjmDanQLXdR1_l0Ycuj9cEjEmYs/view?usp=drivesdk"
+  },
+  "coverColor": "#27ae60"
+}

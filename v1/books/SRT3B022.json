@@ -1,0 +1,20 @@
+{
+  "schoolLevel": "SR",
+  "studentLevel": "T3",
+  "bookId": 22,
+  "id": "SRT3B022",
+  "subjectName": "Bahasa Tamil SK Ba.pdf",
+  "displayName": "Bahasa Tamil SK Ba.pdf",
+  "silibusCode": "KSSR",
+  "silibusName": "Kokurikulum Standard Sekolah Rendah",
+  "schoolLevelName": "Sekolah Rendah",
+  "studentLevelName": "Tahun 3",
+  "dlpStatus": false,
+  "bookStatus": "Buku Aktiviti",
+  "downloads": {
+    "telegram": "#",
+    "pdf": "#",
+    "gdrive": "https://drive.google.com/file/d/1WlyFjoDTnC-ezPbZWlSYHKXkGS4m5_Vm/view?usp=drivesdk"
+  },
+  "coverColor": "#3498db"
+}

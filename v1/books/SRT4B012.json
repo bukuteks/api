@@ -1,0 +1,20 @@
+{
+  "schoolLevel": "SR",
+  "studentLevel": "T4",
+  "bookId": 12,
+  "id": "SRT4B012",
+  "subjectName": "GET Smart Plus 4 Y4",
+  "displayName": "GET Smart Plus 4 Y4",
+  "silibusCode": "KSSR",
+  "silibusName": "Kokurikulum Standard Sekolah Rendah",
+  "schoolLevelName": "Sekolah Rendah",
+  "studentLevelName": "Tahun 4",
+  "dlpStatus": false,
+  "bookStatus": "Buku Teks",
+  "downloads": {
+    "telegram": "#",
+    "pdf": "#",
+    "gdrive": "https://drive.google.com/file/d/18HBJGkISRXWrdGtlZr9UriTS0Xp-48kU/view?usp=drivesdk"
+  },
+  "coverColor": "#3498db"
+}

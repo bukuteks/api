@@ -1,0 +1,20 @@
+{
+  "schoolLevel": "SR",
+  "studentLevel": "T4",
+  "bookId": 21,
+  "id": "SRT4B021",
+  "subjectName": "Pendidikan Moral SK",
+  "displayName": "Pendidikan Moral SK",
+  "silibusCode": "KSSR",
+  "silibusName": "Kokurikulum Standard Sekolah Rendah",
+  "schoolLevelName": "Sekolah Rendah",
+  "studentLevelName": "Tahun 4",
+  "dlpStatus": false,
+  "bookStatus": "Buku Teks",
+  "downloads": {
+    "telegram": "#",
+    "pdf": "#",
+    "gdrive": "https://drive.google.com/file/d/1PP0TpF1abnxxKZzG3YmXfNxiWO8etCW9/view?usp=drivesdk"
+  },
+  "coverColor": "#3498db"
+}

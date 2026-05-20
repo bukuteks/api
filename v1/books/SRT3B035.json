@@ -1,0 +1,20 @@
+{
+  "schoolLevel": "SR",
+  "studentLevel": "T3",
+  "bookId": 35,
+  "id": "SRT3B035",
+  "subjectName": "Pendidikan Kesenian SK",
+  "displayName": "Pendidikan Kesenian SK",
+  "silibusCode": "KSSR",
+  "silibusName": "Kokurikulum Standard Sekolah Rendah",
+  "schoolLevelName": "Sekolah Rendah",
+  "studentLevelName": "Tahun 3",
+  "dlpStatus": false,
+  "bookStatus": "Buku Teks",
+  "downloads": {
+    "telegram": "#",
+    "pdf": "#",
+    "gdrive": "https://drive.google.com/file/d/1znD8hZWTVceZAfptfd3KvgGQjn6CInu5/view?usp=drivesdk"
+  },
+  "coverColor": "#3498db"
+}

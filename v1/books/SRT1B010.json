@@ -1,0 +1,20 @@
+{
+  "schoolLevel": "SR",
+  "studentLevel": "T1",
+  "bookId": 10,
+  "id": "SRT1B010",
+  "subjectName": "Pendidikan Jasmani DAN Pendidikan Kesihatan Sjkt",
+  "displayName": "Pendidikan Jasmani DAN Pendidikan Kesihatan Sjkt",
+  "silibusCode": "SJKT",
+  "silibusName": "Sekolah Jenis Kebangsaan Tamil",
+  "schoolLevelName": "Sekolah Rendah",
+  "studentLevelName": "Tahun 1",
+  "dlpStatus": false,
+  "bookStatus": "Buku Teks",
+  "downloads": {
+    "telegram": "#",
+    "pdf": "#",
+    "gdrive": "https://drive.google.com/file/d/1a2Gzey7zQ5x-GV4UvKa-bh21b1sjnZ8a/view?usp=drivesdk"
+  },
+  "coverColor": "#8e44ad"
+}

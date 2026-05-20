@@ -1,0 +1,20 @@
+{
+  "schoolLevel": "SR",
+  "studentLevel": "T3",
+  "bookId": 5,
+  "id": "SRT3B005",
+  "subjectName": "Science Y3 AB",
+  "displayName": "Science Y3 AB",
+  "silibusCode": "DLP",
+  "silibusName": "Dual Language Programme",
+  "schoolLevelName": "Sekolah Rendah",
+  "studentLevelName": "Tahun 3",
+  "dlpStatus": true,
+  "bookStatus": "Buku Aktiviti",
+  "downloads": {
+    "telegram": "#",
+    "pdf": "#",
+    "gdrive": "https://drive.google.com/file/d/1QkDOSvjbdj5ZbclIHZmF78mS9DeKib21/view?usp=drivesdk"
+  },
+  "coverColor": "#27ae60"
+}

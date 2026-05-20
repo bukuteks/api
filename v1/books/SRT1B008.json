@@ -1,0 +1,20 @@
+{
+  "schoolLevel": "SR",
+  "studentLevel": "T1",
+  "bookId": 8,
+  "id": "SRT1B008",
+  "subjectName": "Science Y1 AB",
+  "displayName": "Science Y1 AB",
+  "silibusCode": "DLP",
+  "silibusName": "Dual Language Programme",
+  "schoolLevelName": "Sekolah Rendah",
+  "studentLevelName": "Tahun 1",
+  "dlpStatus": true,
+  "bookStatus": "Buku Aktiviti",
+  "downloads": {
+    "telegram": "#",
+    "pdf": "#",
+    "gdrive": "https://drive.google.com/file/d/143LPV0eHqSQYOYcRDq4NuJSDDIZJlHZj/view?usp=drivesdk"
+  },
+  "coverColor": "#27ae60"
+}

@@ -1,0 +1,20 @@
+{
+  "schoolLevel": "SR",
+  "studentLevel": "T4",
+  "bookId": 3,
+  "id": "SRT4B003",
+  "subjectName": "Science Y4",
+  "displayName": "Science Y4",
+  "silibusCode": "DLP",
+  "silibusName": "Dual Language Programme",
+  "schoolLevelName": "Sekolah Rendah",
+  "studentLevelName": "Tahun 4",
+  "dlpStatus": true,
+  "bookStatus": "Buku Teks",
+  "downloads": {
+    "telegram": "#",
+    "pdf": "#",
+    "gdrive": "https://drive.google.com/file/d/1KDGSo3IKmdvNANgtQk1x0V3cAQj8vqPL/view?usp=drivesdk"
+  },
+  "coverColor": "#27ae60"
+}

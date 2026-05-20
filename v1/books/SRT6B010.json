@@ -1,0 +1,20 @@
+{
+  "schoolLevel": "SR",
+  "studentLevel": "T6",
+  "bookId": 10,
+  "id": "SRT6B010",
+  "subjectName": "Pendidikan Moral Sjkc",
+  "displayName": "Pendidikan Moral Sjkc",
+  "silibusCode": "SJKC",
+  "silibusName": "Sekolah Jenis Kebangsaan Cina",
+  "schoolLevelName": "Sekolah Rendah",
+  "studentLevelName": "Tahun 6",
+  "dlpStatus": false,
+  "bookStatus": "Buku Teks",
+  "downloads": {
+    "telegram": "#",
+    "pdf": "#",
+    "gdrive": "https://drive.google.com/file/d/1BRLOAGSxJqvhrpGxjkkNOfx1GqPUHJHT/view?usp=drivesdk"
+  },
+  "coverColor": "#e74c3c"
+}

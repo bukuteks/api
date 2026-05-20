@@ -1,0 +1,20 @@
+{
+  "schoolLevel": "SR",
+  "studentLevel": "T1",
+  "bookId": 24,
+  "id": "SRT1B024",
+  "subjectName": "Pendidikan Jasmani DAN Pendidikan Kesihatan SK",
+  "displayName": "Pendidikan Jasmani DAN Pendidikan Kesihatan SK",
+  "silibusCode": "KSSR",
+  "silibusName": "Kokurikulum Standard Sekolah Rendah",
+  "schoolLevelName": "Sekolah Rendah",
+  "studentLevelName": "Tahun 1",
+  "dlpStatus": false,
+  "bookStatus": "Buku Teks",
+  "downloads": {
+    "telegram": "#",
+    "pdf": "#",
+    "gdrive": "https://drive.google.com/file/d/1NmC1H2G6eiR03eliFpuzq8xokIjGGLZ3/view?usp=drivesdk"
+  },
+  "coverColor": "#3498db"
+}

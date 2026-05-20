@@ -1,0 +1,20 @@
+{
+  "schoolLevel": "SR",
+  "studentLevel": "T3",
+  "bookId": 6,
+  "id": "SRT3B006",
+  "subjectName": "Bahasa Tamil Sjkt Jilid 2 BA",
+  "displayName": "Bahasa Tamil Sjkt Jilid 2 BA",
+  "silibusCode": "SJKT",
+  "silibusName": "Sekolah Jenis Kebangsaan Tamil",
+  "schoolLevelName": "Sekolah Rendah",
+  "studentLevelName": "Tahun 3",
+  "dlpStatus": false,
+  "bookStatus": "Buku Aktiviti",
+  "downloads": {
+    "telegram": "#",
+    "pdf": "#",
+    "gdrive": "https://drive.google.com/file/d/1LlsDTSQzt0nKCOpcEQZ9voz3OrhSyoLj/view?usp=drivesdk"
+  },
+  "coverColor": "#8e44ad"
+}

@@ -1,0 +1,20 @@
+{
+  "schoolLevel": "SR",
+  "studentLevel": "T5",
+  "bookId": 3,
+  "id": "SRT5B003",
+  "subjectName": "Science Y5 - 1 OF 4",
+  "displayName": "Science Y5 - 1 OF 4",
+  "silibusCode": "DLP",
+  "silibusName": "Dual Language Programme",
+  "schoolLevelName": "Sekolah Rendah",
+  "studentLevelName": "Tahun 5",
+  "dlpStatus": true,
+  "bookStatus": "Buku Teks",
+  "downloads": {
+    "telegram": "#",
+    "pdf": "#",
+    "gdrive": "https://drive.google.com/file/d/1Pu-bSx0HvBYoxVBeS6vTRtlilbrCtTe_/view?usp=drivesdk"
+  },
+  "coverColor": "#27ae60"
+}

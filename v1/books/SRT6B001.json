@@ -1,0 +1,20 @@
+{
+  "schoolLevel": "SR",
+  "studentLevel": "T6",
+  "bookId": 1,
+  "id": "SRT6B001",
+  "subjectName": "Mathematics Y6 SK (semakan 2017)",
+  "displayName": "Mathematics Y6 SK (semakan 2017)",
+  "silibusCode": "DLP",
+  "silibusName": "Dual Language Programme",
+  "schoolLevelName": "Sekolah Rendah",
+  "studentLevelName": "Tahun 6",
+  "dlpStatus": true,
+  "bookStatus": "Buku Teks",
+  "downloads": {
+    "telegram": "#",
+    "pdf": "#",
+    "gdrive": "https://drive.google.com/file/d/12BzsI5Zb_nvWoaTALQdiH4Vji_BFRFgd/view?usp=drivesdk"
+  },
+  "coverColor": "#27ae60"
+}

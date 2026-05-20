@@ -1,0 +1,20 @@
+{
+  "schoolLevel": "SR",
+  "studentLevel": "T5",
+  "bookId": 28,
+  "id": "SRT5B028",
+  "subjectName": "Sejarah SK",
+  "displayName": "Sejarah SK",
+  "silibusCode": "KSSR",
+  "silibusName": "Kokurikulum Standard Sekolah Rendah",
+  "schoolLevelName": "Sekolah Rendah",
+  "studentLevelName": "Tahun 5",
+  "dlpStatus": false,
+  "bookStatus": "Buku Teks",
+  "downloads": {
+    "telegram": "#",
+    "pdf": "#",
+    "gdrive": "https://drive.google.com/file/d/1qDq2aiedIh9ejyUK4KZuDEK7f-aBeaU-/view?usp=drivesdk"
+  },
+  "coverColor": "#3498db"
+}

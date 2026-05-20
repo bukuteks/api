@@ -1,0 +1,20 @@
+{
+  "schoolLevel": "SR",
+  "studentLevel": "T2",
+  "bookId": 19,
+  "id": "SRT2B019",
+  "subjectName": "Sains Sjkc BA",
+  "displayName": "Sains Sjkc BA",
+  "silibusCode": "SJKC",
+  "silibusName": "Sekolah Jenis Kebangsaan Cina",
+  "schoolLevelName": "Sekolah Rendah",
+  "studentLevelName": "Tahun 2",
+  "dlpStatus": false,
+  "bookStatus": "Buku Aktiviti",
+  "downloads": {
+    "telegram": "#",
+    "pdf": "#",
+    "gdrive": "https://drive.google.com/file/d/13e0SEjsBsCDU3-FfdkSAMuZc2wCVXF5p/view?usp=drivesdk"
+  },
+  "coverColor": "#e74c3c"
+}

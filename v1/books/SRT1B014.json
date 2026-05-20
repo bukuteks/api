@@ -1,0 +1,20 @@
+{
+  "schoolLevel": "SR",
+  "studentLevel": "T1",
+  "bookId": 14,
+  "id": "SRT1B014",
+  "subjectName": "Sains Sjkt",
+  "displayName": "Sains Sjkt",
+  "silibusCode": "SJKT",
+  "silibusName": "Sekolah Jenis Kebangsaan Tamil",
+  "schoolLevelName": "Sekolah Rendah",
+  "studentLevelName": "Tahun 1",
+  "dlpStatus": false,
+  "bookStatus": "Buku Teks",
+  "downloads": {
+    "telegram": "#",
+    "pdf": "#",
+    "gdrive": "https://drive.google.com/file/d/1r5xsYl4kyX45uh6IenSpFjyxuNlYPAeT/view?usp=drivesdk"
+  },
+  "coverColor": "#8e44ad"
+}

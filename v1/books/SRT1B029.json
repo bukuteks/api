@@ -1,0 +1,20 @@
+{
+  "schoolLevel": "SR",
+  "studentLevel": "T1",
+  "bookId": 29,
+  "id": "SRT1B029",
+  "subjectName": "Science Y1 BA",
+  "displayName": "Science Y1 BA",
+  "silibusCode": "KSSR",
+  "silibusName": "Kokurikulum Standard Sekolah Rendah",
+  "schoolLevelName": "Sekolah Rendah",
+  "studentLevelName": "Tahun 1",
+  "dlpStatus": false,
+  "bookStatus": "Buku Aktiviti",
+  "downloads": {
+    "telegram": "#",
+    "pdf": "#",
+    "gdrive": "https://drive.google.com/file/d/1_kpe_zpCj2n3ce19ujJ6zyB9jLSVDgd-/view?usp=drive_link"
+  },
+  "coverColor": "#3498db"
+}

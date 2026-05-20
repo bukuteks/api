@@ -1,0 +1,20 @@
+{
+  "schoolLevel": "SR",
+  "studentLevel": "T3",
+  "bookId": 26,
+  "id": "SRT3B026",
+  "subjectName": "Matematik SK JLD 2",
+  "displayName": "Matematik SK JLD 2",
+  "silibusCode": "KSSR",
+  "silibusName": "Kokurikulum Standard Sekolah Rendah",
+  "schoolLevelName": "Sekolah Rendah",
+  "studentLevelName": "Tahun 3",
+  "dlpStatus": false,
+  "bookStatus": "Buku Teks",
+  "downloads": {
+    "telegram": "#",
+    "pdf": "#",
+    "gdrive": "https://drive.google.com/file/d/1m6HX5htOIB-vLyVoplbxHsBdQalWefnO/view?usp=drivesdk"
+  },
+  "coverColor": "#3498db"
+}

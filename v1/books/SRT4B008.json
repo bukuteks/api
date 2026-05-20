@@ -1,0 +1,20 @@
+{
+  "schoolLevel": "SR",
+  "studentLevel": "T4",
+  "bookId": 8,
+  "id": "SRT4B008",
+  "subjectName": "Pendidikan Moral Sjkt",
+  "displayName": "Pendidikan Moral Sjkt",
+  "silibusCode": "SJKT",
+  "silibusName": "Sekolah Jenis Kebangsaan Tamil",
+  "schoolLevelName": "Sekolah Rendah",
+  "studentLevelName": "Tahun 4",
+  "dlpStatus": false,
+  "bookStatus": "Buku Teks",
+  "downloads": {
+    "telegram": "#",
+    "pdf": "#",
+    "gdrive": "https://drive.google.com/file/d/1IzwDgWuD_SbU8GDm58JoSUzMP8aTa1Fv/view?usp=drivesdk"
+  },
+  "coverColor": "#8e44ad"
+}

@@ -1,0 +1,20 @@
+{
+  "schoolLevel": "SR",
+  "studentLevel": "T5",
+  "bookId": 7,
+  "id": "SRT5B007",
+  "subjectName": "Bahasa Tamil Sjkt",
+  "displayName": "Bahasa Tamil Sjkt",
+  "silibusCode": "SJKT",
+  "silibusName": "Sekolah Jenis Kebangsaan Tamil",
+  "schoolLevelName": "Sekolah Rendah",
+  "studentLevelName": "Tahun 5",
+  "dlpStatus": false,
+  "bookStatus": "Buku Teks",
+  "downloads": {
+    "telegram": "#",
+    "pdf": "#",
+    "gdrive": "https://drive.google.com/file/d/1ABFHWzOTEXaAoIL275JHatB4okL8AVrR/view?usp=drivesdk"
+  },
+  "coverColor": "#8e44ad"
+}

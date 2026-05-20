@@ -1,0 +1,20 @@
+{
+  "schoolLevel": "SR",
+  "studentLevel": "T2",
+  "bookId": 17,
+  "id": "SRT2B017",
+  "subjectName": "Sains Sjkt BA",
+  "displayName": "Sains Sjkt BA",
+  "silibusCode": "SJKT",
+  "silibusName": "Sekolah Jenis Kebangsaan Tamil",
+  "schoolLevelName": "Sekolah Rendah",
+  "studentLevelName": "Tahun 2",
+  "dlpStatus": false,
+  "bookStatus": "Buku Aktiviti",
+  "downloads": {
+    "telegram": "#",
+    "pdf": "#",
+    "gdrive": "https://drive.google.com/file/d/1iF12iukZ2NbzPzczHYokWfElGK-JCgXG/view?usp=drivesdk"
+  },
+  "coverColor": "#8e44ad"
+}

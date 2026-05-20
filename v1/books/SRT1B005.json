@@ -1,0 +1,20 @@
+{
+  "schoolLevel": "SR",
+  "studentLevel": "T1",
+  "bookId": 5,
+  "id": "SRT1B005",
+  "subjectName": "Science Y1",
+  "displayName": "Science Y1",
+  "silibusCode": "DLP",
+  "silibusName": "Dual Language Programme",
+  "schoolLevelName": "Sekolah Rendah",
+  "studentLevelName": "Tahun 1",
+  "dlpStatus": true,
+  "bookStatus": "Buku Teks",
+  "downloads": {
+    "telegram": "#",
+    "pdf": "#",
+    "gdrive": "https://drive.google.com/file/d/1gFgswwLexwkPNZToiQ6HV521RJ90NKI7/view?usp=drivesdk"
+  },
+  "coverColor": "#27ae60"
+}

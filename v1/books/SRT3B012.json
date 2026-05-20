@@ -1,0 +1,20 @@
+{
+  "schoolLevel": "SR",
+  "studentLevel": "T3",
+  "bookId": 12,
+  "id": "SRT3B012",
+  "subjectName": "Pendidikan Islam BA",
+  "displayName": "Pendidikan Islam BA",
+  "silibusCode": "SJKT",
+  "silibusName": "Sekolah Jenis Kebangsaan Tamil",
+  "schoolLevelName": "Sekolah Rendah",
+  "studentLevelName": "Tahun 3",
+  "dlpStatus": false,
+  "bookStatus": "Buku Aktiviti",
+  "downloads": {
+    "telegram": "#",
+    "pdf": "#",
+    "gdrive": "https://drive.google.com/file/d/18_b9HRCMfRfKaPaYGtjjz7z8gMv8QQXh/view?usp=drivesdk"
+  },
+  "coverColor": "#8e44ad"
+}

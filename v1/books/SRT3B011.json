@@ -1,0 +1,20 @@
+{
+  "schoolLevel": "SR",
+  "studentLevel": "T3",
+  "bookId": 11,
+  "id": "SRT3B011",
+  "subjectName": "Pendidikan Islam",
+  "displayName": "Pendidikan Islam",
+  "silibusCode": "SJKT",
+  "silibusName": "Sekolah Jenis Kebangsaan Tamil",
+  "schoolLevelName": "Sekolah Rendah",
+  "studentLevelName": "Tahun 3",
+  "dlpStatus": false,
+  "bookStatus": "Buku Teks",
+  "downloads": {
+    "telegram": "#",
+    "pdf": "#",
+    "gdrive": "https://drive.google.com/file/d/1f2x6ujDb0GoEndETUGd-Etrz2Q5Aa1Jv/view?usp=drivesdk"
+  },
+  "coverColor": "#8e44ad"
+}

@@ -1,0 +1,20 @@
+{
+  "schoolLevel": "SR",
+  "studentLevel": "T1",
+  "bookId": 11,
+  "id": "SRT1B011",
+  "subjectName": "Pendidikan Kesenian Sjkt",
+  "displayName": "Pendidikan Kesenian Sjkt",
+  "silibusCode": "SJKT",
+  "silibusName": "Sekolah Jenis Kebangsaan Tamil",
+  "schoolLevelName": "Sekolah Rendah",
+  "studentLevelName": "Tahun 1",
+  "dlpStatus": false,
+  "bookStatus": "Buku Teks",
+  "downloads": {
+    "telegram": "#",
+    "pdf": "#",
+    "gdrive": "https://drive.google.com/file/d/1CjoC67IT2-ojwYggyft68ai0Qn1mus0c/view?usp=drivesdk"
+  },
+  "coverColor": "#8e44ad"
+}

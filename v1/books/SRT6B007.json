@@ -1,0 +1,20 @@
+{
+  "schoolLevel": "SR",
+  "studentLevel": "T6",
+  "bookId": 7,
+  "id": "SRT6B007",
+  "subjectName": "Pendidikan Jasmani DAN Pendidikan Kesihatan Sjkc (semakan 2017)",
+  "displayName": "Pendidikan Jasmani DAN Pendidikan Kesihatan Sjkc (semakan 2017)",
+  "silibusCode": "SJKC",
+  "silibusName": "Sekolah Jenis Kebangsaan Cina",
+  "schoolLevelName": "Sekolah Rendah",
+  "studentLevelName": "Tahun 6",
+  "dlpStatus": false,
+  "bookStatus": "Buku Teks",
+  "downloads": {
+    "telegram": "#",
+    "pdf": "#",
+    "gdrive": "https://drive.google.com/file/d/1XEajirF8Z2AkePoAh-nmHDCfuOEQHops/view?usp=drivesdk"
+  },
+  "coverColor": "#e74c3c"
+}

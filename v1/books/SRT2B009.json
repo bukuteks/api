@@ -1,0 +1,20 @@
+{
+  "schoolLevel": "SR",
+  "studentLevel": "T2",
+  "bookId": 9,
+  "id": "SRT2B009",
+  "subjectName": "Matematik Sjkt BA",
+  "displayName": "Matematik Sjkt BA",
+  "silibusCode": "SJKT",
+  "silibusName": "Sekolah Jenis Kebangsaan Tamil",
+  "schoolLevelName": "Sekolah Rendah",
+  "studentLevelName": "Tahun 2",
+  "dlpStatus": false,
+  "bookStatus": "Buku Aktiviti",
+  "downloads": {
+    "telegram": "#",
+    "pdf": "#",
+    "gdrive": "https://drive.google.com/file/d/19dajR-EdQvyJviWn6C_NStDtKpAmwhQN/view?usp=drivesdk"
+  },
+  "coverColor": "#8e44ad"
+}

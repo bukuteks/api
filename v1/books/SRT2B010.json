@@ -1,0 +1,20 @@
+{
+  "schoolLevel": "SR",
+  "studentLevel": "T2",
+  "bookId": 10,
+  "id": "SRT2B010",
+  "subjectName": "Matematik Sjkt JLD 1",
+  "displayName": "Matematik Sjkt JLD 1",
+  "silibusCode": "SJKT",
+  "silibusName": "Sekolah Jenis Kebangsaan Tamil",
+  "schoolLevelName": "Sekolah Rendah",
+  "studentLevelName": "Tahun 2",
+  "dlpStatus": false,
+  "bookStatus": "Buku Teks",
+  "downloads": {
+    "telegram": "#",
+    "pdf": "#",
+    "gdrive": "https://drive.google.com/file/d/1SwWL4xcxQJivBP_171zGR70Pw8GhXV8E/view?usp=drivesdk"
+  },
+  "coverColor": "#8e44ad"
+}

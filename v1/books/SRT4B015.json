@@ -1,0 +1,20 @@
+{
+  "schoolLevel": "SR",
+  "studentLevel": "T4",
+  "bookId": 15,
+  "id": "SRT4B015",
+  "subjectName": "Matematik SK",
+  "displayName": "Matematik SK",
+  "silibusCode": "KSSR",
+  "silibusName": "Kokurikulum Standard Sekolah Rendah",
+  "schoolLevelName": "Sekolah Rendah",
+  "studentLevelName": "Tahun 4",
+  "dlpStatus": false,
+  "bookStatus": "Buku Teks",
+  "downloads": {
+    "telegram": "#",
+    "pdf": "#",
+    "gdrive": "https://drive.google.com/file/d/1VnnrXBRwcVAi8DS66bf0iE2C0SCBRLml/view?usp=drivesdk"
+  },
+  "coverColor": "#3498db"
+}

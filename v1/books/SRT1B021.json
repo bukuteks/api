@@ -1,0 +1,20 @@
+{
+  "schoolLevel": "SR",
+  "studentLevel": "T1",
+  "bookId": 21,
+  "id": "SRT1B021",
+  "subjectName": "Matematik SK BA - Jld2",
+  "displayName": "Matematik SK BA - Jld2",
+  "silibusCode": "KSSR",
+  "silibusName": "Kokurikulum Standard Sekolah Rendah",
+  "schoolLevelName": "Sekolah Rendah",
+  "studentLevelName": "Tahun 1",
+  "dlpStatus": false,
+  "bookStatus": "Buku Aktiviti",
+  "downloads": {
+    "telegram": "#",
+    "pdf": "#",
+    "gdrive": "https://drive.google.com/file/d/14cUGDrWDhnWpAlVk4SC4m6W_6rLXkFdD/view?usp=drivesdk"
+  },
+  "coverColor": "#3498db"
+}

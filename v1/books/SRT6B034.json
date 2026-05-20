@@ -1,0 +1,20 @@
+{
+  "schoolLevel": "SR",
+  "studentLevel": "T6",
+  "bookId": 34,
+  "id": "SRT6B034",
+  "subjectName": "Pendidikan Muzik SK (semakan 2017)",
+  "displayName": "Pendidikan Muzik SK (semakan 2017)",
+  "silibusCode": "KSSR",
+  "silibusName": "Kokurikulum Standard Sekolah Rendah",
+  "schoolLevelName": "Sekolah Rendah",
+  "studentLevelName": "Tahun 6",
+  "dlpStatus": false,
+  "bookStatus": "Buku Teks",
+  "downloads": {
+    "telegram": "#",
+    "pdf": "#",
+    "gdrive": "https://drive.google.com/file/d/1UpJ2qvzLNCP0Abqm7CB8E4Te9HDWr88K/view?usp=drivesdk"
+  },
+  "coverColor": "#3498db"
+}

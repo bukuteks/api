@@ -1,0 +1,20 @@
+{
+  "schoolLevel": "SR",
+  "studentLevel": "T6",
+  "bookId": 22,
+  "id": "SRT6B022",
+  "subjectName": "Reka Bentuk DAN Teknologi Sjkt (semakan 2017)",
+  "displayName": "Reka Bentuk DAN Teknologi Sjkt (semakan 2017)",
+  "silibusCode": "SJKT",
+  "silibusName": "Sekolah Jenis Kebangsaan Tamil",
+  "schoolLevelName": "Sekolah Rendah",
+  "studentLevelName": "Tahun 6",
+  "dlpStatus": false,
+  "bookStatus": "Buku Teks",
+  "downloads": {
+    "telegram": "#",
+    "pdf": "#",
+    "gdrive": "https://drive.google.com/file/d/19HXHRAQ2ZqFz6gx2MXB2Y2aQWi4Sm6mt/view?usp=drivesdk"
+  },
+  "coverColor": "#8e44ad"
+}

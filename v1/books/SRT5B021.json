@@ -1,0 +1,20 @@
+{
+  "schoolLevel": "SR",
+  "studentLevel": "T5",
+  "bookId": 21,
+  "id": "SRT5B021",
+  "subjectName": "Sains Sjkc",
+  "displayName": "Sains Sjkc",
+  "silibusCode": "SJKC",
+  "silibusName": "Sekolah Jenis Kebangsaan Cina",
+  "schoolLevelName": "Sekolah Rendah",
+  "studentLevelName": "Tahun 5",
+  "dlpStatus": false,
+  "bookStatus": "Buku Teks",
+  "downloads": {
+    "telegram": "#",
+    "pdf": "#",
+    "gdrive": "https://drive.google.com/file/d/1fPOzmN6qGw9uA9wfzwDqKeWqu8bJaZX2/view?usp=drivesdk"
+  },
+  "coverColor": "#e74c3c"
+}

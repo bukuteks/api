@@ -1,0 +1,20 @@
+{
+  "schoolLevel": "SR",
+  "studentLevel": "T6",
+  "bookId": 29,
+  "id": "SRT6B029",
+  "subjectName": "Pendidikan Islam (semakan 2017)",
+  "displayName": "Pendidikan Islam (semakan 2017)",
+  "silibusCode": "KSSR",
+  "silibusName": "Kokurikulum Standard Sekolah Rendah",
+  "schoolLevelName": "Sekolah Rendah",
+  "studentLevelName": "Tahun 6",
+  "dlpStatus": false,
+  "bookStatus": "Buku Teks",
+  "downloads": {
+    "telegram": "#",
+    "pdf": "#",
+    "gdrive": "https://drive.google.com/file/d/1oluRkvDnAJQUtuIR0Fokfh23JgwDRk3e/view?usp=drivesdk"
+  },
+  "coverColor": "#3498db"
+}

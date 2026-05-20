@@ -1,0 +1,20 @@
+{
+  "schoolLevel": "SR",
+  "studentLevel": "T5",
+  "bookId": 27,
+  "id": "SRT5B027",
+  "subjectName": "Sains SK",
+  "displayName": "Sains SK",
+  "silibusCode": "KSSR",
+  "silibusName": "Kokurikulum Standard Sekolah Rendah",
+  "schoolLevelName": "Sekolah Rendah",
+  "studentLevelName": "Tahun 5",
+  "dlpStatus": false,
+  "bookStatus": "Buku Teks",
+  "downloads": {
+    "telegram": "#",
+    "pdf": "#",
+    "gdrive": "https://drive.google.com/file/d/1k432gNRN4xr0ecSygXaDCt7LoNHpx0tW/view?usp=drivesdk"
+  },
+  "coverColor": "#3498db"
+}

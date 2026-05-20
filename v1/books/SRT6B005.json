@@ -1,0 +1,20 @@
+{
+  "schoolLevel": "SR",
+  "studentLevel": "T6",
+  "bookId": 5,
+  "id": "SRT6B005",
+  "subjectName": "Matematik Sjkc (semakan 2017)",
+  "displayName": "Matematik Sjkc (semakan 2017)",
+  "silibusCode": "SJKC",
+  "silibusName": "Sekolah Jenis Kebangsaan Cina",
+  "schoolLevelName": "Sekolah Rendah",
+  "studentLevelName": "Tahun 6",
+  "dlpStatus": false,
+  "bookStatus": "Buku Teks",
+  "downloads": {
+    "telegram": "#",
+    "pdf": "#",
+    "gdrive": "https://drive.google.com/file/d/1LQvCUa9h-kXW2D3SNUqNaKSE1-PHHCT-/view?usp=drivesdk"
+  },
+  "coverColor": "#e74c3c"
+}

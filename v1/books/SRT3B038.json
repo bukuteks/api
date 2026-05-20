@@ -1,0 +1,20 @@
+{
+  "schoolLevel": "SR",
+  "studentLevel": "T3",
+  "bookId": 38,
+  "id": "SRT3B038",
+  "subjectName": "Sains SK BA",
+  "displayName": "Sains SK BA",
+  "silibusCode": "KSSR",
+  "silibusName": "Kokurikulum Standard Sekolah Rendah",
+  "schoolLevelName": "Sekolah Rendah",
+  "studentLevelName": "Tahun 3",
+  "dlpStatus": false,
+  "bookStatus": "Buku Aktiviti",
+  "downloads": {
+    "telegram": "#",
+    "pdf": "#",
+    "gdrive": "https://drive.google.com/file/d/1ptz6FrT2Ypg3EIHRj2cXk_kOR_Di4BI3/view?usp=drivesdk"
+  },
+  "coverColor": "#3498db"
+}

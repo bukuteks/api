@@ -1,0 +1,20 @@
+{
+  "schoolLevel": "SR",
+  "studentLevel": "T2",
+  "bookId": 8,
+  "id": "SRT2B008",
+  "subjectName": "Bahasa Tamil Sjkt BA - JLD 2",
+  "displayName": "Bahasa Tamil Sjkt BA - JLD 2",
+  "silibusCode": "SJKT",
+  "silibusName": "Sekolah Jenis Kebangsaan Tamil",
+  "schoolLevelName": "Sekolah Rendah",
+  "studentLevelName": "Tahun 2",
+  "dlpStatus": false,
+  "bookStatus": "Buku Aktiviti",
+  "downloads": {
+    "telegram": "#",
+    "pdf": "#",
+    "gdrive": "https://drive.google.com/file/d/1BQY6uHHoL-2lmSTQLc4teXO42q5ilua6/view?usp=drivesdk"
+  },
+  "coverColor": "#8e44ad"
+}

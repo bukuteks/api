@@ -1,0 +1,20 @@
+{
+  "schoolLevel": "SR",
+  "studentLevel": "T1",
+  "bookId": 23,
+  "id": "SRT1B023",
+  "subjectName": "Pendidikan Islam BA",
+  "displayName": "Pendidikan Islam BA",
+  "silibusCode": "KSSR",
+  "silibusName": "Kokurikulum Standard Sekolah Rendah",
+  "schoolLevelName": "Sekolah Rendah",
+  "studentLevelName": "Tahun 1",
+  "dlpStatus": false,
+  "bookStatus": "Buku Aktiviti",
+  "downloads": {
+    "telegram": "#",
+    "pdf": "#",
+    "gdrive": "https://drive.google.com/file/d/1QC51SGkthgpHCnPKurkquUpmrxz6IFv5/view?usp=drivesdk"
+  },
+  "coverColor": "#3498db"
+}

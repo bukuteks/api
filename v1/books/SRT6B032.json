@@ -1,0 +1,20 @@
+{
+  "schoolLevel": "SR",
+  "studentLevel": "T6",
+  "bookId": 32,
+  "id": "SRT6B032",
+  "subjectName": "Pendidikan Jasmani DAN Pendidikan Kesihatan SK (semakan 2017)",
+  "displayName": "Pendidikan Jasmani DAN Pendidikan Kesihatan SK (semakan 2017)",
+  "silibusCode": "KSSR",
+  "silibusName": "Kokurikulum Standard Sekolah Rendah",
+  "schoolLevelName": "Sekolah Rendah",
+  "studentLevelName": "Tahun 6",
+  "dlpStatus": false,
+  "bookStatus": "Buku Teks",
+  "downloads": {
+    "telegram": "#",
+    "pdf": "#",
+    "gdrive": "https://drive.google.com/file/d/1zcr9hAcP_oJ8dRchTocFk_FbsGO1Wtds/view?usp=drivesdk"
+  },
+  "coverColor": "#3498db"
+}

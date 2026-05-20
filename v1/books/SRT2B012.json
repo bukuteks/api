@@ -1,0 +1,20 @@
+{
+  "schoolLevel": "SR",
+  "studentLevel": "T2",
+  "bookId": 12,
+  "id": "SRT2B012",
+  "subjectName": "Pendididikan Moral Sjkt",
+  "displayName": "Pendididikan Moral Sjkt",
+  "silibusCode": "SJKT",
+  "silibusName": "Sekolah Jenis Kebangsaan Tamil",
+  "schoolLevelName": "Sekolah Rendah",
+  "studentLevelName": "Tahun 2",
+  "dlpStatus": false,
+  "bookStatus": "Buku Teks",
+  "downloads": {
+    "telegram": "#",
+    "pdf": "#",
+    "gdrive": "https://drive.google.com/file/d/1Bx0TxTxSznJCZ2gcRzIWMr_lnS248Rte/view?usp=drivesdk"
+  },
+  "coverColor": "#8e44ad"
+}

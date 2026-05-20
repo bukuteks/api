@@ -1,0 +1,20 @@
+{
+  "schoolLevel": "SR",
+  "studentLevel": "T5",
+  "bookId": 15,
+  "id": "SRT5B015",
+  "subjectName": "Pendidikan Muzik Sjkt",
+  "displayName": "Pendidikan Muzik Sjkt",
+  "silibusCode": "SJKT",
+  "silibusName": "Sekolah Jenis Kebangsaan Tamil",
+  "schoolLevelName": "Sekolah Rendah",
+  "studentLevelName": "Tahun 5",
+  "dlpStatus": false,
+  "bookStatus": "Buku Teks",
+  "downloads": {
+    "telegram": "#",
+    "pdf": "#",
+    "gdrive": "https://drive.google.com/file/d/1hPNUB9T4N6bJG6ys1KDrVdDJSm4fuPhU/view?usp=drivesdk"
+  },
+  "coverColor": "#8e44ad"
+}

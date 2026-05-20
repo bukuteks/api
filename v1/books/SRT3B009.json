@@ -1,0 +1,20 @@
+{
+  "schoolLevel": "SR",
+  "studentLevel": "T3",
+  "bookId": 9,
+  "id": "SRT3B009",
+  "subjectName": "Matematik Sjkt Jilid 1",
+  "displayName": "Matematik Sjkt Jilid 1",
+  "silibusCode": "SJKT",
+  "silibusName": "Sekolah Jenis Kebangsaan Tamil",
+  "schoolLevelName": "Sekolah Rendah",
+  "studentLevelName": "Tahun 3",
+  "dlpStatus": false,
+  "bookStatus": "Buku Teks",
+  "downloads": {
+    "telegram": "#",
+    "pdf": "#",
+    "gdrive": "https://drive.google.com/file/d/1-8mVXI8q2ANyhYeD_CmtgrOdU3oQFTEa/view?usp=drivesdk"
+  },
+  "coverColor": "#8e44ad"
+}

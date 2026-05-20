@@ -1,0 +1,20 @@
+{
+  "schoolLevel": "SR",
+  "studentLevel": "T4",
+  "bookId": 26,
+  "id": "SRT4B026",
+  "subjectName": "Reka Bentuk DAN Teknologi SK",
+  "displayName": "Reka Bentuk DAN Teknologi SK",
+  "silibusCode": "KSSR",
+  "silibusName": "Kokurikulum Standard Sekolah Rendah",
+  "schoolLevelName": "Sekolah Rendah",
+  "studentLevelName": "Tahun 4",
+  "dlpStatus": false,
+  "bookStatus": "Buku Teks",
+  "downloads": {
+    "telegram": "#",
+    "pdf": "#",
+    "gdrive": "https://drive.google.com/file/d/1us_J9gLCNV-U30pgopY0uYtXB5Ue4f9f/view?usp=drivesdk"
+  },
+  "coverColor": "#3498db"
+}

@@ -1,0 +1,20 @@
+{
+  "schoolLevel": "SR",
+  "studentLevel": "T6",
+  "bookId": 3,
+  "id": "SRT6B003",
+  "subjectName": "Science Y6 SK (semakan 2017)",
+  "displayName": "Science Y6 SK (semakan 2017)",
+  "silibusCode": "DLP",
+  "silibusName": "Dual Language Programme",
+  "schoolLevelName": "Sekolah Rendah",
+  "studentLevelName": "Tahun 6",
+  "dlpStatus": true,
+  "bookStatus": "Buku Teks",
+  "downloads": {
+    "telegram": "#",
+    "pdf": "#",
+    "gdrive": "https://drive.google.com/file/d/1MY5E83N7jIy_--fQBGRbopPd7NS1chAR/view?usp=drivesdk"
+  },
+  "coverColor": "#27ae60"
+}

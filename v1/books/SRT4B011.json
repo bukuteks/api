@@ -1,0 +1,20 @@
+{
+  "schoolLevel": "SR",
+  "studentLevel": "T4",
+  "bookId": 11,
+  "id": "SRT4B011",
+  "subjectName": "Sejarah Sjkt",
+  "displayName": "Sejarah Sjkt",
+  "silibusCode": "SJKT",
+  "silibusName": "Sekolah Jenis Kebangsaan Tamil",
+  "schoolLevelName": "Sekolah Rendah",
+  "studentLevelName": "Tahun 4",
+  "dlpStatus": false,
+  "bookStatus": "Buku Teks",
+  "downloads": {
+    "telegram": "#",
+    "pdf": "#",
+    "gdrive": "https://drive.google.com/file/d/1kforGkqt5PJbn65j4BKdeKgrV947Mekj/view?usp=drivesdk"
+  },
+  "coverColor": "#8e44ad"
+}

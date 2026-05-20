@@ -1,0 +1,20 @@
+{
+  "schoolLevel": "SR",
+  "studentLevel": "T3",
+  "bookId": 3,
+  "id": "SRT3B003",
+  "subjectName": "Mathematics Y3 AB",
+  "displayName": "Mathematics Y3 AB",
+  "silibusCode": "DLP",
+  "silibusName": "Dual Language Programme",
+  "schoolLevelName": "Sekolah Rendah",
+  "studentLevelName": "Tahun 3",
+  "dlpStatus": true,
+  "bookStatus": "Buku Aktiviti",
+  "downloads": {
+    "telegram": "#",
+    "pdf": "#",
+    "gdrive": "https://drive.google.com/file/d/1c4tf_TrulcgNFakT0n56C5sdMC59CXCJ/view?usp=drivesdk"
+  },
+  "coverColor": "#27ae60"
+}

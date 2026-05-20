@@ -1,0 +1,20 @@
+{
+  "schoolLevel": "SR",
+  "studentLevel": "T4",
+  "bookId": 9,
+  "id": "SRT4B009",
+  "subjectName": "Reka Bentuk DAN Teknologi Sjkt",
+  "displayName": "Reka Bentuk DAN Teknologi Sjkt",
+  "silibusCode": "SJKT",
+  "silibusName": "Sekolah Jenis Kebangsaan Tamil",
+  "schoolLevelName": "Sekolah Rendah",
+  "studentLevelName": "Tahun 4",
+  "dlpStatus": false,
+  "bookStatus": "Buku Teks",
+  "downloads": {
+    "telegram": "#",
+    "pdf": "#",
+    "gdrive": "https://drive.google.com/file/d/1HbYn7gu4TxW-IBBOwTpwEiL3qz-tXVIm/view?usp=drivesdk"
+  },
+  "coverColor": "#8e44ad"
+}
