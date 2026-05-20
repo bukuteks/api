@@ -1,0 +1,602 @@
+[
+  {
+    "schoolLevel": "SR",
+    "studentLevel": "T1",
+    "bookId": 1,
+    "id": "SRT1B001",
+    "subjectName": "Mathematics Y1",
+    "displayName": "Mathematics Y1",
+    "silibusCode": "DLP",
+    "silibusName": "Dual Language Programme",
+    "schoolLevelName": "Sekolah Rendah",
+    "studentLevelName": "Tahun 1",
+    "dlpStatus": true,
+    "bookStatus": "Buku Teks",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "https://drive.google.com/file/d/18uQq9O_VGVJRoQ7TLBr7jhAATLJiPOY-/view?usp=drivesdk"
+    },
+    "coverColor": "#27ae60"
+  },
+  {
+    "schoolLevel": "SR",
+    "studentLevel": "T1",
+    "bookId": 2,
+    "id": "SRT1B002",
+    "subjectName": "Mathematics Y1",
+    "displayName": "Mathematics Y1",
+    "silibusCode": "DLP",
+    "silibusName": "Dual Language Programme",
+    "schoolLevelName": "Sekolah Rendah",
+    "studentLevelName": "Tahun 1",
+    "dlpStatus": true,
+    "bookStatus": "Buku Teks",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "https://drive.google.com/file/d/13qUwwLxJkp0nd5ReqmE_iQ64gPkNRjwJ/view?usp=drivesdk"
+    },
+    "coverColor": "#27ae60"
+  },
+  {
+    "schoolLevel": "SR",
+    "studentLevel": "T1",
+    "bookId": 3,
+    "id": "SRT1B003",
+    "subjectName": "Mathematics Y1 AB",
+    "displayName": "Mathematics Y1 AB",
+    "silibusCode": "DLP",
+    "silibusName": "Dual Language Programme",
+    "schoolLevelName": "Sekolah Rendah",
+    "studentLevelName": "Tahun 1",
+    "dlpStatus": true,
+    "bookStatus": "Buku Aktiviti",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "https://drive.google.com/file/d/1o73kkN--cHPVR8iO_YskwxA4JkeLEJzV/view?usp=drivesdk"
+    },
+    "coverColor": "#27ae60"
+  },
+  {
+    "schoolLevel": "SR",
+    "studentLevel": "T1",
+    "bookId": 4,
+    "id": "SRT1B004",
+    "subjectName": "Mathematics Y1 AB",
+    "displayName": "Mathematics Y1 AB",
+    "silibusCode": "DLP",
+    "silibusName": "Dual Language Programme",
+    "schoolLevelName": "Sekolah Rendah",
+    "studentLevelName": "Tahun 1",
+    "dlpStatus": true,
+    "bookStatus": "Buku Aktiviti",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "https://drive.google.com/file/d/1fa_0d-kp16mYrRX1dzkHnROo_P8zXUHD/view?usp=drivesdk"
+    },
+    "coverColor": "#27ae60"
+  },
+  {
+    "schoolLevel": "SR",
+    "studentLevel": "T1",
+    "bookId": 5,
+    "id": "SRT1B005",
+    "subjectName": "Science Y1",
+    "displayName": "Science Y1",
+    "silibusCode": "DLP",
+    "silibusName": "Dual Language Programme",
+    "schoolLevelName": "Sekolah Rendah",
+    "studentLevelName": "Tahun 1",
+    "dlpStatus": true,
+    "bookStatus": "Buku Teks",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "https://drive.google.com/file/d/1gFgswwLexwkPNZToiQ6HV521RJ90NKI7/view?usp=drivesdk"
+    },
+    "coverColor": "#27ae60"
+  },
+  {
+    "schoolLevel": "SR",
+    "studentLevel": "T1",
+    "bookId": 6,
+    "id": "SRT1B006",
+    "subjectName": "Science Y1 AB",
+    "displayName": "Science Y1 AB",
+    "silibusCode": "DLP",
+    "silibusName": "Dual Language Programme",
+    "schoolLevelName": "Sekolah Rendah",
+    "studentLevelName": "Tahun 1",
+    "dlpStatus": true,
+    "bookStatus": "Buku Aktiviti",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "https://drive.google.com/file/d/1aWYZIe0RI-bD6fxr4Szl2-gpb97uOKNL/view?usp=drivesdk"
+    },
+    "coverColor": "#27ae60"
+  },
+  {
+    "schoolLevel": "SR",
+    "studentLevel": "T1",
+    "bookId": 7,
+    "id": "SRT1B007",
+    "subjectName": "Science Y1 AB",
+    "displayName": "Science Y1 AB",
+    "silibusCode": "DLP",
+    "silibusName": "Dual Language Programme",
+    "schoolLevelName": "Sekolah Rendah",
+    "studentLevelName": "Tahun 1",
+    "dlpStatus": true,
+    "bookStatus": "Buku Aktiviti",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "https://drive.google.com/file/d/1F1kLjkzElyFXmseJtCZuayrCT5S-D3oI/view?usp=drivesdk"
+    },
+    "coverColor": "#27ae60"
+  },
+  {
+    "schoolLevel": "SR",
+    "studentLevel": "T1",
+    "bookId": 8,
+    "id": "SRT1B008",
+    "subjectName": "Science Y1 AB",
+    "displayName": "Science Y1 AB",
+    "silibusCode": "DLP",
+    "silibusName": "Dual Language Programme",
+    "schoolLevelName": "Sekolah Rendah",
+    "studentLevelName": "Tahun 1",
+    "dlpStatus": true,
+    "bookStatus": "Buku Aktiviti",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "https://drive.google.com/file/d/143LPV0eHqSQYOYcRDq4NuJSDDIZJlHZj/view?usp=drivesdk"
+    },
+    "coverColor": "#27ae60"
+  },
+  {
+    "schoolLevel": "SR",
+    "studentLevel": "T2",
+    "bookId": 1,
+    "id": "SRT2B001",
+    "subjectName": "Mathematics Y2",
+    "displayName": "Mathematics Y2",
+    "silibusCode": "DLP",
+    "silibusName": "Dual Language Programme",
+    "schoolLevelName": "Sekolah Rendah",
+    "studentLevelName": "Tahun 2",
+    "dlpStatus": true,
+    "bookStatus": "Buku Teks",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "https://drive.google.com/file/d/1CRl1IUjmDanQLXdR1_l0Ycuj9cEjEmYs/view?usp=drivesdk"
+    },
+    "coverColor": "#27ae60"
+  },
+  {
+    "schoolLevel": "SR",
+    "studentLevel": "T2",
+    "bookId": 2,
+    "id": "SRT2B002",
+    "subjectName": "Mathematics Y2",
+    "displayName": "Mathematics Y2",
+    "silibusCode": "DLP",
+    "silibusName": "Dual Language Programme",
+    "schoolLevelName": "Sekolah Rendah",
+    "studentLevelName": "Tahun 2",
+    "dlpStatus": true,
+    "bookStatus": "Buku Teks",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "https://drive.google.com/file/d/16Yij83FWAv3RjOuADVTwf4ohpP8Vmz88/view?usp=drivesdk"
+    },
+    "coverColor": "#27ae60"
+  },
+  {
+    "schoolLevel": "SR",
+    "studentLevel": "T2",
+    "bookId": 3,
+    "id": "SRT2B003",
+    "subjectName": "Mathematics Y2 BA",
+    "displayName": "Mathematics Y2 BA",
+    "silibusCode": "DLP",
+    "silibusName": "Dual Language Programme",
+    "schoolLevelName": "Sekolah Rendah",
+    "studentLevelName": "Tahun 2",
+    "dlpStatus": true,
+    "bookStatus": "Buku Aktiviti",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "https://drive.google.com/file/d/1XuHTS3lNH_GZKybyQbwwuo2uYdW_z-_K/view?usp=drivesdk"
+    },
+    "coverColor": "#27ae60"
+  },
+  {
+    "schoolLevel": "SR",
+    "studentLevel": "T2",
+    "bookId": 4,
+    "id": "SRT2B004",
+    "subjectName": "Science Y2",
+    "displayName": "Science Y2",
+    "silibusCode": "DLP",
+    "silibusName": "Dual Language Programme",
+    "schoolLevelName": "Sekolah Rendah",
+    "studentLevelName": "Tahun 2",
+    "dlpStatus": true,
+    "bookStatus": "Buku Teks",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "https://drive.google.com/file/d/1OrXJcciiP7zW2pDxLr_5EwWM17FkOBR2/view?usp=drivesdk"
+    },
+    "coverColor": "#27ae60"
+  },
+  {
+    "schoolLevel": "SR",
+    "studentLevel": "T2",
+    "bookId": 5,
+    "id": "SRT2B005",
+    "subjectName": "Science Y2 AB",
+    "displayName": "Science Y2 AB",
+    "silibusCode": "DLP",
+    "silibusName": "Dual Language Programme",
+    "schoolLevelName": "Sekolah Rendah",
+    "studentLevelName": "Tahun 2",
+    "dlpStatus": true,
+    "bookStatus": "Buku Aktiviti",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "https://drive.google.com/file/d/1AK9tg3wbNxEIENw3qQ6R_Txsjyj06n3g/view?usp=drivesdk"
+    },
+    "coverColor": "#27ae60"
+  },
+  {
+    "schoolLevel": "SR",
+    "studentLevel": "T3",
+    "bookId": 1,
+    "id": "SRT3B001",
+    "subjectName": "Mathematics Y3",
+    "displayName": "Mathematics Y3",
+    "silibusCode": "DLP",
+    "silibusName": "Dual Language Programme",
+    "schoolLevelName": "Sekolah Rendah",
+    "studentLevelName": "Tahun 3",
+    "dlpStatus": true,
+    "bookStatus": "Buku Teks",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "https://drive.google.com/file/d/17dhWs3as91pYoBAGKcg21CVxg1MtwGW8/view?usp=drivesdk"
+    },
+    "coverColor": "#27ae60"
+  },
+  {
+    "schoolLevel": "SR",
+    "studentLevel": "T3",
+    "bookId": 2,
+    "id": "SRT3B002",
+    "subjectName": "Mathematics Y3",
+    "displayName": "Mathematics Y3",
+    "silibusCode": "DLP",
+    "silibusName": "Dual Language Programme",
+    "schoolLevelName": "Sekolah Rendah",
+    "studentLevelName": "Tahun 3",
+    "dlpStatus": true,
+    "bookStatus": "Buku Teks",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "https://drive.google.com/file/d/1VeyVS93IGuEtg34pew4syNrxo66cj0ws/view?usp=drivesdk"
+    },
+    "coverColor": "#27ae60"
+  },
+  {
+    "schoolLevel": "SR",
+    "studentLevel": "T3",
+    "bookId": 3,
+    "id": "SRT3B003",
+    "subjectName": "Mathematics Y3 AB",
+    "displayName": "Mathematics Y3 AB",
+    "silibusCode": "DLP",
+    "silibusName": "Dual Language Programme",
+    "schoolLevelName": "Sekolah Rendah",
+    "studentLevelName": "Tahun 3",
+    "dlpStatus": true,
+    "bookStatus": "Buku Aktiviti",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "https://drive.google.com/file/d/1c4tf_TrulcgNFakT0n56C5sdMC59CXCJ/view?usp=drivesdk"
+    },
+    "coverColor": "#27ae60"
+  },
+  {
+    "schoolLevel": "SR",
+    "studentLevel": "T3",
+    "bookId": 4,
+    "id": "SRT3B004",
+    "subjectName": "Science Y3",
+    "displayName": "Science Y3",
+    "silibusCode": "DLP",
+    "silibusName": "Dual Language Programme",
+    "schoolLevelName": "Sekolah Rendah",
+    "studentLevelName": "Tahun 3",
+    "dlpStatus": true,
+    "bookStatus": "Buku Teks",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "https://drive.google.com/file/d/1TLyKHYO47WWfxwZwkAUeokecW7B8TSIK/view?usp=drivesdk"
+    },
+    "coverColor": "#27ae60"
+  },
+  {
+    "schoolLevel": "SR",
+    "studentLevel": "T3",
+    "bookId": 5,
+    "id": "SRT3B005",
+    "subjectName": "Science Y3 AB",
+    "displayName": "Science Y3 AB",
+    "silibusCode": "DLP",
+    "silibusName": "Dual Language Programme",
+    "schoolLevelName": "Sekolah Rendah",
+    "studentLevelName": "Tahun 3",
+    "dlpStatus": true,
+    "bookStatus": "Buku Aktiviti",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "https://drive.google.com/file/d/1QkDOSvjbdj5ZbclIHZmF78mS9DeKib21/view?usp=drivesdk"
+    },
+    "coverColor": "#27ae60"
+  },
+  {
+    "schoolLevel": "SR",
+    "studentLevel": "T4",
+    "bookId": 1,
+    "id": "SRT4B001",
+    "subjectName": "Mathematics Y4",
+    "displayName": "Mathematics Y4",
+    "silibusCode": "DLP",
+    "silibusName": "Dual Language Programme",
+    "schoolLevelName": "Sekolah Rendah",
+    "studentLevelName": "Tahun 4",
+    "dlpStatus": true,
+    "bookStatus": "Buku Teks",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "https://drive.google.com/file/d/1RZHRqMoy_sicdN13rjQAQrxIzv6bR6AB/view?usp=drivesdk"
+    },
+    "coverColor": "#27ae60"
+  },
+  {
+    "schoolLevel": "SR",
+    "studentLevel": "T4",
+    "bookId": 2,
+    "id": "SRT4B002",
+    "subjectName": "Mathematics Y4",
+    "displayName": "Mathematics Y4",
+    "silibusCode": "DLP",
+    "silibusName": "Dual Language Programme",
+    "schoolLevelName": "Sekolah Rendah",
+    "studentLevelName": "Tahun 4",
+    "dlpStatus": true,
+    "bookStatus": "Buku Teks",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "https://drive.google.com/file/d/1cUOxQjFxPGWBzg32qFQXongnhltSzfRZ/view?usp=drivesdk"
+    },
+    "coverColor": "#27ae60"
+  },
+  {
+    "schoolLevel": "SR",
+    "studentLevel": "T4",
+    "bookId": 3,
+    "id": "SRT4B003",
+    "subjectName": "Science Y4",
+    "displayName": "Science Y4",
+    "silibusCode": "DLP",
+    "silibusName": "Dual Language Programme",
+    "schoolLevelName": "Sekolah Rendah",
+    "studentLevelName": "Tahun 4",
+    "dlpStatus": true,
+    "bookStatus": "Buku Teks",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "https://drive.google.com/file/d/1KDGSo3IKmdvNANgtQk1x0V3cAQj8vqPL/view?usp=drivesdk"
+    },
+    "coverColor": "#27ae60"
+  },
+  {
+    "schoolLevel": "SR",
+    "studentLevel": "T5",
+    "bookId": 1,
+    "id": "SRT5B001",
+    "subjectName": "Mathematics Y5 - 1 OF 2",
+    "displayName": "Mathematics Y5 - 1 OF 2",
+    "silibusCode": "DLP",
+    "silibusName": "Dual Language Programme",
+    "schoolLevelName": "Sekolah Rendah",
+    "studentLevelName": "Tahun 5",
+    "dlpStatus": true,
+    "bookStatus": "Buku Teks",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "https://drive.google.com/file/d/14ZgQti35JDoCE6tArIP9rs08txAkfZ5E/view?usp=drivesdk"
+    },
+    "coverColor": "#27ae60"
+  },
+  {
+    "schoolLevel": "SR",
+    "studentLevel": "T5",
+    "bookId": 2,
+    "id": "SRT5B002",
+    "subjectName": "Mathematics Y5 - 2 OF 2",
+    "displayName": "Mathematics Y5 - 2 OF 2",
+    "silibusCode": "DLP",
+    "silibusName": "Dual Language Programme",
+    "schoolLevelName": "Sekolah Rendah",
+    "studentLevelName": "Tahun 5",
+    "dlpStatus": true,
+    "bookStatus": "Buku Teks",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "https://drive.google.com/file/d/1I71zI8SANyp4lnuZ0gfu63VbC2WBAwyR/view?usp=drivesdk"
+    },
+    "coverColor": "#27ae60"
+  },
+  {
+    "schoolLevel": "SR",
+    "studentLevel": "T5",
+    "bookId": 3,
+    "id": "SRT5B003",
+    "subjectName": "Science Y5 - 1 OF 4",
+    "displayName": "Science Y5 - 1 OF 4",
+    "silibusCode": "DLP",
+    "silibusName": "Dual Language Programme",
+    "schoolLevelName": "Sekolah Rendah",
+    "studentLevelName": "Tahun 5",
+    "dlpStatus": true,
+    "bookStatus": "Buku Teks",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "https://drive.google.com/file/d/1Pu-bSx0HvBYoxVBeS6vTRtlilbrCtTe_/view?usp=drivesdk"
+    },
+    "coverColor": "#27ae60"
+  },
+  {
+    "schoolLevel": "SR",
+    "studentLevel": "T5",
+    "bookId": 4,
+    "id": "SRT5B004",
+    "subjectName": "Science Y5 - 2 OF 4",
+    "displayName": "Science Y5 - 2 OF 4",
+    "silibusCode": "DLP",
+    "silibusName": "Dual Language Programme",
+    "schoolLevelName": "Sekolah Rendah",
+    "studentLevelName": "Tahun 5",
+    "dlpStatus": true,
+    "bookStatus": "Buku Teks",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "https://drive.google.com/file/d/1QMzd2oVP2spquObwTUnTbGDcAF7doxRq/view?usp=drivesdk"
+    },
+    "coverColor": "#27ae60"
+  },
+  {
+    "schoolLevel": "SR",
+    "studentLevel": "T5",
+    "bookId": 5,
+    "id": "SRT5B005",
+    "subjectName": "Science Y5 - 3 OF 4",
+    "displayName": "Science Y5 - 3 OF 4",
+    "silibusCode": "DLP",
+    "silibusName": "Dual Language Programme",
+    "schoolLevelName": "Sekolah Rendah",
+    "studentLevelName": "Tahun 5",
+    "dlpStatus": true,
+    "bookStatus": "Buku Teks",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "https://drive.google.com/file/d/1BB3Q3XCllZhMmCmTgFU94BTou04ymEiw/view?usp=drivesdk"
+    },
+    "coverColor": "#27ae60"
+  },
+  {
+    "schoolLevel": "SR",
+    "studentLevel": "T5",
+    "bookId": 6,
+    "id": "SRT5B006",
+    "subjectName": "Science Y5 - 4 OF 4",
+    "displayName": "Science Y5 - 4 OF 4",
+    "silibusCode": "DLP",
+    "silibusName": "Dual Language Programme",
+    "schoolLevelName": "Sekolah Rendah",
+    "studentLevelName": "Tahun 5",
+    "dlpStatus": true,
+    "bookStatus": "Buku Teks",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "https://drive.google.com/file/d/1QJ-8t4igKKLDY55A8ekFC7Co8R5bDf2v/view?usp=drivesdk"
+    },
+    "coverColor": "#27ae60"
+  },
+  {
+    "schoolLevel": "SR",
+    "studentLevel": "T6",
+    "bookId": 1,
+    "id": "SRT6B001",
+    "subjectName": "Mathematics Y6 SK (semakan 2017)",
+    "displayName": "Mathematics Y6 SK (semakan 2017)",
+    "silibusCode": "DLP",
+    "silibusName": "Dual Language Programme",
+    "schoolLevelName": "Sekolah Rendah",
+    "studentLevelName": "Tahun 6",
+    "dlpStatus": true,
+    "bookStatus": "Buku Teks",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "https://drive.google.com/file/d/12BzsI5Zb_nvWoaTALQdiH4Vji_BFRFgd/view?usp=drivesdk"
+    },
+    "coverColor": "#27ae60"
+  },
+  {
+    "schoolLevel": "SR",
+    "studentLevel": "T6",
+    "bookId": 2,
+    "id": "SRT6B002",
+    "subjectName": "Science Y6 SK (semakan 2017)",
+    "displayName": "Science Y6 SK (semakan 2017)",
+    "silibusCode": "DLP",
+    "silibusName": "Dual Language Programme",
+    "schoolLevelName": "Sekolah Rendah",
+    "studentLevelName": "Tahun 6",
+    "dlpStatus": true,
+    "bookStatus": "Buku Teks",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "https://drive.google.com/file/d/1B1rEyjy5db-kdrnV2v0M1yB7qQcjrAw3/view?usp=drivesdk"
+    },
+    "coverColor": "#27ae60"
+  },
+  {
+    "schoolLevel": "SR",
+    "studentLevel": "T6",
+    "bookId": 3,
+    "id": "SRT6B003",
+    "subjectName": "Science Y6 SK (semakan 2017)",
+    "displayName": "Science Y6 SK (semakan 2017)",
+    "silibusCode": "DLP",
+    "silibusName": "Dual Language Programme",
+    "schoolLevelName": "Sekolah Rendah",
+    "studentLevelName": "Tahun 6",
+    "dlpStatus": true,
+    "bookStatus": "Buku Teks",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "https://drive.google.com/file/d/1MY5E83N7jIy_--fQBGRbopPd7NS1chAR/view?usp=drivesdk"
+    },
+    "coverColor": "#27ae60"
+  }
+]

@@ -1,0 +1,562 @@
+[
+  {
+    "schoolLevel": "SR",
+    "studentLevel": "T1",
+    "bookId": 15,
+    "id": "SRT1B015",
+    "subjectName": "Pendidikan Kesenian Sjkc",
+    "displayName": "Pendidikan Kesenian Sjkc",
+    "silibusCode": "SJKC",
+    "silibusName": "Sekolah Jenis Kebangsaan Cina",
+    "schoolLevelName": "Sekolah Rendah",
+    "studentLevelName": "Tahun 1",
+    "dlpStatus": false,
+    "bookStatus": "Buku Teks",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "https://drive.google.com/file/d/1k0WwGL-lFMDafNGvxjBGANwGPdpqO7nn/view?usp=drivesdk"
+    },
+    "coverColor": "#e74c3c"
+  },
+  {
+    "schoolLevel": "SR",
+    "studentLevel": "T1",
+    "bookId": 16,
+    "id": "SRT1B016",
+    "subjectName": "Pendidikan Moral Sjkc",
+    "displayName": "Pendidikan Moral Sjkc",
+    "silibusCode": "SJKC",
+    "silibusName": "Sekolah Jenis Kebangsaan Cina",
+    "schoolLevelName": "Sekolah Rendah",
+    "studentLevelName": "Tahun 1",
+    "dlpStatus": false,
+    "bookStatus": "Buku Teks",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "https://drive.google.com/file/d/1jKV4PeiJUL_66hkrXdM8ER9xGEsJIbUM/view?usp=drivesdk"
+    },
+    "coverColor": "#e74c3c"
+  },
+  {
+    "schoolLevel": "SR",
+    "studentLevel": "T1",
+    "bookId": 17,
+    "id": "SRT1B017",
+    "subjectName": "Sains Sjkc",
+    "displayName": "Sains Sjkc",
+    "silibusCode": "SJKC",
+    "silibusName": "Sekolah Jenis Kebangsaan Cina",
+    "schoolLevelName": "Sekolah Rendah",
+    "studentLevelName": "Tahun 1",
+    "dlpStatus": false,
+    "bookStatus": "Buku Teks",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "https://drive.google.com/file/d/1K14DyS6Rc_w5hxnC69Gwx0rljqDbkf4x/view?usp=drivesdk"
+    },
+    "coverColor": "#e74c3c"
+  },
+  {
+    "schoolLevel": "SR",
+    "studentLevel": "T1",
+    "bookId": 18,
+    "id": "SRT1B018",
+    "subjectName": "Sains Sjkc BA",
+    "displayName": "Sains Sjkc BA",
+    "silibusCode": "SJKC",
+    "silibusName": "Sekolah Jenis Kebangsaan Cina",
+    "schoolLevelName": "Sekolah Rendah",
+    "studentLevelName": "Tahun 1",
+    "dlpStatus": false,
+    "bookStatus": "Buku Aktiviti",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "https://drive.google.com/file/d/1MOTXCsrarvlF8xmCCnLoCbFIc6Df0YW4/view?usp=drivesdk"
+    },
+    "coverColor": "#e74c3c"
+  },
+  {
+    "schoolLevel": "SR",
+    "studentLevel": "T2",
+    "bookId": 18,
+    "id": "SRT2B018",
+    "subjectName": "Sains Sjkc",
+    "displayName": "Sains Sjkc",
+    "silibusCode": "SJKC",
+    "silibusName": "Sekolah Jenis Kebangsaan Cina",
+    "schoolLevelName": "Sekolah Rendah",
+    "studentLevelName": "Tahun 2",
+    "dlpStatus": false,
+    "bookStatus": "Buku Teks",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "https://drive.google.com/file/d/1QldjBmFl27sDatgV_yICdXhVb8DS5JjI/view?usp=drivesdk"
+    },
+    "coverColor": "#e74c3c"
+  },
+  {
+    "schoolLevel": "SR",
+    "studentLevel": "T2",
+    "bookId": 19,
+    "id": "SRT2B019",
+    "subjectName": "Sains Sjkc BA",
+    "displayName": "Sains Sjkc BA",
+    "silibusCode": "SJKC",
+    "silibusName": "Sekolah Jenis Kebangsaan Cina",
+    "schoolLevelName": "Sekolah Rendah",
+    "studentLevelName": "Tahun 2",
+    "dlpStatus": false,
+    "bookStatus": "Buku Aktiviti",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "https://drive.google.com/file/d/13e0SEjsBsCDU3-FfdkSAMuZc2wCVXF5p/view?usp=drivesdk"
+    },
+    "coverColor": "#e74c3c"
+  },
+  {
+    "schoolLevel": "SR",
+    "studentLevel": "T3",
+    "bookId": 18,
+    "id": "SRT3B018",
+    "subjectName": "Sains Sjkc",
+    "displayName": "Sains Sjkc",
+    "silibusCode": "SJKC",
+    "silibusName": "Sekolah Jenis Kebangsaan Cina",
+    "schoolLevelName": "Sekolah Rendah",
+    "studentLevelName": "Tahun 3",
+    "dlpStatus": false,
+    "bookStatus": "Buku Teks",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "https://drive.google.com/file/d/1ftS4znNKhlYswceaVCGIYIM5gxeEAD69/view?usp=drivesdk"
+    },
+    "coverColor": "#e74c3c"
+  },
+  {
+    "schoolLevel": "SR",
+    "studentLevel": "T3",
+    "bookId": 19,
+    "id": "SRT3B019",
+    "subjectName": "Sains Sjkc BA",
+    "displayName": "Sains Sjkc BA",
+    "silibusCode": "SJKC",
+    "silibusName": "Sekolah Jenis Kebangsaan Cina",
+    "schoolLevelName": "Sekolah Rendah",
+    "studentLevelName": "Tahun 3",
+    "dlpStatus": false,
+    "bookStatus": "Buku Aktiviti",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "https://drive.google.com/file/d/1ASu13qr8aSAwF4DwRLAS3zQBSst7x4lO/view?usp=drivesdk"
+    },
+    "coverColor": "#e74c3c"
+  },
+  {
+    "schoolLevel": "SR",
+    "studentLevel": "T4",
+    "bookId": 5,
+    "id": "SRT4B005",
+    "subjectName": "Pendidikan Islam",
+    "displayName": "Pendidikan Islam",
+    "silibusCode": "SJKC",
+    "silibusName": "Sekolah Jenis Kebangsaan Cina",
+    "schoolLevelName": "Sekolah Rendah",
+    "studentLevelName": "Tahun 4",
+    "dlpStatus": false,
+    "bookStatus": "Buku Teks",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "https://drive.google.com/file/d/1MXnwGvlDYPId0WfXuguj7z9dj4vGEeg0/view?usp=drivesdk"
+    },
+    "coverColor": "#e74c3c"
+  },
+  {
+    "schoolLevel": "SR",
+    "studentLevel": "T5",
+    "bookId": 8,
+    "id": "SRT5B008",
+    "subjectName": "Matematik Sjkc BT",
+    "displayName": "Matematik Sjkc BT",
+    "silibusCode": "SJKC",
+    "silibusName": "Sekolah Jenis Kebangsaan Cina",
+    "schoolLevelName": "Sekolah Rendah",
+    "studentLevelName": "Tahun 5",
+    "dlpStatus": false,
+    "bookStatus": "Buku Teks",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "https://drive.google.com/file/d/1TMN9LP2ZUkNIBHVqiVroloxgKPsAqf1e/view?usp=drivesdk"
+    },
+    "coverColor": "#e74c3c"
+  },
+  {
+    "schoolLevel": "SR",
+    "studentLevel": "T5",
+    "bookId": 9,
+    "id": "SRT5B009",
+    "subjectName": "Matematik Sjkc BT",
+    "displayName": "Matematik Sjkc BT",
+    "silibusCode": "SJKC",
+    "silibusName": "Sekolah Jenis Kebangsaan Cina",
+    "schoolLevelName": "Sekolah Rendah",
+    "studentLevelName": "Tahun 5",
+    "dlpStatus": false,
+    "bookStatus": "Buku Teks",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "https://drive.google.com/file/d/1bi6tN0CZwiun2RIqe5Sq4tG8AyQhrHh1/view?usp=drivesdk"
+    },
+    "coverColor": "#e74c3c"
+  },
+  {
+    "schoolLevel": "SR",
+    "studentLevel": "T5",
+    "bookId": 21,
+    "id": "SRT5B021",
+    "subjectName": "Sains Sjkc",
+    "displayName": "Sains Sjkc",
+    "silibusCode": "SJKC",
+    "silibusName": "Sekolah Jenis Kebangsaan Cina",
+    "schoolLevelName": "Sekolah Rendah",
+    "studentLevelName": "Tahun 5",
+    "dlpStatus": false,
+    "bookStatus": "Buku Teks",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "https://drive.google.com/file/d/1fPOzmN6qGw9uA9wfzwDqKeWqu8bJaZX2/view?usp=drivesdk"
+    },
+    "coverColor": "#e74c3c"
+  },
+  {
+    "schoolLevel": "SR",
+    "studentLevel": "T5",
+    "bookId": 22,
+    "id": "SRT5B022",
+    "subjectName": "Sains Sjkc",
+    "displayName": "Sains Sjkc",
+    "silibusCode": "SJKC",
+    "silibusName": "Sekolah Jenis Kebangsaan Cina",
+    "schoolLevelName": "Sekolah Rendah",
+    "studentLevelName": "Tahun 5",
+    "dlpStatus": false,
+    "bookStatus": "Buku Teks",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "https://drive.google.com/file/d/1YFQlxaGH7_xOft-teJSxJ14UdoBQ-tzK/view?usp=drivesdk"
+    },
+    "coverColor": "#e74c3c"
+  },
+  {
+    "schoolLevel": "SR",
+    "studentLevel": "T5",
+    "bookId": 23,
+    "id": "SRT5B023",
+    "subjectName": "Sejarah Sjkc",
+    "displayName": "Sejarah Sjkc",
+    "silibusCode": "SJKC",
+    "silibusName": "Sekolah Jenis Kebangsaan Cina",
+    "schoolLevelName": "Sekolah Rendah",
+    "studentLevelName": "Tahun 5",
+    "dlpStatus": false,
+    "bookStatus": "Buku Teks",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "https://drive.google.com/file/d/177dO5E6Ulzv7tCHP0tWMeqjzlgS6pwU_/view?usp=drivesdk"
+    },
+    "coverColor": "#e74c3c"
+  },
+  {
+    "schoolLevel": "SR",
+    "studentLevel": "T5",
+    "bookId": 24,
+    "id": "SRT5B024",
+    "subjectName": "Sejarah Sjkc",
+    "displayName": "Sejarah Sjkc",
+    "silibusCode": "SJKC",
+    "silibusName": "Sekolah Jenis Kebangsaan Cina",
+    "schoolLevelName": "Sekolah Rendah",
+    "studentLevelName": "Tahun 5",
+    "dlpStatus": false,
+    "bookStatus": "Buku Teks",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "https://drive.google.com/file/d/144Id7foOIcE6rE0dswK6aASwtK9yrT_E/view?usp=drivesdk"
+    },
+    "coverColor": "#e74c3c"
+  },
+  {
+    "schoolLevel": "SR",
+    "studentLevel": "T6",
+    "bookId": 5,
+    "id": "SRT6B005",
+    "subjectName": "Matematik Sjkc (semakan 2017)",
+    "displayName": "Matematik Sjkc (semakan 2017)",
+    "silibusCode": "SJKC",
+    "silibusName": "Sekolah Jenis Kebangsaan Cina",
+    "schoolLevelName": "Sekolah Rendah",
+    "studentLevelName": "Tahun 6",
+    "dlpStatus": false,
+    "bookStatus": "Buku Teks",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "https://drive.google.com/file/d/1LQvCUa9h-kXW2D3SNUqNaKSE1-PHHCT-/view?usp=drivesdk"
+    },
+    "coverColor": "#e74c3c"
+  },
+  {
+    "schoolLevel": "SR",
+    "studentLevel": "T6",
+    "bookId": 6,
+    "id": "SRT6B006",
+    "subjectName": "Matematik Sjkc (semakan 2017)",
+    "displayName": "Matematik Sjkc (semakan 2017)",
+    "silibusCode": "SJKC",
+    "silibusName": "Sekolah Jenis Kebangsaan Cina",
+    "schoolLevelName": "Sekolah Rendah",
+    "studentLevelName": "Tahun 6",
+    "dlpStatus": false,
+    "bookStatus": "Buku Teks",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "https://drive.google.com/file/d/1uE11tCA7qnKl5AN48KyLnj7RF7x1E6cM/view?usp=drivesdk"
+    },
+    "coverColor": "#e74c3c"
+  },
+  {
+    "schoolLevel": "SR",
+    "studentLevel": "T6",
+    "bookId": 7,
+    "id": "SRT6B007",
+    "subjectName": "Pendidikan Jasmani DAN Pendidikan Kesihatan Sjkc (semakan 2017)",
+    "displayName": "Pendidikan Jasmani DAN Pendidikan Kesihatan Sjkc (semakan 2017)",
+    "silibusCode": "SJKC",
+    "silibusName": "Sekolah Jenis Kebangsaan Cina",
+    "schoolLevelName": "Sekolah Rendah",
+    "studentLevelName": "Tahun 6",
+    "dlpStatus": false,
+    "bookStatus": "Buku Teks",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "https://drive.google.com/file/d/1XEajirF8Z2AkePoAh-nmHDCfuOEQHops/view?usp=drivesdk"
+    },
+    "coverColor": "#e74c3c"
+  },
+  {
+    "schoolLevel": "SR",
+    "studentLevel": "T6",
+    "bookId": 8,
+    "id": "SRT6B008",
+    "subjectName": "Pendidikan Jasmani DAN Pendidikan Kesihatan Sjkc (semakan 2017)",
+    "displayName": "Pendidikan Jasmani DAN Pendidikan Kesihatan Sjkc (semakan 2017)",
+    "silibusCode": "SJKC",
+    "silibusName": "Sekolah Jenis Kebangsaan Cina",
+    "schoolLevelName": "Sekolah Rendah",
+    "studentLevelName": "Tahun 6",
+    "dlpStatus": false,
+    "bookStatus": "Buku Teks",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "https://drive.google.com/file/d/1wxpWOZriMsEuxPptYUQdXPosla9wZ4TG/view?usp=drivesdk"
+    },
+    "coverColor": "#e74c3c"
+  },
+  {
+    "schoolLevel": "SR",
+    "studentLevel": "T6",
+    "bookId": 9,
+    "id": "SRT6B009",
+    "subjectName": "Pendidikan Moral Sjkc",
+    "displayName": "Pendidikan Moral Sjkc",
+    "silibusCode": "SJKC",
+    "silibusName": "Sekolah Jenis Kebangsaan Cina",
+    "schoolLevelName": "Sekolah Rendah",
+    "studentLevelName": "Tahun 6",
+    "dlpStatus": false,
+    "bookStatus": "Buku Teks",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "https://drive.google.com/file/d/1D-IV-kVAVhConLmpnUwpmikXJlmOYWIj/view?usp=drivesdk"
+    },
+    "coverColor": "#e74c3c"
+  },
+  {
+    "schoolLevel": "SR",
+    "studentLevel": "T6",
+    "bookId": 10,
+    "id": "SRT6B010",
+    "subjectName": "Pendidikan Moral Sjkc",
+    "displayName": "Pendidikan Moral Sjkc",
+    "silibusCode": "SJKC",
+    "silibusName": "Sekolah Jenis Kebangsaan Cina",
+    "schoolLevelName": "Sekolah Rendah",
+    "studentLevelName": "Tahun 6",
+    "dlpStatus": false,
+    "bookStatus": "Buku Teks",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "https://drive.google.com/file/d/1BRLOAGSxJqvhrpGxjkkNOfx1GqPUHJHT/view?usp=drivesdk"
+    },
+    "coverColor": "#e74c3c"
+  },
+  {
+    "schoolLevel": "SR",
+    "studentLevel": "T6",
+    "bookId": 11,
+    "id": "SRT6B011",
+    "subjectName": "Pendidikan Muzik Sjkc (semakan 2017)",
+    "displayName": "Pendidikan Muzik Sjkc (semakan 2017)",
+    "silibusCode": "SJKC",
+    "silibusName": "Sekolah Jenis Kebangsaan Cina",
+    "schoolLevelName": "Sekolah Rendah",
+    "studentLevelName": "Tahun 6",
+    "dlpStatus": false,
+    "bookStatus": "Buku Teks",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "https://drive.google.com/file/d/10UsQTvcwlaAdQqp62CtKAQiHZMnm5XCM/view?usp=drivesdk"
+    },
+    "coverColor": "#e74c3c"
+  },
+  {
+    "schoolLevel": "SR",
+    "studentLevel": "T6",
+    "bookId": 12,
+    "id": "SRT6B012",
+    "subjectName": "Pendidikan Seni Visual Sjkc (semakan 2017)",
+    "displayName": "Pendidikan Seni Visual Sjkc (semakan 2017)",
+    "silibusCode": "SJKC",
+    "silibusName": "Sekolah Jenis Kebangsaan Cina",
+    "schoolLevelName": "Sekolah Rendah",
+    "studentLevelName": "Tahun 6",
+    "dlpStatus": false,
+    "bookStatus": "Buku Teks",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "https://drive.google.com/file/d/1JuuVdI5H5SrAxovfosQB8XTfqK5xAum-/view?usp=drivesdk"
+    },
+    "coverColor": "#e74c3c"
+  },
+  {
+    "schoolLevel": "SR",
+    "studentLevel": "T6",
+    "bookId": 13,
+    "id": "SRT6B013",
+    "subjectName": "Reka Bentuk DAN Teknologi Sjkc (semakan 2017)",
+    "displayName": "Reka Bentuk DAN Teknologi Sjkc (semakan 2017)",
+    "silibusCode": "SJKC",
+    "silibusName": "Sekolah Jenis Kebangsaan Cina",
+    "schoolLevelName": "Sekolah Rendah",
+    "studentLevelName": "Tahun 6",
+    "dlpStatus": false,
+    "bookStatus": "Buku Teks",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "https://drive.google.com/file/d/1DKUs9wy0KCZRVynZ52-zVkfiEUMXlNVi/view?usp=drivesdk"
+    },
+    "coverColor": "#e74c3c"
+  },
+  {
+    "schoolLevel": "SR",
+    "studentLevel": "T6",
+    "bookId": 14,
+    "id": "SRT6B014",
+    "subjectName": "Reka Bentuk DAN Teknologi Sjkc (semakan 2017)",
+    "displayName": "Reka Bentuk DAN Teknologi Sjkc (semakan 2017)",
+    "silibusCode": "SJKC",
+    "silibusName": "Sekolah Jenis Kebangsaan Cina",
+    "schoolLevelName": "Sekolah Rendah",
+    "studentLevelName": "Tahun 6",
+    "dlpStatus": false,
+    "bookStatus": "Buku Teks",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "https://drive.google.com/file/d/1c70bnjZdh3GPUCmia9-Xz2M6pW_MrNX-/view?usp=drivesdk"
+    },
+    "coverColor": "#e74c3c"
+  },
+  {
+    "schoolLevel": "SR",
+    "studentLevel": "T6",
+    "bookId": 15,
+    "id": "SRT6B015",
+    "subjectName": "Sains Sjkc (semakan 2017)",
+    "displayName": "Sains Sjkc (semakan 2017)",
+    "silibusCode": "SJKC",
+    "silibusName": "Sekolah Jenis Kebangsaan Cina",
+    "schoolLevelName": "Sekolah Rendah",
+    "studentLevelName": "Tahun 6",
+    "dlpStatus": false,
+    "bookStatus": "Buku Teks",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "https://drive.google.com/file/d/1GWEgfUMYDGu2ArSWn4Kcd7amZjeRIHuE/view?usp=drivesdk"
+    },
+    "coverColor": "#e74c3c"
+  },
+  {
+    "schoolLevel": "SR",
+    "studentLevel": "T6",
+    "bookId": 16,
+    "id": "SRT6B016",
+    "subjectName": "Sains Sjkc (semakan 2017)",
+    "displayName": "Sains Sjkc (semakan 2017)",
+    "silibusCode": "SJKC",
+    "silibusName": "Sekolah Jenis Kebangsaan Cina",
+    "schoolLevelName": "Sekolah Rendah",
+    "studentLevelName": "Tahun 6",
+    "dlpStatus": false,
+    "bookStatus": "Buku Teks",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "https://drive.google.com/file/d/1qG4xVxy5JmRxavluVXmOBnIZdTmhBoOe/view?usp=drivesdk"
+    },
+    "coverColor": "#e74c3c"
+  },
+  {
+    "schoolLevel": "SR",
+    "studentLevel": "T6",
+    "bookId": 17,
+    "id": "SRT6B017",
+    "subjectName": "Sejarah Sjkc (semakan 2017)",
+    "displayName": "Sejarah Sjkc (semakan 2017)",
+    "silibusCode": "SJKC",
+    "silibusName": "Sekolah Jenis Kebangsaan Cina",
+    "schoolLevelName": "Sekolah Rendah",
+    "studentLevelName": "Tahun 6",
+    "dlpStatus": false,
+    "bookStatus": "Buku Teks",
+    "downloads": {
+      "telegram": "#",
+      "pdf": "#",
+      "gdrive": "https://drive.google.com/file/d/12B057uLdmBU6jWotAu99tj53CNcdnTD-/view?usp=drivesdk"
+    },
+    "coverColor": "#e74c3c"
+  }
+]
